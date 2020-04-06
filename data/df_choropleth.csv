@@ -1,0 +1,405 @@
+location,latitude,longitude,place(s) visited
+"Adkins, Texas",29.393012899999995,-98.23723290000001,Texas Pride Bbq
+"Aiea, Hawaii",21.382222199999998,-157.9336111,The Alley Restaurant At Aiea Bowl
+"Alameda, California",37.6090291,-121.899142,Scolari's Good Eats
+"Albuquerque, New Mexico",35.0841034,-106.6509851,"Bocadillos, The Cube, Torinos, Golden Crown Restaurant, Bocadillas: Slow Roasted Sandwich Shop, Cecilia's Café, Monte Carlo Steak House, Golden Crown Panaderia, Nexus Brewery, Sophia's Place, Standard Diner"
+"Allston, Massachusetts",42.3554344,-71.13212709999999,"Lone Star Taco Bar, Deep Ellum"
+"Alsip, Illinois",41.6689223,-87.73866190000001,Frosted Mug
+"Anaheim, California",33.8347516,-117.911732,Mama Cozza's
+"Ann Arbor, Michigan",42.268156899999994,-83.7312291,Krazy Jim's Blimpy Burger
+"Annapolis, Maryland",38.9786401,-76.492786,"Galway Bay Irish Pub, Davis' Pub"
+"Arlington, Texas",32.701939,-97.105623790337,"Prince Lebanese Grill, Taste Of Europe, Jamaica Gates Caribbean Cuisine, Chop House Burgers"
+"Arlington, Virginia",38.890396100000004,-77.0841585,Metro 29 Diner
+"Ashland, Oregon",42.1972487,-122.71539950000002,"Blue Toba, Agave"
+"Astoria, New York",40.772014500000004,-73.9302673,Queen's Comfort
+"Atlanta, Georgia",33.749098700000005,-84.39018490000001,"Joy Cafe, Rreal Tacos, Greens & Gravy, Pijiu Belly, Colonnade, Hankook Taqueria, Fox Bros Bar-B-Q, The Silver Skillet, The General Muir, Folk Art, Wrecking Bar Brewpub, Buttermilk Kitchen, Cabbage Town Market, The Highlander, Twisted Soul Cookhouse & Pours"
+"Atlantic Beach, Florida",30.342165,-81.37037027731958,"Culhane's Irish Pub, Singleton's Seafood Shack"
+"Atlantic City, New Jersey",39.364285200000005,-74.42293509999999,"Vagabond Kitchen & Tap House, Kelsey & Kim's Southern Cafe"
+"Attleboro, Massachusetts",41.9438129,-71.2806515,Morin's Hometown Bar & Grill
+"Austin, Texas",30.2711286,-97.7436995,"Onetaco, Counter Cafe, Slab Bbq & Beer, Maria's Taco Express, Noble Pig Sandwiches, Boteco, Valentina's, Foreign & Domestic, Green Mesquite, Magnolia Café, Luke's Inside Out, Holy Roller, Casino El Camino, Pieous"
+"Bainbridge Island, Washington",47.6262725,-122.5209287,Big Star Diner
+"Baker, California",35.0421963,-117.6675604,The Mad Greek Cafe
+"Bakersfield, California",35.3738712,-119.01946389999999,"Mama Roomba, Athena's Greek Cafe & Bakery, Kc Steakhouse, Salty's Bbq & Catering, Moo Creamery, La Santisima Gourmet Taco Shop, Pyrenees Cafe, 24Th Street Cafe, Muertos Kitchen & Lounge"
+"Baltimore, Maryland",39.2908816,-76.610759,"Joe Squared Pizza, Di Pasquale's, Johnny Rad's, Swallow At The Hollow, Slainte Irish Pub And Restaurant, Grano's Pasta Bar, Clementine, Alewife Baltimore, Miss Shirley's Cafe, Broadway Diner, Stoney Creek Inn, Blue Moon Café, G&A Restaurant, Brick Oven Pizza, Sip & Bite Restaurant, Jimmy's Famous Seafood, The Smoking Swine, Chaps Pit Beef"
+"Barcelona, Spain",41.3828939,2.1774322,"Pulperia A Gudiña, Bar Morryssom, Can Conesa, Can Vilaro, El Pacifico, Cal Boter"
+"Barnegat Light, New Jersey",39.757620200000005,-74.10624659999999,Mustache Bill's
+"Baxter Springs, Kansas",37.02367589999999,-94.73550420000001,Café On The Route
+"Bayport, Minnesota",45.0212648,-92.7813238,Bayport Bbq
+"Bellevue, Kentucky",39.106707799999995,-84.48264820000001,Virgil's Café
+"Belmar, New Jersey",40.1784471,-74.0218037,"10Th Avenue Burrito, 10Th Ave Burrito Co"
+"Berkeley, California",37.8708393,-122.27286389999999,"900 Grayson Restaurant, Meal Ticket, Rick & Ann's Restaurant, Bette's Oceanview Diner"
+"Blawnox, Pennsylvania",40.49340170000001,-79.86060529999999,Starlite Lounge
+"Boise, Idaho",43.6166163,-116.20088600000001,"Pizzalchik, Bar Gernika, Chef Lou's Westside Drive-In, Don's Hilltop Kodiak Grill, Donnie Mac's Trailer Park Cuisine"
+"Boston, Massachusetts",42.3602534,-71.0582912,"Casa Razdora, Sam Lagrassa's, Mike's City Diner, Boston Burger Company, Saus, Cafe Polonia, Yankee Lobster Company, Blunch"
+"Boulder City, Nevada",35.978763799999996,-114.83377390000001,The Coffee Cup
+"Boulder, Colorado",40.0149856,-105.2705456,"Aloy Thai Cuisine, Foolish Craig's Café, Audrey Jane's Pizza Garage, The Sink, Zoe Ma Ma"
+"Boynton Beach, Florida",26.5256179,-80.0666026,"Flakowitz Of Boynton, Flakowitz Of Boynton Bakery & Deli Restaurant"
+"Bozeman, Montana",45.679429299999995,-111.04404740000001,"Roost Fried Chicken, Storm Castle Cafe"
+"Bradenton, Florida",27.4989278,-82.5748194,Jose's Real Cuban Food
+"Bridgeport, Connecticut",41.1670412,-73.2048348,Merritt Canteen Inc.
+"Brigantine, New Jersey",39.4101171,-74.3645906,Ernest & Son
+"Brighton, Colorado",39.90699075,-104.83740644981584,Lauer-Krauts
+"Bronx, New York",40.8466508,-73.87859370000001,Mo Gridder's Bbq
+"Brookline, Massachusetts",42.3317642,-71.1211635,Cutty's
+"Brooklyn, New York",40.6501038,-73.9495823,"Pies 'N' Thighs, Defonte's Sandwich Shop, The Smoke Joint, Sidecar, Jimmy's Diner"
+"Buffalo, New York",42.8867166,-78.87839220000001,"Lake Effect Diner, Sophia Restaurant, Blackthorn Restaurant & Pub"
+"Burbank, California",34.181648200000005,-118.3258554,Chili John's
+"Burbank, Illinois",41.741406,-87.7686078,Chuck's Southern Comforts Café
+"Cable, Wisconsin",46.2080081,-91.2921295,The Brick House Cafe And Catering
+"Cabo San Lucas, Mexico",22.893888399999998,-109.92006040000001,"Asi Y Asado, Solomon's Landing, Tiki Bar"
+"Cambridge, Massachusetts",42.3750997,-71.1056157,"Tupelo, Greek Corner Restaurant, Mr. Bartley's Gourmet Burgers"
+"Camden, London, UK",51.5423045,-0.1395604,Hook Camden Town
+"Cancun, Mexico",21.1617854,-86.8510468,"El Rincon De Los Antojos, El Fish Fritanga, The Surfin' Burrito, Mora Mora, Pinchez Tacos"
+"Cape May, New Jersey",39.1765386,-74.80121190000001,George's Place
+"Carlsbad, California",33.158093300000004,-117.3505966,Spirito's Italian Diner
+"Carmel, California",38.75511285,-121.35330894827251,From Scratch Restaurant
+"Carmel, Indiana",39.978801700000005,-86.11892569999999,Jersey Café
+"Carmel-by-the-Sea, California",36.555238700000004,-121.92328789999999,Little Napoli
+"Cathedral City, California",33.822998049999995,-116.46687024271161,Zobo & Meester's
+"Chaffee, New York",42.5681176,-78.4789091,Earl's Drive-In
+"Champlin, Minnesota",45.1888539,-93.3974538,Q Fanatic Bbq
+"Chandler, Arizona",33.3062223,-111.8413317,Aunt Lena's Creamery
+"Charleston, South Carolina",32.7876012,-79.9402728,"The Early Bird Diner, The Glass Onion, Dixie Supply Bakery & Cafe, Tattooed Moose, Fuel Cantina"
+"Charlotte, North Carolina",35.2270869,-80.8431268,"Pinky's Westside Grill, Fud At Salud, Jj's Red Hots, South 21 Drive In, Landmark Restaurant, Papi Queso Food Truck, Pit Road Bar & Grill, Cabo Fish Taco, Mert's Heart & Soul, Bang Bang Burgers, The Improper Pig, Intermezzo Pizzeria And Cafe, The Tin Kitchen Food Truck, Barbecue King Drive-In, South 21 Drive-In, Heist Brewery, Jake's Good Eats, The Penguin, Krazy Fish, 300 East, Dish"
+"Chatham, New Jersey",40.7409242,-74.38367109999999,Marie's Italian Specialties
+"Chesterfield, Missouri",38.661953000000004,-90.56432579999999,Espino's Mexican Bar And Grill
+"Chicago, Illinois",41.875561600000005,-87.6244212,"Taste Of Peru, Garifuna Flava, Smoque, Kuma's Corner, White Palace Grill, Mfk, Glenn's Diner, Panozzo's Italian Market, Dmk Burger Bar, Sun Wah Bbq, Tufano's Vernon Park Tap, Galewood Cook Shack, Tre Kronor, Bella Luna Cafe, Manny's Cafeteria And Delicatessen, Big & Littles, Del Seoul, Chilam Balam, Nana Organic, Chicago Brauhaus, The Original Vito & Nick's Pizzeria, 90 Miles Cuban Cafe, Honky Tonk Bbq, Hopleaf Bar, Cemitas Puebla, Irazu, Saucy Porka, Bopngrill, The Depot American Diner"
+"Chico, California",39.728494500000004,-121.8374777,"The Banshee, Momona, Grana, Sin Of Cortez, Upper Crust Bakery & Cafe"
+"Cincinnati, Ohio",39.1014537,-84.5124602,"Taste Of Belgium, Blue Ash Chili Restaurant, Melt Eclectic Cafe, Island Frydays, Senate Pub, Bakersfield Otr, Pho Lang Thang, Terry's Turf Club"
+"Clarkston, Michigan",42.735863,-83.4188304,"Clarkston Union Bar & Kitchen, Union Wood Shop, Union Woodshop"
+"Cleveland, Ohio",41.5051613,-81.6934446,"Sterle's Slovenian Country House, Geraci's Restaurant, Parkview Nightclub, Lucky's Café, Momocho"
+"Clifton, New Jersey",40.858432799999996,-74.16375529999999,Tick Tock Diner
+"Cloquet, Minnesota",46.7216102,-92.45935659999999,Gordy's Hi-Hat
+"Coeur d'Alene, Idaho",47.6742994,-116.7811531,"Capone's Pub, Jimmy's Down The Street"
+"Colorado Springs, Colorado",38.8339578,-104.8253485,"Mountain Shadows Restaurant, Front Range Barbeque, Parvicini's Italian Bistro, Spice Island Grill, Rasta Pasta, Pig Latin (Food Truck), Skirted Heiffer"
+"Columbia, South Carolina",34.000749299999995,-81.03433129999999,Pawley's Front Porch
+"Columbus, Ohio",39.9622601,-83.00070649999999,"Ray Ray's Hog Pit, Ena's Caribbean Kitchen, Sweet Carrot, Loops, Pierogi Mountain, Momo Ghar"
+"Compton, California",33.894927,-118.226624,Bludso's Bbq
+"Coral Gables, Florida",25.72149,-80.2683838,The Local
+"Coraopolis, Pennsylvania",40.5184013,-80.1667247,Lobello's Spaghetti House
+"Cranston, Rhode Island",41.7809588,-71.4371257,Edgewood Cafe
+"Culver City, California",34.021122399999996,-118.3964665,Tubs Fine Chili
+"Dallas, Texas",32.7762719,-96.7968559,"Cane Rosso, Avila's Café, Twisted Root Beer Co., Maple & Motor, Whistle Britches, Crushcraft Thai Street Eats, Louie's, Pepe's And Mito's, Tutta's Pizza, Tacos Mariachi, Nora Restaurant And Bar, One90 Smoked Meats, Pecan Lodge"
+"Dania Beach, Florida",26.050783950000003,-80.14612392627231,Grampa's Bakery & Restaurant
+"Daphne, Alabama",30.6035255,-87.9036047,Manci's Antique Club
+"Deerfield Beach, Florida",26.318341999999998,-80.0996306,Whale's Rib
+"Delta, Wisconsin",46.4731565,-91.2705137,Delta Diner
+"Denver, Colorado",39.7392364,-104.98486229999999,"The Bagel Delicatessen & Restaurant, Hops & Pie, Cafe Brazil, Steuben's Food Service, Axios Estiatorio, Bang!, Sam's No. 3, Tocabe American Indian Eatery, Atomic Cowboy, Biju's Little Curry Shop, Prohibition, Highland Tavern, Dae Gee Korean Bbq, Corafaye's Café, Maria Empanada"
+"Des Moines, Iowa",41.5910641,-93.60371490000001,"George The Chili King Drive-In, Smokey D's Bbq, Flying Mango, Tacopocalypse, Patton's Restaurant & Catering"
+"Des Plaines, Illinois",42.041582299999995,-87.8873916,Paradise Pup
+"Detroit, Michigan",42.331550899999996,-83.04664029999999,"Supino Pizzeria, Traffic Jam & Snug"
+"Duck, North Carolina",36.169608000000004,-75.7551854,Cravings
+"Duluth, Minnesota",46.77293220000001,-92.1251218,"Northern Waters Smokehaus, Duluth Grill, At Sara's Table Chester Creek Café, Pak's Green Corner, Gannucci's Italian Market"
+"Dundalk, Maryland",39.2574114,-76.5236745,Boulevard Diner
+"Eagle Rock, California",34.1366877,-118.20767959999999,The Oinkster
+"East Amherst, New York",43.0183913,-78.696697,Grover's Bar & Grill
+"East Boston, Massachusetts",42.3750973,-71.03921729999999,"Italian Express Pizzeria, Rino's Place, Angela's Cafe"
+"East Providence, Rhode Island",41.813711600000005,-71.37005450000001,Italian Corner
+"Edison, New Jersey",40.5382375,-74.39451734508772,Skylark Diner
+"Elkridge, Maryland",39.2128338,-76.7137155,R&R Taqueria
+"Emeryville, California",37.8314089,-122.28652659999999,Rudy's Can'T Fail Cafe
+"Essex, Massachusetts",42.6320389,-70.7828255,Jt Farnham's Seafood & Grill
+"Eugene, Oregon",44.0505054,-123.09505060000001,"Fisherman's Market, Papa's Soul Food Kitchen And Bbq, Soup Nation, Cornbread Cafe, The Sandwich League"
+"Eureka, California",40.80207120000001,-124.16367290000001,"Bless My Soul, Brick & Fire, Paul's Live From New York, Café Nooner"
+"Everett, Washington",47.9673056,-122.20139979999999,Bobby's Hawaiian Style Restaurant
+"Fairbanks, Alaska",64.837845,-147.716675,Big Daddy's Bbq & Banquet
+"Fairfield, Connecticut",41.294306899999995,-73.37486,"Super Duper Weenie, Wilson's Holy Smoke Bbq"
+"Fairhope, Alabama",30.507956,-87.89742922432941,"Panini Pete's, Sunset Pointe, Gumbo Shack"
+"Fall River, Massachusetts",41.701064200000005,-71.15463670000001,Patti's Pierogis
+"Falls Church, Virginia",38.882334,-77.17109140000001,Lacaraquena
+"Falmouth, Massachusetts",41.5514979,-70.6147519,"Pickle Jar Kitchen, Parkside Market, Dana's Kitchen"
+"Ferndale, California",40.576240999999996,-124.263944,"Ivanhoe, Pretzel Cart, Ferndale Meat Co., Humboldt Sweets"
+"Ferndale, Michigan",42.4605917,-83.1346478,The Fly Trap
+"Firenze, Italy",43.769871200000004,11.2555757,"Fratelli Briganti, Il Gusta Pizza, La Cucina Del Garga"
+"Flagstaff, Arizona",35.19875220000001,-111.6518229,"Salsa Brava, Fat Olives, Brandy's Restaurant & Bakery"
+"Forestville, California",38.483340500000004,-122.86158427486583,The Russian River Pub
+"Fort Collins, Colorado",40.5508527,-105.0668085,"The Lodge Sasquatch Kitchen, Restaurant 415"
+"Fort Worth, Texas",32.753177,-97.3327459,Fred's Texas Café
+"Fortuna, California",40.597407000000004,-124.156034,Clendenen's Cider Works
+"Fountain Valley, California",33.7038145,-117.96273490000002,Paul's Coffee Shop
+"Frankfort, Kentucky",38.2009055,-84.8732836,Rick's White Light Diner
+"Franklin, Tennessee",35.925193,-86.8689365,55 South
+"Gaffney, South Carolina",35.0717945,-81.64981949999999,Harold's Café
+"Garden Grove, California",33.7746292,-117.9463717,Sabroso Mexican Grill
+"Gardena, California",33.8963593,-118.3053037,Jay Bee's Bar-B-Que
+"Gardiner, Maine",44.230441,-69.775543,A1 Diner
+"Georgetown, Texas",30.6665525,-97.6779637977368,Monument Cafe
+"Geyserville, California",38.707687,-122.90249640000002,Catelli's
+"Gilbert, Arizona",33.3527632,-111.78903729999999,"Joe's Farm Grill, Sal's Gilbert Pizza, Grubstak"
+"Glendale, Arizona",33.5386858,-112.18599409999999,"Thee Pitts Again, La Piazza Al Forno, Haus Murphy's"
+"Glendale, California",34.146941600000005,-118.24784709999999,Mambos Café
+"Glenview, Illinois",42.0700662,-87.81140440000001,Hackney's
+"Goshen, Indiana",41.5824086,-85.834366,South Side Soda Shop And Diner
+"Gulfport, Mississippi",30.367419800000004,-89.0928155,Blow Fly Inn
+"Hackensack, New Jersey",40.8871438,-74.0410865,White Manna Hamburgers
+"Haleiwa, Hawaii",21.5935975,-158.1044696531065,"Big Wave Shrimp Truck, Opal Thai Food"
+"Hamilton Township, New Jersey",40.2041625,-74.67932438979872,Jersey Girl Cafe
+"Hamtramck, Michigan",42.3928151,-83.0496438,Polish Village Café
+"Hatboro, Pennsylvania",40.1746252,-75.106825,Daddypops
+"Havana, Cuba",23.135305,-82.3589631,"Nazdarovie, El Figaro, Restaurante Fonda Paladar La Paila, La Catedral, Casa Abel, Al Carbon"
+"Healdsburg, California",38.6298355,-122.85900211842106,Jimtown Store
+"Hendersonville, Tennessee",36.304917700000004,-86.621443,"Café Rakka, Center Point Pit Barbecue"
+"Hernando, Mississippi",34.823987,-89.9937018,Memphis Street Cafe
+"Hightstown, New Jersey",40.2695538,-74.5232089,Hightstown Diner
+"Hoboken, New Jersey",40.7433066,-74.0323752,La Isla Restaurant
+"Holladay, Utah",40.668836299999995,-111.82465570000001,Oh Mai
+"Hollywood, California",34.0980031,-118.32952320000001,Delancey Pizzeria & Bar
+"Hollywood, Florida",26.0112014,-80.1494901,Sonny's Famous Steak Hogies
+"Honolulu, Hawaii",21.304547,-157.8556764,"Rainbow Drive-In, Jawaiian Irie Jerk Restaurant, Nico's Pier 38, Fresh Catch, Hank's Haute Dogs, Murphy's Bar & Grill"
+"Horn Lake, Mississippi",34.955371899999996,-90.0348139,Memphis Barbecue Co.
+"Houston, Texas",29.7589382,-95.36769740000001,"Café Pita+, Red Lion Pub & Restaurant, Niko Niko's, Cafe Lili, Cool Runnings Jamaican Grill, Kenny & Ziggy's, Lankford Grocery, Cuchara Restaurant, Irma's Original, The Original Marini's Empanada House"
+"Huntington, West Virginia",38.41924960000001,-82.445154,Central City Cafe
+"Hyde Park, New York",41.7847232,-73.93324609999999,Eveready Diner
+"Indian Rocks Beach, Florida",27.891338,-82.84518880012078,Keegan's Seafood Grille
+"Indianapolis, Indiana",39.7683331,-86.1583502,"Zest, The Tamale Place, 3 Sisters Café, The Barking Dog, Indy's Historic Steer-In Restaurant"
+"Irvine, California",33.685696899999996,-117.82598190000002,Chomp Chomp Nation
+"Islamorada, Florida",24.9242995,-80.62784040000001,"Islamorada Shrimp Shack, Green Turtle Inn, M.E.A.T. Eatery And Tap Room"
+"Jackson, Wyoming",43.479965,-110.76181499999998,"Cafe Genevieve, Lotus Cafe, Sidewinder's American Grill, Pinky G's Pizzeria, Pica's Mexican Taqueria"
+"Jacksonville, Florida",30.3321838,-81.655651,"13 Gypsies, Metro Diner"
+"Jarvisburg, North Carolina",36.202939,-75.8665816,The Weeping Radish
+"Jefferson, Louisiana",29.8502657,-90.12938940000001,The Rivershack Tavern
+"Jersey City, New Jersey",40.7281575,-74.0776417,Brownstone Diner
+"Junction City, Oregon",44.2191935,-123.2047857,Junkyard Extreme Burgers And Brats
+"Kahului, Hawaii",20.8747708,-156.4529829390927,"Maui Fresh Streatery, Like Poke, Da Kitchen, Thai Mee Up, Brigit & Bernard's Garden Cafe"
+"Kailua, Hawaii",21.394833,-157.7298913466187,"Boot's And Kimo's Homestyle Kitchen, Camille's On Wheels"
+"Kailua-Kona, Hawaii",19.641941,-155.996933,"Original Thai, Foster's Kitchen, Broke Da Mouth Grindz, Umekes Fishmarket Bar & Grill, Kanaka Kava, Island Lava Java"
+"Kaneohe, Hawaii",21.418554999999998,-157.80418400000002,"He'Eia Kea Pier General Store And Deli, Dean's Drive Inn, Mike's Huli Huli Chicken"
+"Kansas City, Kansas",39.1134562,-94.626497,Woodyard Bar-B-Que
+"Kansas City, Missouri",39.100105,-94.5781416,"39Th Street Mama's, Grinders Pizza, Danny Edward's Bbq, Happy Gillis Café & Hangout, Blue Koi, Succotash, Pot Pie, Bb's Lawnside Bbq, Swagger Fine Spirits & Food, Smokin Guns Bbq & Catering, Cupini's, Yj's Snack Bar, The Brick, Potpie"
+"Kapolei, Hawaii",21.3339504,-158.07718530000002,Germaine's Luau
+"Kauai, Hawaii",22.050466550000003,-159.55876775017003,Tahini Nui
+"Kealakekua, Hawaii",19.517727999999998,-155.921402,Rebel Kitchen
+"Kemah, Texas",29.542729700000002,-95.0204837,T-Bone Tom's Steakhouse
+"Kendale Lakes, Florida",25.70633095,-80.40687177880208,Jamaica Kitchen
+"Kennewick, Washington",46.2087066,-119.1199192,Barley's Brewhub
+"Kenosha, Wisconsin",42.584677299999996,-87.82122629999999,Frank's Diner
+"Kenwood, California",38.4138005,-122.54609350000001,Café Citti
+"Key Largo, Florida",25.091338,-80.46777414781022,"Digiorgio's Cafe Largo, The Fish House, Pilot House Marina & Restaurant"
+"Key West, Florida",24.5625566,-81.77243680000001,"Dj's Clam Shack, Badboy Burrito, Garbo's Grill"
+"Kihei, Hawaii",20.7476261,-156.4549898,"Three's Bar And Grill, Miso Phat Sushi, The Outrigger Pizza Company, Maui Brick Oven, Fat Daddy's Smokehouse"
+"Kill Devil Hills, North Carolina",36.0307227,-75.67601009999998,Outer Banks Brewing Station
+"Kittery, Maine",43.088448,-70.736847,Bob's Clam Hut
+"Kitty Hawk, North Carolina",36.0664318,-75.6935448,Black Pelican Oceanfront Restaurant
+"Knoxville, Tennessee",35.960394799999996,-83.92102609999999,Pizza Palace
+"Lackawanna, New York",42.81909025,-78.833717479075,Mulberry Café
+"Lahaina, Hawaii",20.873876899999996,-156.6776784,"Fleetwood's On Front St., Star Noodle, Down The Hatch Maui"
+"Lake Hopatcong, New Jersey",40.904011,-74.665452,Jefferson Diner
+"Lake Worth, Florida",26.615890999999998,-80.06914350000001,Havana Hideout
+"Lakewood, Ohio",41.481993200000005,-81.7981908,Melt Bar & Grilled
+"Lansing, Michigan",42.73377120000001,-84.5553805,"Capital City Bbq, Zaytoon Mediterranean, Meat Southern Bbq & Carnivore Cuisine, Eastside Fish Fry & Grill, The Cosmos"
+"Las Vegas, Nevada",36.1672559,-115.1485163,"Guy Fieri's Kitchen And Bar, Yayo Taco, John Mull's Road Kill Grill, Those Guys Pies, Unlv, Lola's – A Louisiana Kitchen, Osaka Japanese Bistro, Crepe Expectations, Fat Choy, John Mull's Meats And Road Kill Grill, Forte European Tapas Bar & Bistro, Naked City Pizza, Bachi Burger, Four Kegs Sports Pub"
+"Leeds Point, New Jersey",39.4920619,-74.42903790000001,Oyster Creek Inn
+"Lesage, West Virginia",38.5064731,-82.2984823,Hillbilly Hot Dogs
+"Leucadia, California",33.0692223,-117.302681,Haggo's Organic Taco
+"Lexington, Kentucky",38.0464066,-84.4970393,"J.J. Mcbrewster's, Parkette Drive In"
+"Lexington, South Carolina",33.898684100000004,-81.275054,"Farmer's Shed, The Farmer's Shed"
+"Linden, New Jersey",40.6220478,-74.2445902,Bay Way Diner
+"Little Rock, Arkansas",34.7464809,-92.2895948,"North Bar, The Fold: Botanas & Bar, La Terraza Rum Longe, Bruno's Little Italy, The Root Cafe"
+"Livingston, New Jersey",40.795933500000004,-74.3148713,The Ritz Diner
+"Loleta, California",40.640867799999995,-124.22447290000001,Loleta Cheese Shop
+"London, UK",51.5073219,-0.1276474,"Grillstock, Bird Of Smithfield"
+"Long Beach, California",33.7690164,-118.1916048,"At Last Cafe, Schooner Or Later, Tavern On 2, Factory Gastrobar, The Starling Diner, At Last Café"
+"Long Beach, Mississippi",30.3504751,-89.15281759999999,Darwell's Café
+"Longmont, Colorado",40.1672117,-105.1019287,"Samples Restaurant, The Post Brewing Company, The Roost"
+"Los Angeles, California",34.0536909,-118.2427666,"Jitlada Restaurant, Azla Ethiopian Vegan, Biergarten, Don Chow Tacos, Eastside Market Italian Deli, Mom's Tamales, Beer Belly, Chichen Itza Restaurant, Rutt's Hawaiian Cafe, The Golden State, Gloria's Café, The Park's Finest Bbq, Fat Sal's Deli, Cha Cha Chili, Belly & Snout, The Bun Shop, Harold & Belle's, The Little Jewel Of New Orleans, Polka Restaurant & Catering, La Tostaderia, Edibol, Nickel Diner, Horse Thief Bbq"
+"Louisville, Kentucky",38.254237599999996,-85.759407,"Gralehaus, Grind Burger Kitchen, The Table Cafe, Momma's Mustard, Pickles & Bbq, The Seafood Lady, Irish Rover"
+"Lucca, Italy",44.0176138,10.453151842727024,Port Ellen Clan
+"Manchester, Connecticut",41.78126995,-72.53062934076324,Corey's Catsup & Mustard
+"Manchester, New Hampshire",42.995639700000005,-71.4547891,Red Arrow Diner
+"Mandeville, Louisiana",30.358230499999998,-90.0657477,Louie & The Red Head Lady
+"Manhattan Beach, California",33.8915985,-118.39512409999999,"North End Caffe, North End Café"
+"Manhattan, New York",40.7896239,-73.9598939,"Gazala's Place, Duck's Eatery, Mama's Food Shop, Brindle Room, Don Antonio By Starita, Black Tree, The Redhead, John's Of 12Th Street"
+"Manteo, North Carolina",35.9082257,-75.6757303,Ortegaz' Southwestern Grill
+"Marietta, Georgia",33.9528472,-84.54961479999999,Marietta Diner
+"Memphis, Tennessee",35.1490215,-90.0516285,"Cozy Corner, Marlowe's Ribs, South Of Beale (Sob), Alcenia's, The Elegant Farmer, Tom's Bar-B-Q, Leonard's Bbq, Three Angels Diner, Uncle Lou's, Little Tea Shop"
+"Meridian, Idaho",43.6086295,-116.392326,"Rick's Press Room & Grill, Rick's Press Room Grill & Bar"
+"Merrick, New York",40.65224600000001,-73.55127940021694,The Pit Stop
+"Mesa, Arizona",33.4151117,-111.8314773,"Republica Empanada, Aloha Kitchen"
+"Miami Beach, Florida",25.7929198,-80.1353006,"11Th Street Diner, Tap Tap Haitian Restaurant, Lou's Beer Garden, Hofbrau Beer Hall, Taquiza"
+"Miami, FL",25.7742658,-80.1936589,Scully's Tavern
+"Miami, Florida",25.7742658,-80.1936589,"Sakaya Kitchen, Blue Collar, Milly's Empanada Factory, Miami Smokers, Doce Provisions, La Camoronera Restaurant & Fish Market, Scully's Tavern, Mr. & Mrs. Bun, Whisk Gourmet, Mojo Donuts And Fried Chicken, Blackbrick, The Federal, Loba Restaurant, Latin House Grill"
+"Middletown, Connecticut",41.562317799999995,-72.6509061,O'Rourke's Diner
+"Middletown, Rhode Island",41.5456578,-71.2914388,Anthony's Seafood
+"Mililani, Hawaii",21.450830800000002,-158.00957830000002,Poke Stop At Mililana Mauka Llc.
+"Milwaukee, Wisconsin",43.0349931,-87.92249699999999,"Comet Cafe, Cempazuchi, Comet Café"
+"Minneapolis, Minnesota",44.9772995,-93.2654692,"Modern Café, Emily's Lebanese Deli, Broders' Cucina Italiana, Marla's Caribbean Cuisine, Gandhi Mahal Restaurant, North Bound Smokehouse And Brewpub, Kramarczuk's, Kramarczuk Sausage Company, Prairie Dogs, Surly Brewing Company, Victor's 1959 Café, Bryant-Lake Bowl, Pizzeria Lola, Buster's On 28Th, Holy Land, Colossal Café, Town Talk Diner, Unideli, Red Wagon Pizza Company, Emily's Lebanese Delicatessen, George And The Dragon, The Herbivorous Butcher, Psycho Suzie's Motor Lounge, The Wienery, Smack Shack At The 1029 Bar, Nye's Polonaise Room, Al's Breakfast"
+"Mission, Kansas",39.0277832,-94.65579140000001,"Rj's Bob-Be-Que Shack, Johnny's Bar-B-Q"
+"Modesto, California",37.6390972,-120.99687820000001,"Commonwealth, Food Fix Truck, Bauer's 66 1/2"
+"Montecatini Terme, Italy",43.883179,10.7709533,Windows On The World (Ristorante Wow)
+"Monterey, California",36.223107899999995,-121.38774280000001,"Monterey Fish House, Cannery Row Brewing Company, Loulou's Griddle In The Middle, Wild Plum Cafe & Bistro, Rosine's Restaurant"
+"Mooresville, Indiana",39.61282429999999,-86.37416,Zydeco's
+"Nags Head, North Carolina",35.957392299999995,-75.624062,"Brine And Bottle, Tortugas' Lie"
+"Napa, California",38.2971367,-122.28552930000001,Eight Noodle Shop
+"Narragansett, Rhode Island",41.4501021,-71.4495005,"Crazy Burger Cafe & Juice Bar, Crazy Burger Café & Juice Bar, Aunt Carrie's"
+"Nashville, Tennessee",36.1622296,-86.7743531,"The Grilled Cheeserie, Caffe Nonna, Phat Bites, Jamaicaway, Mas Tacos Por Favor, Mas Tacos, Savarino's Cucina, Arnold's Country Kitchen, Bro's Cajun Cuisine, Athens Family Restaurant"
+"New Orleans, Louisiana",29.949932300000004,-90.0701156,"Mahoney's Po-Boy Shop, Surrey's Cafe, The Old Coffee Pot Restaurant, Bourrée, Katie's Restaurant, Parasol's, Sammy's Food Services & Deli, Sammy's Food Service & Deli, Parasol's Restaurant & Bar, The Creole Creamery, Red's Chinese, Joey K's Restaurant & Bar, Surrey's Café, Avery's On Tulane, Piece Of Meat, Casamento's Restaurant, Seither's Seafood, The Joint"
+"New York, New York",40.7127281,-74.0060152,"Don Antonio By Starita, Brindle Room, Black Tree"
+"Nolensville, Tennessee",35.9522852,-86.66944129999999,Martin's Bar-B-Que Joint
+"Norfolk, Virginia",36.846292299999995,-76.2929252,"The Grilled Cheese Bistro, Pendulum Fine Meats, The Dirty Buffalo, Get Fresh Café, Doumar's, Jessy's Tienda Y Taqueria, Alkaline"
+"Norman, Oklahoma",35.2225717,-97.4394816,The Diner
+"Norridge, Illinois",41.9633641,-87.82728399999999,Rex Italian Foods
+"North Kansas City, Missouri",39.1432057,-94.5733988,Smokin' Guns Bbq
+"North Little Rock, Arkansas",34.769535999999995,-92.2670941,Flyway Brewing
+"North Miami Beach, Florida",25.9331488,-80.1625463,"Blue Marlin Fish House Restaurant, Ivan's Cookhouse"
+"North Park, California",32.7483876,-117.1301564,Pizzeria Luigi
+"North Pole, Alaska",64.750997,-147.349319,Pagoda Restaurant
+"North Tonawanda, New York",43.038668,-78.86420340000001,Pizza Junction
+"North Vancouver, British Columbia",49.320713299999994,-123.0737831,Tomahawk Restaurant
+"Northfield, New Jersey",39.37039420000001,-74.5501546,Carluccio's Coal Fired Pizza
+"Norwalk, Connecticut",41.1175966,-73.4078968,Valencia Luncheria
+"Oakland, California",37.804455700000005,-122.27135630000001,"Souley Vegan, Southern Cafe, Clove And Hoof, Cosecha Cafe, Aunt Mary's Café, W.E.P.A.! At Brix 581"
+"Ocean Beach, California",32.7448067,-117.2476067,"Ob Noodle House, Hodad's"
+"Ocean City, NJ",39.277615600000004,-74.5746001,Piccini Wood Fired Brick Oven Pizza
+"Ocean Springs, Mississippi",30.4112904,-88.8279165,The Shed
+"Okarche, Oklahoma",35.7258795,-97.9764411,"Eischen's Bar & Grill, Eischen's Bar"
+"Okemos, Michigan",42.7220755,-84.42752320000001,The Purple Carrot
+Oklahoma City,35.4729886,-97.5170536,Mama E's
+"Oklahoma City, Oklahoma",35.4729886,-97.5170536,"Ingrid's Kitchen, Leo's Bbq, Nic's Grill, Cattlemen's Steakhouse"
+"Olive Hill, Kentucky",38.3000809,-83.1740654,Smokey Valley Truck Stop
+"Olympia, Washington",47.0451022,-122.89500749999999,"Darby's Cafe, Fish Tale Brew Pub"
+"Omaha, Nebraska",41.258745899999994,-95.93837579999999,"Joe Tess Place, Brewburger's, Big Mama's Kitchen & Catering, Amato's, California Tacos, Dixie Quicks"
+"Orange County, California",33.750037799999994,-117.87049309999999,Tamarindo Truck
+"Orlando, Florida",28.5421109,-81.3790304,"Willie's Pinchos, Saigon Noodle And Grill, The Pastrami Project, Mrs. Potato, Fat One's Hot Dogs And Italian Ice, The Meatball Stoppe, Se7En Bites Bakeshop"
+"Oxnard, California",34.1976308,-119.18038179999999,The Kitchen
+"Pacifica, California",37.613825299999995,-122.48691940000002,Gorilla Bbq
+"Palm Desert, California",33.7288179,-116.38257109999999,"Grill-A-Burger, Wilma & Frieda"
+"Palm Springs, California",33.8246269,-116.54030300000001,"Frankinbun, Sherman's Deli & Bakery"
+"Palo Alto, California",37.44432929999999,-122.15984650000001,Calafia Cafe
+"Paola, Kansas",38.57233179999999,-94.8786484,Bbq Shack
+"Park City, Utah",40.646063500000004,-111.4979741,"Sammy's Bistro, The Silver Star Café"
+"Pasco, Washington",46.2306739,-119.09210060000001,Vinny's Bakery
+"Peabody, Massachusetts",42.5278731,-70.92866090000001,The Little Depot Diner
+"Pescadero, California",23.369259,-110.172503,Duarte's Tavern
+"Philadelphia, Pennsylvania",39.9527237,-75.16352619999999,"Jamaican Jerk Hut, The Dining Car, Good Dog Bar & Restaurant, The Dining Car & Market, Silk City Diner, Memphis Taproom, Sidecar Bar And Grille, South Philadelphia Tap Room, Geechee Girl Rice Cafe, Standard Tap, Percy Street Barbecue, Honey's Sit-N-Eat"
+"Phoenix, Arizona",33.448436699999995,-112.07414170000001,"The Wild Thaiger, Los Tacquitos Grill, Matt's Big Breakfast, Over Easy, Barrio Cafe, The Duce, Chino Bandido, St. Francis, Paradise Valley Burger Company, Roberto's Mexican Food, Tacos Chiwas, Giuseppe's Restaurant"
+"Pineville, Pennsylvania",40.2962183,-75.0057242,Pineville Tavern
+"Pittsburgh, Pennsylvania",40.4416941,-79.99008609999998,"Big Jim's, Dor-Stop Restaurant, Nadine's Restaurant, Crystal Restaurant, Kelly O's Diner"
+"Plainsboro Township, New Jersey",40.3329935,-74.58525122985435,Bagel Street
+"Playa del Carmen, Mexico",20.630864300000002,-87.0779503,Guy Fieri's Playa Del Carmen Kitchen & Bar
+"Pleasantville, New Jersey",39.3898388,-74.5240422,Sam's Rialto Bar & Grill
+"Plymouth, Massachusetts",41.9426657,-70.7618592,"Driftwood Publick House & Oysteria, The Blue-Eyed Crab Caribbean Grill & Rum Bar"
+"Portland, Maine",43.6610277,-70.25485959999999,"Porthole Restaurant, Becky's Diner"
+"Portland, Oregon",45.5202471,-122.6741949,"Industrial Café & Saloon, Bunk Sandwiches, Edelweiss Sausage & Delicatessen, Matt's Bbq, Pdx671 Food Trailer, Arleta Library, Bakery & Café, Otto's Sausage, Swiss Hibiscus, The Country Cat, Podnah's Pit Barbeque, P's & Q's Market, Tails & Trotters, Byways Café, Ataula, Frank's Noodle House, Pine State Biscuits, Tin Shed Garden Cafe, Blueplate Lunch Counter & Soda Fountain, Pok Pok, Otto's Sausage Kitchen & Meat Market, The Original"
+"Portsmouth, New Hampshire",43.071755200000005,-70.7625532,"Street Food 360, Moxy, The Kitchen, Vida Cantina"
+"Portsmouth, Virginia",36.8678592,-76.37559852679193,"Moseberth's Fried Chicken, Harvey's Hot Dogs Ii"
+"Potterville, Michigan",42.629203000000004,-84.738874,Joe's Gizzard City
+"Princeton, New Jersey",40.3492744,-74.6592958,Jammin' Crepes
+"Providence, Rhode Island",41.8239891,-71.4128343,"Angelo's Civito Farnese, The Liberty Elm Diner, Mediterraneo Caffe, Louis Restaurant, Louis Family Restaurant"
+"Puyallup, Washington",47.184900899999995,-122.2921406,Crockett's Public House
+"Queens, New York",40.74982429999999,-73.7976337,"Bun-Ker Vietnamese, Tortilleria Nixtamal, Queen's Comfort, Ben's Best Deli, The Sparrow Tavern, Rincon Criollo, Sage General Store"
+"Ramona, California",33.041711199999995,-116.8680821,"Ramona Cafe, Ramona Café"
+"Raymond, New Hampshire",43.0361961,-71.18339509999998,Tuckaway Tavern & Butchery
+"Reno, Nevada",39.5261206,-119.81265810000001,"Gold ‘N Silver Inn, Dish Café & Catering, Gold 'N Silver Inn, Louis' Basque Corner"
+"Rescue, Virginia",36.9959815,-76.5605083,Captain Chuck A Mucks
+"Reseda, California",34.200078399999995,-118.53698840000001,Fab Hot Dogs
+"Richardson, Texas",32.9481789,-96.7297206,Afrah
+"Richfield, Minnesota",44.8766431,-93.2877877,Andale Taqueria & Mercado
+"Richland, Washington",46.28042979999999,-119.2752055,"Ethos Bakery & Cafe, Porter's Real Barbecue, Frost Me Sweet Bakery & Bistro, The Folded Pizza Pie"
+"Richmond, Virginia",37.53850870000001,-77.43428,"The Village Café, Dot's Back Inn"
+"Robbinsville, New Jersey",40.22382525,-74.58928428901504,Dolce & Clemente's
+"Rockford, Michigan",43.119721000000006,-85.55960400000001,Rosie's Diner
+"Rocky Hill, New Jersey",40.3998283,-74.63432440000001,Rocky Hill Inn
+"Rosenberg, Texas",29.5571825,-95.8085623,Bob's Taco Station
+"Roy, Utah",41.1617999,-112.0261903,Burger Bar
+"Sacramento, California",38.5815719,-121.49439960000001,"Squeeze Inn, Dad's Kitchen, Gatsby's Diner, Café Rolle, The Golden Bear, Jamie's Bar & Grill"
+"Salem, Massachusetts",42.5195292,-70.89672259999999,The Lobster Shanty
+"Salt Lake City, Utah",40.759619799999996,-111.88679750000001,"Finn's Cafe, Proper Burger Company, Blue Plate Diner, Lone Star Taqueria, Purgatory, Pat's Bbq, Ruth's Diner, Red Iguana, Artiso's, Hruska's Kolaches, Laziz Kitchen, Moochie's Meatballs & More, Maxwell's East Coast Eatery"
+"San Anselmo, California",37.9744323,-122.56150320000002,Bubba's Diner
+"San Antonio, Texas",29.424600199999997,-98.4951405,"Wrigleyville, Ma Harper's Creole Kitchen, Dough Pizzeria Napoletana, The Cove, Magnolia Pancake Haus, Smoke Shack, Fat Tummy, Moroccan Bites, Taco Taco Cafe, La Panaderia, Taco Taco Mexican Restaurant, Tip Top Café, Beto's Comida Latina, Bun ‘N Barrel, El Bohio, Dignowity Meats"
+"San Carlos, California",37.504936,-122.2618236,"The Refuge, Pazzo"
+"San Diego, California",32.7174209,-117.16277140000001,"Hob Nob Hill, Tahini, Tioli's Crazee Burger, Grand Ole Bbq, Pizzeria Luigi, El Indio, Crest Café, Bluewater Seafood Market & Grill, Studio Diner"
+"San Francisco, California",37.779026200000004,-122.4199061,"Radio Africa & Kitchen, Q Restaurant, Tommy's Joynt, Rocco's Café, Cathead's Bbq, Miller's East Coast Deli, El Nuevo Frutilandia, Hrd Coffee Shop, Dottie's True Blue Café, Joe's Cable Car, Pica Pica, Grand Harbor, Show Dogs, Grubstake Diner, The Front Porch, Nopalito, Koja Kitchen Food Truck, Broken Record, Senor Sisig Food Truck, Pier 23 Café, Tee Off Bar & Grill"
+"San Jose, California",37.3361905,-121.89058329999999,"Naglee Park Garage, Los Tapatios, Falafel's Drive-In"
+"San Pedro, California",33.7358518,-118.2922934,Gaffey Street Diner
+"San Rafael, California",37.9735346,-122.5310874,Sol Food Puerto Rican Cuisine
+"Sandy, Utah",40.5664878,-111.838904,Tin Roof Grill
+"Santa Barbara, California",34.4221319,-119.7026673,"Norton's Pastrami & Deli, Savoy Café & Deli, Lito's Mexican Restaurant, Mac's Fish & Chip Shop"
+"Santa Cruz, California",37.050096,-121.9905908,"Santa Cruz Diner, Aldo's Harbor Restaurant"
+"Santa Fe, New Mexico",35.68699960000001,-105.9377997,"Bert's Burger Bowl, Harry's Roadhouse, Back Street Bistro, Jambo Cafe, Casa Chimayo Restaurant, Backroad Pizza, Zia Diner & Angel Food Catering, Tune-Up Café, Tecolote Café"
+"Santa Monica, California",34.0250724,-118.4965129,"Batterfish, Patrick's Roadhouse"
+"Santa Rosa, California",38.4404925,-122.71410490000001,"Willie Bird's Restaurant, W.O.W – Worth Our Weight, La Texanita, Johnny Garlic's, Hank's Creekside Restaurant, Simply Vietnam Express, Zoftig Eatery, W.O.W. – Worth Our Weight, Taqueria Molcajetes"
+"Sarasota, Florida",27.3364347,-82.5306527,Alpine Steakhouse
+"Scottsdale, Arizona",33.4942189,-111.92601840000002,"Andreoli – Italian Grocer, Slanted Rice Vietnamese Bistro, Defalco's Italian Eatery, Grocery & Deli, Tom's Thumb Fresh Market, Bootleggers Modern America Smokehouse, Perk Eatery"
+"Seattle, Washington",47.6038321,-122.3300624,"Voula's Offshore Café, Slim's Last Chance Chili Shack & Watering Hole, Mike's Chili Parlor, Wood Shop Bbq, Pam's Kitchen, Georgia Greek Restaurant & Deli, Voula's Offshore Cafe, Pizzeria Credo, Piroshki On 3Rd, Bizzaro Café, The Red Door, Sisters And Brothers Bar, Bok A Bok Fried Chicken & Biscuits"
+"Sebastopol, California",38.3845125,-122.83325015837441,Zazu Kitchen + Farm
+"Sherman Oaks, California",34.1508718,-118.4489865,Brats Brothers
+"Silver Spring, Maryland",38.9959461,-77.02762309999999,The General Store
+"Silverton, Colorado",37.8115318,-107.66436470000001,Thee Pitts Again
+"Slidell, Louisiana",30.2751945,-89.7811745,La Pines Café
+"Smyrna, Georgia",33.883887,-84.51474540000001,Yakitori Jinbei
+"Somers Point, New Jersey",39.3176158,-74.594601,"The Anchorage Tavern, Grilled Cheese & Crab Cake Co."
+"Somersworth, New Hampshire",43.2513865,-70.8903607,45 Market Street Bakery & Cafe
+"Somerville, Massachusetts",42.3875968,-71.0994968,"Kelly's Diner, Trina's Starlite Lounge"
+"Sonoma, California",38.511080299999996,-122.8473388,"Sunflower Café, Schellville Grill, Cochon Volant Bbq, Schellville Grille"
+"South Miami, Florida",25.7078467,-80.29563567682855,Benny's Seafood Restaurant
+"South Pasadena, Florida",27.755027600000002,-82.7376009,Ted Peters Famous Smoked Fish
+"South Range, Wisconsin",46.6079956,-91.98352340000001,Kounty Quarthouse
+"Spartanburg, South Carolina",34.949800700000004,-81.9320157,Beacon Drive-In
+"Spencer, Massachusetts",42.2482063,-71.9938312,Charlie's Diner
+"Spokane, Washington",47.6579425,-117.42122649999999,"Elk Public House, Nordic Smoke Bbq, Ruins, Chaps Coffee Co., Picabu Neighborhood Bistro, Waddell's Pub & Grille, Hill's Restaurant & Lounge"
+"Spring, Texas",31.8160381,-99.51209859999999,Q-Shi
+"Springfield, Illinois",39.7990175,-89.6439575,Charlie Parker's
+"St. Helena, California",38.5052288,-122.47004240000001,Taylor's Automatic Refresher
+"St. Louis, Missouri",38.6529545,-90.24111656024635,"Anthonino's Taverna, Guerilla Street Food, Iron Barley, Dressel's Public House, The Shaved Duck, Sweetie Pie's"
+"St. Paul, Minnesota",44.9504037,-93.10150259999999,"The Nook, Dari-Ette Drive-In, The Blue Door Pub, Casper & Runyon's Nook"
+"St. Petersburg, Florida",27.770379600000002,-82.66950849999999,"Munch's Restaurant & Sundries, Buya Ramen"
+"St. Simons Island, Georgia",31.218286300000003,-81.36120770000001,"Blackwater Grill, Southern Soul Barbeque"
+"Stillwater, Minnesota",45.0564041,-92.81349820000001,Smalley's Caribbean Barbeque
+"Stockton, California",37.9577016,-121.29077959999998,"Gian's Deli, Green Papaya Food Truck, Smitty's Wings & Things, Midtown Creperie"
+"Stone Harbor, New Jersey",39.0509468,-74.7579418,Quahog's Seafood Shack
+"Stroud, Oklahoma",35.7477749,-96.65667420000001,The Rock Café
+"Summerville, South Carolina",33.0206179,-80.1747537,Perfectly Franks
+"Superior, Wisconsin",46.7207737,-92.10407959999999,"Shorty's Pizza And Smoked Meat, Anchor Bar"
+"Syracuse, New York",43.0481221,-76.1474244,"Pastabilities, Empire Brewing Company, Eva's European Sweets, Funk N Waffles, Kitty Hoynes, Byblos Mediterranean Cafe, Funk 'N Waffles"
+"Tacoma, Washington",47.24957979999999,-122.43987460000001,"Dirty Oscar's Annex, Southern Kitchen Restaurant, Bruno's European Restaurant, Crown Bar"
+"Taft, California",35.142467100000005,-119.4565078,Asian Experience
+"Tampa, Florida",27.947759499999997,-82.458444,"Tampa Bay Brewing Co., California Tacos To Go, Danny's All-American Diner & Dairy Bar, Taco Bus, Danny's All American Diner"
+"Tarpley, Texas",29.657170299999997,-99.27642990000001,Mac & Ernie's Roadside Eatery
+"Taylor, Texas",32.279312100000006,-99.88126120000001,"Louie Mueller Bbq, Louie Mueller's Barbecue"
+"Temecula, California",33.4946353,-117.14736609999999,Hobo's Bbq
+"Tempe, Arizona",33.4255056,-111.9400125,Curry Corner
+"Tiverton, Rhode Island",41.6257406,-71.166333,Evelyn's Drive-In
+"Topeka, Kansas",39.049011,-95.67755600000001,Bobo Drive-In
+"Toronto, Ontario",43.6534817,-79.38393470000001,Caplansky's Deli
+"Toronto, Ontario, Canada",43.6534817,-79.38393470000001,"Stockyards Smokehouse And Larder, The Ace, Hey Meatball, Rosedale Diner, Caplansky's, Lakeview Restaurant"
+"Toscana, Italy",43.458654100000004,11.1389204,La Taverna Dei Miracoli Da Mangiafuoco
+"Troutdale, Oregon",45.5317928,-122.391155,Shirley's Tippy Canoe
+"Truckee, California",39.327962,-120.1832533,"Burger Me!, Jax At The Trax"
+"Tucker, Georgia",33.8532701,-84.2200729,Matthews Cafeteria
+"Tucson, Arizona",32.2228765,-110.9748477,"Chef Alisah's Restaurant, Cafe Tumerico, Zeman's, Renee's Organic Oven, Inca's Peruvian Cuisine, Rocco's Little Chicago"
+"Valley Glen, California",34.182637899999996,-118.41386659999999,The Original Barone's Famous Italian
+"Vancouver, British Columbia",49.2608724,-123.11395290000002,"Jethros Fine Grub, Falconetti's, Save On Meats, Meat & Bread, The Pie Hole, Fresh Local Wild, Peaceful Restaurant, Red Wagon Café, Tuc Craft Kitchen, Corduroy Pie Co., Fable Diner"
+"Venice, California",33.995044,-118.4668875,"Baby Blues Bbq, Nighthawk Breakfast Bar"
+"Ventura, California",34.4458248,-119.07793590000001,Pete's Breakfast House
+"Versailles, Kentucky",38.052576,-84.7299464,Wallace Station
+"Victorville, California",34.536106700000005,-117.2911565,Emma Jean's Holland Burger Café
+"Vincentown, New Jersey",39.934002299999996,-74.74849379999999,Vincentown Diner
+"Vinita, Oklahoma",36.63879489999999,-95.1543297,"Clanton's Cafe, Clanton's Café"
+"Virginia Beach, Virginia",36.8529841,-75.9774183,"Beach Pub, Leaping Lizards Café, Flip Flops Grill & Chill, Whitner's Barbeque, Carib Shack, Citrus Breakfast & Lunch, Rigoletto Italian Bakery & Café"
+"Wadsworth, Illinois",42.4286321,-87.92396509999999,The Shanty
+"Waimanalo, Hawaii",21.346304,-157.7211,Sweet Home Waimanalo
+"Waipahu, Hawaii",21.3866667,-158.00916669999998,"Highway Inn & Ho'Okipa Catering, Elena's Restaurant"
+"Wakefield, Virginia",36.9682101,-76.9896882,Virginia Diner
+"Walnut Grove, California",38.25030750000001,-121.50477362611844,Giusti's
+Washington D.C.,38.894893200000006,-77.0365529,"Comet Ping Pong, Tune In Restaurant, Tortilla Café, Oohh's & Aahh's Gourmet Deli"
+"Washington, DC",38.894893200000006,-77.0365529,"Bub And Pop's, Toki Underground, Carving Room"
+"Watauga, Texas",32.8579056,-97.25473709999999,Chef Point Café
+"Webberville, Michigan",42.666825700000004,-84.174432,Michigan Brewing Co.
+"Webster Groves, Missouri",38.592339,-90.3564329,Highway 61 Roadhouse And Kitchen
+"Wellborn, Texas",30.5352024,-96.3016282,Hullabaloo Diner
+"Wells, Maine",43.322181,-70.580978,Maine Diner
+"West Des Moines, Iowa",41.564533700000005,-93.7595281,Mi Patria Ecuadorian Restaurant
+"West Lafayette, Indiana",40.4258686,-86.9080655,Triple Xxx Restaurant
+"West Valley City, Utah",40.696628999999994,-111.9867271,Curry Pizza
+"Westport, Connecticut",41.141485499999995,-73.3578955,Black Duck Café
+"Wheat Ridge, Colorado",39.766098,-105.07720630000001,A Taste Of Home Cooking
+"White Bear Lake, Minnesota",45.0838098,-93.0069304,Donatelli's
+"Wichita, Kansas",37.6922361,-97.3375448,Brint's Diner
+"Wildwood, New Jersey",38.9917797,-74.81488940000001,Maui's Dog House
+"Williston Park, New York",40.75649,-73.64485129999998,Hildebrandt's
+"Willowbrook, Illinois",41.7697533,-87.9358931,Dell Rhea's Chicken Basket
+"Wilmington, Delaware",39.7459468,-75.546589,"Locale Bbq Post, Luigi Vitrone's Pastabilities Trattoria"
+"Wilmington, North Carolina",34.2257282,-77.9447107,"Sweet N Savory Cafe, Cast Iron Kitchen, Copper Penny, Ceviche's, Something Fishy Seafood Restaurant, Fork-N-Cork"
+"Wilson, Wyoming",43.489211,-110.90168087291437,Nora's Fish Creek Inn
+"Winters, California",38.5249065,-121.9708017,Putah Creek Café
+"Woods Hole, Massachusetts",41.5239468,-70.66942929999999,Shucker's World Famous Raw Bar

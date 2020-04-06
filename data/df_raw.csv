@@ -1,0 +1,1252 @@
+season,episode,title,restaurant,location,air_date
+1,1,Classics,Mac & Ernie's Roadside Eatery,"Tarpley, Texas",2007-04-23
+1,1,Classics,Brint's Diner,"Wichita, Kansas",2007-04-23
+1,1,Classics,The Mad Greek Cafe,"Baker, California",2007-04-23
+1,2,That's Italian,Pizza Palace,"Knoxville, Tennessee",2007-04-30
+1,2,That's Italian,Hullabaloo Diner,"Wellborn, Texas",2007-04-30
+1,2,That's Italian,Four Kegs Sports Pub,"Las Vegas, Nevada",2007-04-30
+1,3,Blue Plate Special,Patrick's Roadhouse,"Santa Monica, California",2007-05-07
+1,3,Blue Plate Special,Frosted Mug,"Alsip, Illinois",2007-05-07
+1,3,Blue Plate Special,The Penguin,"Charlotte, North Carolina",2007-05-07
+1,4,Breakfast,Frank's Diner,"Kenosha, Wisconsin",2007-05-21
+1,4,Breakfast,Gaffey Street Diner,"San Pedro, California",2007-05-21
+1,4,Breakfast,The Coffee Cup,"Boulder City, Nevada",2007-05-21
+1,5,BBQ,Baby Blues BBQ,"Venice, California",2007-05-28
+1,5,BBQ,Louie Mueller BBQ,"Taylor, Texas",2007-05-28
+1,5,BBQ,Barbecue King Drive-In,"Charlotte, North Carolina",2007-05-28
+1,6,Local Legends,Eveready Diner,"Hyde Park, New York",2007-06-04
+1,6,Local Legends,Leo's BBQ,"Oklahoma City, Oklahoma",2007-06-04
+1,6,Local Legends,A1 Diner,"Gardiner, Maine",2007-06-04
+1,7,Burgers,Triple XXX Restaurant,"West Lafayette, Indiana",2007-06-11
+1,7,Burgers,Hackney's,"Glenview, Illinois",2007-06-11
+1,7,Burgers,Squeeze Inn,"Sacramento, California",2007-06-11
+1,8,House Specials,Red Arrow Diner,"Manchester, New Hampshire",2007-06-18
+1,8,House Specials,Hank's Creekside Restaurant,"Santa Rosa, California",2007-06-18
+1,8,House Specials,Voula's Offshore Café,"Seattle, Washington",2007-06-18
+1,9,Retro,South Side Soda Shop and Diner,"Goshen, Indiana",2007-07-09
+1,9,Retro,Taylor's Automatic Refresher,"St. Helena, California",2007-07-09
+1,9,Retro,Byways Café,"Portland, Oregon",2007-07-09
+1,10,Worth the Trip,Big Star Diner,"Bainbridge Island, Washington",2007-07-16
+1,10,Worth the Trip,Harold's Café,"Gaffney, South Carolina",2007-07-16
+1,10,Worth the Trip,Mo Gridder's BBQ,"Bronx, New York",2007-07-16
+1,11,Diners A-Plenty,Kelly's Diner,"Somerville, Massachusetts",2007-07-23
+1,11,Diners A-Plenty,Bay Way Diner,"Linden, New Jersey",2007-07-23
+1,11,Diners A-Plenty,Beacon Drive-In,"Spartanburg, South Carolina",2007-07-23
+1,12,American Cookin' ,Rosie's Diner,"Rockford, Michigan",2007-07-30
+1,12,American Cookin' ,Dari-ette Drive-In,"St. Paul, Minnesota",2007-07-30
+1,12,American Cookin' ,The Russian River Pub,"Forestville, California",2007-07-30
+1,12,American Cookin' ,Al's Breakfast,"Minneapolis, Minnesota",2007-07-30
+2,1,Totally Fried,Falafel's Drive-In,"San Jose, California",2007-10-01
+2,1,Totally Fried,Ramona Café,"Ramona, California",2007-10-01
+2,1,Totally Fried,Silk City Diner,"Philadelphia, Pennsylvania",2007-10-01
+2,2,Route 66,Emma Jean's Holland Burger Café,"Victorville, California",2007-10-08
+2,2,Route 66,The Rock Café,"Stroud, Oklahoma",2007-10-08
+2,2,Route 66,Café on the Route,"Baxter Springs, Kansas",2007-10-08
+2,3,Seaside Eats,Evelyn's Drive-In,"Tiverton, Rhode Island",2007-10-15
+2,3,Seaside Eats,Hodad's,"Ocean Beach, California",2007-10-15
+2,3,Seaside Eats,Keegan's Seafood Grille,"Indian Rocks Beach, Florida",2007-10-15
+2,4,Local Flavors,Clanton's Café,"Vinita, Oklahoma",2007-10-22
+2,4,Local Flavors,Mike's Chili Parlor,"Seattle, Washington",2007-10-22
+2,4,Local Flavors,Duarte's Tavern,"Pescadero, California",2007-10-22
+2,5,Viewer's Choice,Bobby's Hawaiian Style Restaurant,"Everett, Washington",2007-10-29
+2,5,Viewer's Choice,Ted Peters Famous Smoked Fish,"South Pasadena, Florida",2007-10-29
+2,5,Viewer's Choice,Psycho Suzie's Motor Lounge,"Minneapolis, Minnesota",2007-10-29
+2,6,Real Deal BBQ,Jay Bee's Bar-B-Que,"Gardena, California",2007-11-05
+2,6,Real Deal BBQ,Smoque,"Chicago, Illinois",2007-11-05
+2,6,Real Deal BBQ,BBQ Shack,"Paola, Kansas",2007-11-05
+2,7,Talkin' Turkey,Mike's City Diner,"Boston, Massachusetts",2007-11-10
+2,7,Talkin' Turkey,Willie Bird's Restaurant,"Santa Rosa, California",2007-11-10
+2,7,Talkin' Turkey,Alpine Steakhouse,"Sarasota, Florida",2007-11-10
+2,8,One of a Kind,JT Farnham's Seafood & Grill,"Essex, Massachusetts",2007-11-19
+2,8,One of a Kind,Joe's Gizzard City,"Potterville, Michigan",2007-11-19
+2,8,One of a Kind,Grubstake Diner,"San Francisco, California",2007-11-19
+2,8,One of a Kind,Los Tapatios,"San Jose, California",2007-11-19
+2,9,Family Owned,El Indio,"San Diego, California",2007-11-23
+2,9,Family Owned,Charlie's Diner,"Spencer, Massachusetts",2007-11-23
+2,9,Family Owned,Paradise Pup,"Des Plaines, Illinois",2007-11-23
+2,10,Open 24/7,Studio Diner,"San Diego, California",2008-01-13
+2,10,Open 24/7,White Palace Grill,"Chicago, Illinois",2008-01-13
+2,10,Open 24/7,The Dining Car,"Philadelphia, Pennsylvania",2008-01-13
+2,11,Off the Hook Specials,Schooner or Later,"Long Beach, California",2008-01-20
+2,11,Off the Hook Specials,Grinders Pizza,"Kansas City, Missouri",2008-01-20
+2,11,Off the Hook Specials,The Fly Trap,"Ferndale, Michigan",2008-01-20
+2,11,Off the Hook Specials,Galewood Cook Shack,"Chicago, Illinois",2008-01-20
+2,12,"Burgers, Rings and Fries",Joe's Cable Car,"San Francisco, California",2008-01-21
+2,12,"Burgers, Rings and Fries",The Nook,"St. Paul, Minnesota",2008-01-21
+2,12,"Burgers, Rings and Fries",Krazy Jim's Blimpy Burger,"Ann Arbor, Michigan",2008-01-21
+2,13,The New Jersey Diner Tour,Mustache Bill's,"Barnegat Light, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,Tick Tock Diner,"Clifton, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,White Manna Hamburgers,"Hackensack, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,The Ritz Diner,"Livingston, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,Hightstown Diner,"Hightstown, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,Skylark Diner,"Edison, New Jersey",2008-01-28
+2,13,The New Jersey Diner Tour,Jefferson Diner,"Lake Hopatcong, New Jersey",2008-01-28
+3,1,Big Breakfast,Brownstone Diner,"Jersey City, New Jersey",2008-03-10
+3,1,Big Breakfast,39th Street Mama's,"Kansas City, Missouri",2008-03-10
+3,1,Big Breakfast,Matt's Big Breakfast,"Phoenix, Arizona",2008-03-10
+3,2,Like Mama Made,Roberto's Mexican Food,"Phoenix, Arizona",2008-03-17
+3,2,Like Mama Made,Smokey Valley Truck Stop,"Olive Hill, Kentucky",2008-03-17
+3,2,Like Mama Made,Sweetie Pie's,"St. Louis, Missouri",2008-03-17
+3,3,Regional Favorites,Charlie Parker's,"Springfield, Illinois",2008-03-24
+3,3,Regional Favorites,Tecolote Café,"Santa Fe, New Mexico",2008-03-24
+3,3,Regional Favorites,Virginia Diner,"Wakefield, Virginia",2008-03-24
+3,4,Neighborhood Joints,Thee Pitts Again,"Silverton, Colorado",2008-03-31
+3,4,Neighborhood Joints,Iron Barley,"St. Louis, Missouri",2008-03-31
+3,4,Neighborhood Joints,Daddypops,"Hatboro, Pennsylvania",2008-03-31
+3,4,Neighborhood Joints,The Village Café,"Richmond, Virginia",2008-03-31
+3,5,A World of Flavors,Chino Bandido,"Phoenix, Arizona",2008-04-07
+3,5,A World of Flavors,Marietta Diner,"Marietta, Georgia",2008-04-07
+3,5,A World of Flavors,YJ's Snack Bar,"Kansas City, Missouri",2008-04-07
+3,6,Something Different,Scully's Tavern,"Miami, Florida",2008-04-14
+3,6,Something Different,Dot's Back Inn,"Richmond, Virginia",2008-04-14
+3,6,Something Different,Hillbilly Hot Dogs,"Lesage, West Virginia",2008-04-14
+3,7,American Classics,11th Street Diner,"Miami Beach, Florida",2008-05-18
+3,7,American Classics,Bobo Drive-In,"Topeka, Kansas",2008-05-18
+3,7,American Classics,Little Tea Shop,"Memphis, Tennessee",2008-05-18
+3,8,Real Deal Fast Food,Panini Pete's,"Fairhope, Alabama",2008-05-19
+3,8,Real Deal Fast Food,Joe's Farm Grill,"Gilbert, Arizona",2008-05-19
+3,8,Real Deal Fast Food,Maria's Taco Express,"Austin, Texas",2008-05-19
+3,9,The Memphis BBQ Tour,Cozy Corner,"Memphis, Tennessee",2008-05-26
+3,9,The Memphis BBQ Tour,Leonard's BBQ,"Memphis, Tennessee",2008-05-26
+3,9,The Memphis BBQ Tour,Marlowe's Ribs,"Memphis, Tennessee",2008-05-26
+3,9,The Memphis BBQ Tour,Tom's Bar-B-Q,"Memphis, Tennessee",2008-05-26
+3,10,Comfort Food,Grampa's Bakery & Restaurant,"Dania Beach, Florida",2008-06-15
+3,10,Comfort Food,Blue Moon Café,"Baltimore, Maryland",2008-06-15
+3,10,Comfort Food,Central City Cafe,"Huntington, West Virginia",2008-06-15
+3,10,Comfort Food,Tip Top Café,"San Antonio, Texas",2008-06-15
+3,11,Where The Locals Go,Matthews Cafeteria,"Tucker, Georgia",2008-06-23
+3,11,Where The Locals Go,The Rivershack Tavern,"Jefferson, Louisiana",2008-06-23
+3,11,Where The Locals Go,Monte Carlo Steak House,"Albuquerque, New Mexico",2008-06-23
+3,12,All Kinds of BBQ,The Joint,"New Orleans, Louisiana",2008-06-30
+3,12,All Kinds of BBQ,The Shed,"Ocean Springs, Mississippi",2008-06-30
+3,12,All Kinds of BBQ,Texas Pride BBQ,"Adkins, Texas",2008-06-30
+3,13,In the Family,Benny's Seafood Restaurant,"South Miami, Florida",2008-07-07
+3,13,In the Family,Chaps Pit Beef,"Baltimore, Maryland",2008-07-07
+3,13,In the Family,Burger Bar,"Roy, Utah",2008-07-07
+4,1,Brain Freeze,Doumar's,"Norfolk, Virginia",2008-07-14
+4,1,Brain Freeze,Aunt Lena's Creamery,"Chandler, Arizona",2008-07-14
+4,1,Brain Freeze,The Creole Creamery,"New Orleans, Louisiana",2008-07-14
+4,2,Diners You Sent Me To,Town Talk Diner,"Minneapolis, Minnesota",2008-07-21
+4,2,Diners You Sent Me To,Blue Plate Diner,"Salt Lake City, Utah",2008-07-21
+4,2,Diners You Sent Me To,Broadway Diner,"Baltimore, Maryland",2008-07-21
+4,3,Bar Food,The Highlander,"Atlanta, Georgia",2008-07-28
+4,3,Bar Food,Gumbo Shack,"Fairhope, Alabama",2008-07-28
+4,3,Bar Food,Starlite Lounge,"Blawnox, Pennsylvania",2008-07-28
+4,4,Burgers and Dogs,The Wienery,"Minneapolis, Minnesota",2008-08-04
+4,4,Burgers and Dogs,Casino El Camino,"Austin, Texas",2008-08-04
+4,4,Burgers and Dogs,G&A Restaurant,"Baltimore, Maryland",2008-08-04
+4,5,Where the Locals Eat,Uncle Lou's,"Memphis, Tennessee",2008-08-11
+4,5,Where the Locals Eat,Captain Chuck A Mucks,"Rescue, Virginia",2008-08-11
+4,5,Where the Locals Eat,Dixie Quicks,"Omaha, Nebraska",2008-08-11
+4,6,Totally Unexpected,Cabbage Town Market,"Atlanta, Georgia",2008-08-18
+4,6,Totally Unexpected,The Cove,"San Antonio, Texas",2008-08-18
+4,6,Totally Unexpected,Bryant-Lake Bowl,"Minneapolis, Minnesota",2008-08-18
+4,7,A Taste of Everywhere,Jamaica Kitchen,"Kendale Lakes, Florida",2008-09-15
+4,7,A Taste of Everywhere,Crystal Restaurant,"Pittsburgh, Pennsylvania",2008-09-15
+4,7,A Taste of Everywhere,Red Iguana,"Salt Lake City, Utah",2008-09-15
+4,8,Better Than Ever,Colonnade,"Atlanta, Georgia",2008-09-22
+4,8,Better Than Ever,Manci's Antique Club,"Daphne, Alabama",2008-09-22
+4,8,Better Than Ever,Amato's,"Omaha, Nebraska",2008-09-22
+4,9,Big Flavor,Darwell's Café,"Long Beach, Mississippi",2008-09-29
+4,9,Big Flavor,Brick Oven Pizza,"Baltimore, Maryland",2008-09-29
+4,9,Big Flavor,Victor's 1959 Café,"Minneapolis, Minnesota",2008-09-29
+4,10,Cookin' It Old School,Nadine's Restaurant,"Pittsburgh, Pennsylvania",2008-10-06
+4,10,Cookin' It Old School,Casamento's Restaurant,"New Orleans, Louisiana",2008-10-06
+4,10,Cookin' It Old School,Big Mama's Kitchen & Catering,"Omaha, Nebraska",2008-10-06
+4,11,Grabbin'a Sandwich,Moochie's Meatballs & More,"Salt Lake City, Utah",2008-10-13
+4,11,Grabbin'a Sandwich,Cemitas Puebla,"Chicago, Illinois",2008-10-13
+4,11,Grabbin'a Sandwich,Tioli's Crazee Burger,"San Diego, California",2008-10-13
+4,12,Traditional Dishes,Donatelli's,"White Bear Lake, Minnesota",2008-11-03
+4,12,Traditional Dishes,Stoney Creek Inn,"Baltimore, Maryland",2008-11-03
+4,12,Traditional Dishes,Alcenia's,"Memphis, Tennessee",2008-11-03
+4,13,Doin' Their Own Thing,Lone Star Taqueria,"Salt Lake City, Utah",2008-11-10
+4,13,Doin' Their Own Thing,Modern Café,"Minneapolis, Minnesota",2008-11-10
+4,13,Doin' Their Own Thing,Brewburger's,"Omaha, Nebraska",2008-11-10
+5,1,What's For Breakfast,Surrey's Café,"New Orleans, Louisiana",2008-11-10
+5,1,What's For Breakfast,Harry's Roadhouse,"Santa Fe, New Mexico",2008-11-10
+5,1,What's For Breakfast,Dor-Stop Restaurant,"Pittsburgh, Pennsylvania",2008-11-10
+5,2,Real Deal Italian,LoBello's Spaghetti House,"Coraopolis, Pennsylvania",2008-11-17
+5,2,Real Deal Italian,Di Pasquale's,"Baltimore, Maryland",2008-11-17
+5,2,Real Deal Italian,Pizzeria Luigi,"San Diego, California",2008-11-17
+5,3,Not What You'd Expect,Sophia's Place,"Albuquerque, New Mexico",2008-11-24
+5,3,Not What You'd Expect,Magnolia Café,"Austin, Texas",2008-11-24
+5,3,Not What You'd Expect,Glenn's Diner,"Chicago, Illinois",2008-11-24
+5,4,Places You Sent Me,Ruth's Diner,"Salt Lake City, Utah",2008-12-01
+5,4,Places You Sent Me,O'Rourke's Diner,"Middletown, Connecticut",2008-12-01
+5,4,Places You Sent Me,Parasol's,"New Orleans, Louisiana",2008-12-01
+5,5,Long Time Legends,Tommy's Joynt,"San Francisco, California",2009-01-05
+5,5,Long Time Legends,Joe Tess Place,"Omaha, Nebraska",2009-01-05
+5,5,Long Time Legends,Big Jim's,"Pittsburgh, Pennsylvania",2009-01-05
+5,6,Something from Everywhere,Valencia Luncheria,"Norwalk, Connecticut",2009-01-12
+5,6,Something from Everywhere,The Original Vito & Nick's Pizzeria,"Chicago, Illinois",2009-01-12
+5,6,Something from Everywhere,Emily's Lebanese Delicatessen,"Minneapolis, Minnesota",2009-01-12
+5,7,Neighborhood Favorites,Pat's BBQ,"Salt Lake City, Utah",2009-01-19
+5,7,Neighborhood Favorites,Blow Fly Inn,"Gulfport, Mississippi",2009-01-19
+5,7,Neighborhood Favorites,Tune-Up Café,"Santa Fe, New Mexico",2009-01-19
+5,8,Just Like Yesterday,Hob Nob Hill,"San Diego, California",2009-01-26
+5,8,Just Like Yesterday,The Silver Skillet,"Atlanta, Georgia",2009-01-26
+5,8,Just Like Yesterday,Tufano's Vernon Park Tap,"Chicago, Illinois",2009-01-26
+5,9,Return to Route 66,Standard Diner,"Albuquerque, New Mexico",2009-02-02
+5,9,Return to Route 66,Dell Rhea's Chicken Basket,"Willowbrook, Illinois",2009-02-02
+5,9,Return to Route 66,Salsa Brava,"Flagstaff, Arizona",2009-02-02
+5,10,BBQ & More,Green Mesquite,"Austin, Texas",2009-02-09
+5,10,BBQ & More,Gorilla BBQ,"Pacifica, California",2009-02-09
+5,10,BBQ & More,Wilson's Holy Smoke BBQ,"Fairfield, Connecticut",2009-02-09
+5,11,Regional Classics,Cecilia's Café,"Albuquerque, New Mexico",2009-02-16
+5,11,Regional Classics,Joey K's Restaurant & Bar,"New Orleans, Louisiana",2009-02-16
+5,11,Regional Classics,Kelly O's Diner,"Pittsburgh, Pennsylvania",2009-02-16
+5,12,All Kinds of Fast Food,Super Duper Weenie,"Fairfield, Connecticut",2009-03-16
+5,12,All Kinds of Fast Food,California Tacos,"Omaha, Nebraska",2009-03-16
+5,12,All Kinds of Fast Food,Bert's Burger Bowl,"Santa Fe, New Mexico",2009-03-16
+5,13,Family Favorites,Giusti's,"Walnut Grove, California",2009-03-23
+5,13,Family Favorites,Haus Murphy's,"Glendale, Arizona",2009-03-23
+5,13,Family Favorites,Louie's,"Dallas, Texas",2009-03-23
+6,1,Funky Joints,Bizzaro Café,"Seattle, Washington",2009-04-06
+6,1,Funky Joints,Chef Point Café,"Watauga, Texas",2009-04-06
+6,1,Funky Joints,Jamie's Bar & Grill,"Sacramento, California",2009-04-06
+6,2,Their Own Way,Bluewater Seafood Market & Grill,"San Diego, California",2009-04-13
+6,2,Their Own Way,Brandy's Restaurant & Bakery,"Flagstaff, Arizona",2009-04-13
+6,2,Their Own Way,Kuma's Corner,"Chicago, Illinois",2009-04-13
+6,3,A Little Bit of Everywhere,Bar Gernika,"Boise, Idaho",2009-04-20
+6,3,A Little Bit of Everywhere,Café Rolle,"Sacramento, California",2009-04-20
+6,3,A Little Bit of Everywhere,Havana Hideout,"Lake Worth, Florida",2009-04-20
+6,4,"A Burger, A Bowl and a Slice",La Piazza Al Forno,"Glendale, Arizona",2009-04-27
+6,4,"A Burger, A Bowl and a Slice",Slim's Last Chance Chili Shack & Watering Hole,"Seattle, Washington",2009-04-27
+6,4,"A Burger, A Bowl and a Slice",Twisted Root Beer Co.,"Dallas, Texas",2009-04-27
+6,5,"Biscuits, Bagels and BLTs","Arleta Library, Bakery & Café","Portland, Oregon",2009-05-04
+6,5,"Biscuits, Bagels and BLTs",Bubba's Diner,"San Anselmo, California",2009-05-04
+6,5,"Biscuits, Bagels and BLTs",Flakowitz of Boynton Bakery & Deli Restaurant,"Boynton Beach, Florida",2009-05-04
+6,6,Who'Da Thunk It,Backroad Pizza,"Santa Fe, New Mexico",2009-05-11
+6,6,Who'Da Thunk It,Jamaica Gates Caribbean Cuisine,"Arlington, Texas",2009-05-11
+6,6,Who'Da Thunk It,Chef Lou's Westside Drive-In,"Boise, Idaho",2009-05-11
+6,7,Go-To Joints,Black Duck Café,"Westport, Connecticut",2009-05-25
+6,7,Go-To Joints,Otto's Sausage Kitchen & Meat Market,"Portland, Oregon",2009-05-25
+6,7,Go-To Joints,Sol Food Puerto Rican Cuisine,"San Rafael, California",2009-05-25
+6,8,Homestyle,Giuseppe's Restaurant,"Phoenix, Arizona",2009-06-01
+6,8,Homestyle,Southern Kitchen Restaurant,"Tacoma, Washington",2009-06-01
+6,8,Homestyle,Zia Diner & Angel Food Catering,"Santa Fe, New Mexico",2009-06-01
+6,9,All Kinds of Classics,Blue Marlin Fish House Restaurant,"North Miami Beach, Florida",2009-06-08
+6,9,All Kinds of Classics,Fred's Texas Café,"Fort Worth, Texas",2009-06-08
+6,9,All Kinds of Classics,Pine State Biscuits,"Portland, Oregon",2009-06-08
+6,10,All Over The Map,Georgia Greek Restaurant & Deli,"Seattle, Washington",2009-06-15
+6,10,All Over The Map,Los Tacquitos Grill,"Phoenix, Arizona",2009-06-15
+6,10,All Over The Map,Rocco's Café,"San Francisco, California",2009-06-15
+6,11,Old Time Favorites,Blueplate Lunch Counter & Soda Fountain,"Portland, Oregon",2009-06-22
+6,11,Old Time Favorites,Don's Hilltop Kodiak Grill,"Boise, Idaho",2009-06-22
+6,11,Old Time Favorites,La Camoronera Restaurant & Fish Market,"Miami, Florida",2009-06-22
+6,12,Comfort Cookin',Dottie's True Blue Café,"San Francisco, California",2009-06-29
+6,12,Comfort Cookin',Over Easy,"Phoenix, Arizona",2009-06-29
+6,12,Comfort Cookin',Comet Café,"Milwaukee, Wisconsin",2009-06-29
+6,13,Mama's Cookin',Polka Restaurant & Catering,"Los Angeles, California",2009-07-27
+6,13,Mama's Cookin',Avila's Café,"Dallas, Texas",2009-07-27
+6,13,Mama's Cookin',Mama E's,Oklahoma City,2009-07-27
+7,1,Upper Crust,Bunk Sandwiches,"Portland, Oregon",2009-08-03
+7,1,Upper Crust,Sonny's Famous Steak Hogies,"Hollywood, Florida",2009-08-03
+7,1,Upper Crust,The Depot American Diner,"Chicago, Illinois",2009-08-03
+7,2,"Burgers, Tacos & Dogs",Lankford Grocery,"Houston, Texas",2009-08-10
+7,2,"Burgers, Tacos & Dogs",Fab Hot Dogs,"Reseda, California",2009-08-10
+7,2,"Burgers, Tacos & Dogs",Cempazuchi,"Milwaukee, Wisconsin",2009-08-10
+7,3,Name That Cook,Rick's Press Room & Grill,"Meridian, Idaho",2009-08-17
+7,3,Name That Cook,Nic's Grill,"Oklahoma City, Oklahoma",2009-08-17
+7,3,Name That Cook,Pam's Kitchen,"Seattle, Washington",2009-08-17
+7,4,Global Grub,Prince Lebanese Grill,"Arlington, Texas",2009-08-24
+7,4,Global Grub,Tre Kronor,"Chicago, Illinois",2009-08-24
+7,4,Global Grub,La Texanita,"Santa Rosa, California",2009-08-24
+7,5,Only At This Joint,Podnah's Pit Barbeque,"Portland, Oregon",2009-08-31
+7,5,Only At This Joint,Donnie Mac's Trailer Park Cuisine,"Boise, Idaho",2009-08-31
+7,5,Only At This Joint,Whale's Rib,"Deerfield Beach, Florida",2009-08-31
+7,6,You Picked ‘Em,Eischen's Bar & Grill,"Okarche, Oklahoma",2009-09-07
+7,6,You Picked ‘Em,Mom's Tamales,"Los Angeles, California",2009-09-07
+7,6,You Picked ‘Em,Kenny & Ziggy's,"Houston, Texas",2009-09-07
+7,7,You Can Say That Again,Tap Tap Haitian Restaurant,"Miami Beach, Florida",2009-10-05
+7,7,You Can Say That Again,Pok Pok,"Portland, Oregon",2009-10-05
+7,7,You Can Say That Again,Niko Niko's,"Houston, Texas",2009-10-05
+7,8,"Barbequed, Baked & Brined",Honky Tonk BBQ,"Chicago, Illinois",2009-10-12
+7,8,"Barbequed, Baked & Brined",Pizzalchik,"Boise, Idaho",2009-10-12
+7,8,"Barbequed, Baked & Brined",Lucky's Café,"Cleveland, Ohio",2009-10-12
+7,9,Blast from the Past,Cattlemen's Steakhouse,"Oklahoma City, Oklahoma",2009-10-19
+7,9,Blast from the Past,Sam LaGrassa's,"Boston, Massachusetts",2009-10-19
+7,9,Blast from the Past,Nickel Diner,"Los Angeles, California",2009-10-19
+7,10,Dives Worth a Drive,Parkview Nightclub,"Cleveland, Ohio",2009-10-26
+7,10,Dives Worth a Drive,The Shanty,"Wadsworth, Illinois",2009-10-26
+7,10,Dives Worth a Drive,Grover's Bar & Grill,"East Amherst, New York",2009-10-26
+7,11,Family Style,Louis Family Restaurant,"Providence, Rhode Island",2009-11-02
+7,11,Family Style,Café Pita+,"Houston, Texas",2009-11-02
+7,11,Family Style,Mambos Café,"Glendale, California",2009-11-02
+7,12,Diners Times Three,The Little Depot Diner,"Peabody, Massachusetts",2009-11-09
+7,12,Diners Times Three,Santa Cruz Diner,"Santa Cruz, California",2009-11-09
+7,12,Diners Times Three,The Diner,"Norman, Oklahoma",2009-11-09
+7,13,Legacies,Lake Effect Diner,"Buffalo, New York",2009-11-16
+7,13,Legacies,Geraci's Restaurant,"Cleveland, Ohio",2009-11-16
+7,13,Legacies,Morin's Hometown Bar & Grill,"Attleboro, Massachusetts",2009-11-16
+8,1,"Burgers, Steaks & Chops",Mr. Bartley's Gourmet Burgers,"Cambridge, Massachusetts",2009-11-23
+8,1,"Burgers, Steaks & Chops",T-Bone Tom's Steakhouse,"Kemah, Texas",2009-11-23
+8,1,"Burgers, Steaks & Chops",Tee Off Bar & Grill,"San Francisco, California",2009-11-23
+8,2,"Pizza, Pork & Paprikash",Pizza Junction,"North Tonawanda, New York",2010-01-11
+8,2,"Pizza, Pork & Paprikash",Sterle's Slovenian Country House,"Cleveland, Ohio",2010-01-11
+8,2,"Pizza, Pork & Paprikash",Q Restaurant,"San Francisco, California",2010-01-11
+8,3,"Stacked, Stuffed & Loaded",Bob's Taco Station,"Rosenberg, Texas",2010-01-18
+8,3,"Stacked, Stuffed & Loaded",Crazy Burger Café & Juice Bar,"Narragansett, Rhode Island",2010-01-18
+8,3,"Stacked, Stuffed & Loaded",The Oinkster,"Eagle Rock, California",2010-01-18
+8,4,Triple D Goes Tailgatin',Rudy's Can't Fail Cafe,"Emeryville, California",2010-01-25
+8,4,Triple D Goes Tailgatin',900 Grayson Restaurant,"Berkeley, California",2010-01-25
+8,4,Triple D Goes Tailgatin',Rick & Ann's Restaurant,"Berkeley, California",2010-01-25
+8,5,Home And Away,Taste of Peru,"Chicago, Illinois",2010-02-01
+8,5,Home And Away,Ingrid's Kitchen,"Oklahoma City, Oklahoma",2010-02-01
+8,5,Home And Away,Blackthorn Restaurant & Pub,"Buffalo, New York",2010-02-01
+8,6,By Request,South 21 Drive-In,"Charlotte, North Carolina",2010-02-08
+8,6,By Request,Red Lion Pub & Restaurant,"Houston, Texas",2010-02-08
+8,6,By Request,Melt Bar & Grilled,"Lakewood, Ohio",2010-02-08
+8,7,And The Kicker Is...,Pawley's Front Porch,"Columbia, South Carolina",2010-02-15
+8,7,And The Kicker Is...,Sophia Restaurant,"Buffalo, New York",2010-02-15
+8,7,And The Kicker Is...,Bette's Oceanview Diner,"Berkeley, California",2010-02-15
+8,8,Comfort Food Classics,The Liberty Elm Diner,"Providence, Rhode Island",2010-02-22
+8,8,Comfort Food Classics,Naglee Park Garage,"San Jose, California",2010-02-22
+8,8,Comfort Food Classics,Dish,"Charlotte, North Carolina",2010-02-22
+8,9,Twists And Traditions,Earl's Drive-In,"Chaffee, New York",2010-03-22
+8,9,Twists And Traditions,Aldo's Harbor Restaurant,"Santa Cruz, California",2010-03-22
+8,9,Twists And Traditions,Momocho,"Cleveland, Ohio",2010-03-22
+8,10,Fresh And Funky,Dish Café & Catering,"Reno, Nevada",2010-03-29
+8,10,Fresh And Funky,Landmark Restaurant,"Charlotte, North Carolina",2010-03-29
+8,10,Fresh And Funky,Pier 23 Café,"San Francisco, California",2010-03-29
+8,11,Triple D Goes Hawaiian,Highway Inn & Ho'okipa Catering,"Waipahu, Hawaii",2010-04-05
+8,11,Triple D Goes Hawaiian,Hank's Haute Dogs,"Honolulu, Hawaii",2010-04-05
+8,11,Triple D Goes Hawaiian,Nico's Pier 38,"Honolulu, Hawaii",2010-04-05
+8,11,Triple D Goes Hawaiian,Germaine's Luau,"Kapolei, Hawaii",2010-04-05
+9,1,Surf ‘n Turf,North End Café,"Manhattan Beach, California",2010-04-27
+9,1,Surf ‘n Turf,Gold ‘N Silver Inn,"Reno, Nevada",2010-04-27
+9,1,Surf ‘n Turf,Singleton's Seafood Shack,"Atlantic Beach, Florida",2010-04-27
+9,2,Homegrown & Homemade,The Farmer's Shed,"Lexington, South Carolina",2010-05-03
+9,2,Homegrown & Homemade,Poke Stop at Mililana Mauka Llc.,"Mililani, Hawaii",2010-05-03
+9,2,Homegrown & Homemade,Mulberry Café,"Lackawanna, New York",2010-05-03
+9,3,Globetrottin',Louis' Basque Corner,"Reno, Nevada",2010-05-10
+9,3,Globetrottin',13 Gypsies,"Jacksonville, Florida",2010-05-10
+9,3,Globetrottin',Gloria's Café,"Los Angeles, California",2010-05-10
+9,4,Bringin' It Home,Café Citti,"Kenwood, California",2010-05-17
+9,4,Bringin' It Home,Cabo Fish Taco,"Charlotte, North Carolina",2010-05-17
+9,4,Bringin' It Home,Murphy's Bar & Grill,"Honolulu, Hawaii",2010-05-17
+9,5,Porkapalooza,At Last Café,"Long Beach, California",2010-05-24
+9,5,Porkapalooza,Virgil's Café,"Bellevue, Kentucky",2010-05-24
+9,5,Porkapalooza,Martin's Bar-B-Que Joint,"Nolensville, Tennessee",2010-05-24
+9,6,"Grilled, Smoked & Sauced",Terry's Turf Club,"Cincinnati, Ohio",2010-05-31
+9,6,"Grilled, Smoked & Sauced",Schellville Grille,"Sonoma, California",2010-05-31
+9,6,"Grilled, Smoked & Sauced",Jake's Good Eats,"Charlotte, North Carolina",2010-05-31
+9,7,Comfort Food With Attitude,Jax At The Trax,"Truckee, California",2010-06-07
+9,7,Comfort Food With Attitude,Culhane's Irish Pub,"Atlantic Beach, Florida",2010-06-07
+9,7,Comfort Food With Attitude,Blue Ash Chili Restaurant,"Cincinnati, Ohio",2010-06-07
+9,8,Fast Food Their Way,Don Chow Tacos,"Los Angeles, California",2010-06-21
+9,8,Fast Food Their Way,Rainbow Drive-In,"Honolulu, Hawaii",2010-06-21
+9,8,Fast Food Their Way,Northern Waters Smokehaus,"Duluth, Minnesota",2010-06-21
+9,9,Farm To Table,Blackwater Grill,"St. Simons Island, Georgia",2010-06-28
+9,9,Farm To Table,Comet Ping Pong,Washington D.C.,2010-06-28
+9,9,Farm To Table,Wallace Station,"Versailles, Kentucky",2010-06-28
+9,10,Kansas City Barbeque Tour,Smokin' Guns BBQ,"North Kansas City, Missouri",2010-07-12
+9,10,Kansas City Barbeque Tour,RJ's Bob-Be-Que Shack,"Mission, Kansas",2010-07-12
+9,10,Kansas City Barbeque Tour,Johnny's Bar-B-Q,"Mission, Kansas",2010-07-12
+9,10,Kansas City Barbeque Tour,Woodyard Bar-B-Que,"Kansas City, Kansas",2010-07-12
+9,11,Burgers ‘n More,Swagger Fine Spirits & Food,"Kansas City, Missouri",2010-07-19
+9,11,Burgers ‘n More,Burger Me!,"Truckee, California",2010-07-19
+9,11,Burgers ‘n More,Athens Family Restaurant,"Nashville, Tennessee",2010-07-19
+9,12,You Called It,Paul's Coffee Shop,"Fountain Valley, California",2010-07-26
+9,12,You Called It,Rick's White Light Diner,"Frankfort, Kentucky",2010-07-26
+9,12,You Called It,Gordy's Hi-Hat,"Cloquet, Minnesota",2010-07-26
+9,13,Old Time Attitude,Arnold's Country Kitchen,"Nashville, Tennessee",2010-08-09
+9,13,Old Time Attitude,Southern Soul Barbeque,"St. Simons Island, Georgia",2010-08-09
+9,13,Old Time Attitude,Maine Diner,"Wells, Maine",2010-08-09
+10,1,Family Joints,Kramarczuk's,"Minneapolis, Minnesota",2010-08-30
+10,1,Family Joints,Happy Gillis Café & Hangout,"Kansas City, Missouri",2010-08-30
+10,1,Family Joints,Hillbilly Hot Dogs,"Lesage, West Virginia",2010-08-30
+10,2,Tried and True,Mama Cozza's,"Anaheim, California",2010-09-09
+10,2,Tried and True,Tune In Restaurant,Washington D.C.,2010-09-09
+10,2,Tried and True,Bob's Clam Hut,"Kittery, Maine",2010-09-09
+10,3,Timeless,Greek Corner Restaurant,"Cambridge, Massachusetts",2010-09-13
+10,3,Timeless,Bro's Cajun Cuisine,"Nashville, Tennessee",2010-09-13
+10,3,Timeless,The General Store,"Silver Spring, Maryland",2010-09-13
+10,4,You Found ‘Em,Parkette Drive In,"Lexington, Kentucky",2010-09-20
+10,4,You Found ‘Em,Metro Diner,"Jacksonville, Florida",2010-09-20
+10,4,You Found ‘Em,Al's Breakfast,"Minneapolis, Minnesota",2010-09-20
+10,5,"Wings, Dogs and Claws",The Lobster Shanty,"Salem, Massachusetts",2010-09-27
+10,5,"Wings, Dogs and Claws",The Brick,"Kansas City, Missouri",2010-09-27
+10,5,"Wings, Dogs and Claws",Oohh's & Aahh's Gourmet Deli,Washington D.C.,2010-09-27
+10,6,Sauced and Spiced,J.J. McBrewster's,"Lexington, Kentucky",2010-10-04
+10,6,Sauced and Spiced,At Sara's Table Chester Creek Café,"Duluth, Minnesota",2010-10-04
+10,6,Sauced and Spiced,Café Rakka,"Hendersonville, Tennessee",2010-10-04
+10,7,Made to Order,Rino's Place,"East Boston, Massachusetts",2010-10-25
+10,7,Made to Order,The Blue Door Pub,"St. Paul, Minnesota",2010-10-25
+10,7,Made to Order,Bay Way Diner,"Linden, New Jersey",2010-10-25
+10,8,"Fresh, Filled and Fried",Chaps Coffee Co.,"Spokane, Washington",2010-11-01
+10,8,"Fresh, Filled and Fried",Good Dog Bar & Restaurant,"Philadelphia, Pennsylvania",2010-11-01
+10,8,"Fresh, Filled and Fried",Porthole Restaurant,"Portland, Maine",2010-11-01
+10,9,Gone Global,LaCaraquena,"Falls Church, Virginia",2010-11-08
+10,9,Gone Global,Savarino's Cucina,"Nashville, Tennessee",2010-11-08
+10,9,Gone Global,Brats Brothers,"Sherman Oaks, California",2010-11-08
+10,10,A Triple D Thanksgiving,George's Place,"Cape May, New Jersey",2010-11-15
+10,10,A Triple D Thanksgiving,Becky's Diner,"Portland, Maine",2010-11-15
+10,10,A Triple D Thanksgiving,Sammy's Food Service & Deli,"New Orleans, Louisiana",2010-11-15
+10,11,Sweet ‘n Savory,Meal Ticket,"Berkeley, California",2010-11-26
+10,11,Sweet ‘n Savory,Metro 29 Diner,"Arlington, Virginia",2010-11-26
+10,11,Sweet ‘n Savory,Duluth Grill,"Duluth, Minnesota",2010-11-26
+10,12,Wings ‘n Things,10th Avenue Burrito,"Belmar, New Jersey",2010-12-13
+10,12,Wings ‘n Things,Capone's Pub,"Coeur d'Alene, Idaho",2010-12-13
+10,12,Wings ‘n Things,Jamaicaway,"Nashville, Tennessee",2010-12-13
+10,13,Sandwiches Plus,Elk Public House,"Spokane, Washington",2010-12-18
+10,13,Sandwiches Plus,Colossal Café,"Minneapolis, Minnesota",2010-12-18
+10,13,Sandwiches Plus,Maui's Dog House,"Wildwood, New Jersey",2010-12-18
+11,1,From Pork to Tofu,Tortilla Café,Washington D.C.,2011-01-03
+11,1,From Pork to Tofu,Memphis Taproom,"Philadelphia, Pennsylvania",2011-01-03
+11,1,From Pork to Tofu,The Golden Bear,"Sacramento, California",2011-01-03
+11,2,"Po' Boys, Pasta & Pork",Mahoney's Po-Boy Shop,"New Orleans, Louisiana",2011-01-10
+11,2,"Po' Boys, Pasta & Pork",Hill's Restaurant & Lounge,"Spokane, Washington",2011-01-10
+11,2,"Po' Boys, Pasta & Pork",Q Fanatic BBQ,"Champlin, Minnesota",2011-01-10
+11,3,Funky Finds,Sage General Store,"Queens, New York",2011-01-17
+11,3,Funky Finds,Quahog's Seafood Shack,"Stone Harbor, New Jersey",2011-01-17
+11,3,Funky Finds,W.O.W. – Worth Our Weight,"Santa Rosa, California",2011-01-17
+11,4,Quirky Classics,Louie & The Red Head Lady,"Mandeville, Louisiana",2011-01-24
+11,4,Quirky Classics,Honey's Sit-N-Eat,"Philadelphia, Pennsylvania",2011-01-24
+11,4,Quirky Classics,Picabu Neighborhood Bistro,"Spokane, Washington",2011-01-24
+11,5,A Little Twisted,The Pit Stop,"Merrick, New York",2011-01-31
+11,5,A Little Twisted,Gatsby's Diner,"Sacramento, California",2011-01-31
+11,5,A Little Twisted,Anchor Bar,"Superior, Wisconsin",2011-01-31
+11,6,Signature Sandwiches,La Pines Café,"Slidell, Louisiana",2011-02-07
+11,6,Signature Sandwiches,Steuben's Food Service,"Denver, Colorado",2011-02-07
+11,6,Signature Sandwiches,3 Sisters Café,"Indianapolis, Indiana",2011-02-07
+11,7,Favorites With A Twist,Jimmy's Down the Street,"Coeur d'Alene, Idaho",2011-02-28
+11,7,Favorites With A Twist,Aunt Mary's Café,"Oakland, California",2011-02-28
+11,7,Favorites With A Twist,Corey's Catsup & Mustard,"Manchester, Connecticut",2011-02-28
+11,8,Soup & Sandwiches,Pineville Tavern,"Pineville, Pennsylvania",2011-03-07
+11,8,Soup & Sandwiches,Indy's Historic Steer-In Restaurant,"Indianapolis, Indiana",2011-03-07
+11,8,Soup & Sandwiches,Dad's Kitchen,"Sacramento, California",2011-03-07
+11,9,From Crepes to Kreplach,Ben's Best Deli,"Queens, New York",2011-03-14
+11,9,From Crepes to Kreplach,Foolish Craig's Café,"Boulder, Colorado",2011-03-14
+11,9,From Crepes to Kreplach,Waddell's Pub & Grille,"Spokane, Washington",2011-03-14
+11,10,Fully Loaded,Katie's Restaurant,"New Orleans, Louisiana",2011-03-21
+11,10,Fully Loaded,Jersey Café,"Carmel, Indiana",2011-03-21
+11,10,Fully Loaded,Merritt Canteen Inc.,"Bridgeport, Connecticut",2011-03-21
+11,11,From Mozz to Matzo Balls,Sunflower Café,"Sonoma, California",2011-03-28
+11,11,From Mozz to Matzo Balls,Hildebrandt's,"Williston Park, New York",2011-03-28
+11,11,From Mozz to Matzo Balls,The Bagel Delicatessen & Restaurant,"Denver, Colorado",2011-03-28
+11,12,Signature Twists,The Barking Dog,"Indianapolis, Indiana",2011-04-04
+11,12,Signature Twists,Putah Creek Café,"Winters, California",2011-04-04
+11,12,Signature Twists,The Old Coffee Pot Restaurant,"New Orleans, Louisiana",2011-04-04
+11,13,Porktastic,Jimtown Store,"Healdsburg, California",2011-04-11
+11,13,Porktastic,Dough Pizzeria Napoletana,"San Antonio, Texas",2011-04-11
+11,13,Porktastic,Sam's No. 3,"Denver, Colorado",2011-04-11
+12,1,Bar Food and Bon Bons,The Sparrow Tavern,"Queens, New York",2011-05-09
+12,1,Bar Food and Bon Bons,Catelli's,"Geyserville, California",2011-05-09
+12,1,Bar Food and Bon Bons,Zest,"Indianapolis, Indiana",2011-05-09
+12,2,From Kraut to Couscous,Lauer-Krauts,"Brighton, Colorado",2011-05-16
+12,2,From Kraut to Couscous,Moroccan Bites,"San Antonio, Texas",2011-05-16
+12,2,From Kraut to Couscous,California Tacos To Go,"Tampa, Florida",2011-05-16
+12,3,You Can Only Get It Here,HRD Coffee Shop,"San Francisco, California",2011-05-23
+12,3,You Can Only Get It Here,The Tamale Place,"Indianapolis, Indiana",2011-05-23
+12,3,You Can Only Get It Here,Garifuna Flava,"Chicago, Illinois",2011-05-23
+12,4,Grillin' and Smokin',Bun ‘N Barrel,"San Antonio, Texas",2011-09-12
+12,4,Grillin' and Smokin',Tocabe American Indian Eatery,"Denver, Colorado",2011-09-12
+12,4,Grillin' and Smokin',Munch's Restaurant & Sundries,"St. Petersburg, Florida",2011-09-12
+12,5,Southern Flavor,Broken Record,"San Francisco, California",2011-09-19
+12,5,Southern Flavor,Bang!,"Denver, Colorado",2011-09-19
+12,5,Southern Flavor,Jose's Real Cuban Food,"Bradenton, Florida",2011-09-19
+12,6,Gettin' Fresh,The Sink,"Boulder, Colorado",2011-09-26
+12,6,Gettin' Fresh,Nana Organic,"Chicago, Illinois",2011-09-26
+12,6,Gettin' Fresh,Get Fresh Café,"Norfolk, Virginia",2011-09-26
+12,7,Homemade & Homebrewed,Tampa Bay Brewing Co.,"Tampa, Florida",2011-10-03
+12,7,Homemade & Homebrewed,Zydeco's,"Mooresville, Indiana",2011-10-03
+12,7,Homemade & Homebrewed,Chilam Balam,"Chicago, Illinois",2011-10-03
+12,8,Latin Street Food,Irazu,"Chicago, Illinois",2011-10-10
+12,8,Latin Street Food,Beto's Comida Latina,"San Antonio, Texas",2011-10-10
+12,8,Latin Street Food,Tortilleria Nixtamal,"Queens, New York",2011-10-10
+12,9,Slammin' Sammies,Taco Taco Mexican Restaurant,"San Antonio, Texas",2011-10-17
+12,9,Slammin' Sammies,Whitner's Barbeque,"Virginia Beach, Virginia",2011-10-17
+12,9,Slammin' Sammies,DMK Burger Bar,"Chicago, Illinois",2011-10-17
+12,10,Global Comfort,Rigoletto Italian Bakery & Café,"Virginia Beach, Virginia",2011-10-24
+12,10,Global Comfort,Chuck's Southern Comforts Café,"Burbank, Illinois",2011-10-24
+12,10,Global Comfort,El Bohio,"San Antonio, Texas",2011-10-24
+12,11,"Breakfast, Lunch & Dinner",Magnolia Pancake Haus,"San Antonio, Texas",2011-10-31
+12,11,"Breakfast, Lunch & Dinner",Taco Bus,"Tampa, Florida",2011-10-31
+12,11,"Breakfast, Lunch & Dinner",Beach Pub,"Virginia Beach, Virginia",2011-10-31
+12,12,"Pizza, Pancakes & Pork",Supino Pizzeria,"Detroit, Michigan",2011-11-07
+12,12,"Pizza, Pancakes & Pork",Big & Littles,"Chicago, Illinois",2011-11-07
+12,12,"Pizza, Pancakes & Pork",Citrus Breakfast & Lunch,"Virginia Beach, Virginia",2011-11-07
+12,13,Old to New,Polish Village Café,"Hamtramck, Michigan",2011-11-21
+12,13,Old to New,Leaping Lizards Café,"Virginia Beach, Virginia",2011-11-21
+12,13,Old to New,Jethros Fine Grub,"Vancouver, British Columbia",2011-11-21
+13,1,Seafood & Sammies,Fresh Local Wild,"Vancouver, British Columbia",2011-11-28
+13,1,Seafood & Sammies,Traffic Jam & Snug,"Detroit, Michigan",2011-11-28
+13,1,Seafood & Sammies,Panozzo's Italian Market,"Chicago, Illinois",2011-11-28
+13,2,Coast to Coast Classics,Tomahawk Restaurant,"North Vancouver, British Columbia",2011-12-05
+13,2,Coast to Coast Classics,Danny's All American Diner,"Tampa, Florida",2011-12-05
+13,3,Kid Rock's Detroit Tour,Clarkston Union Bar & Kitchen,"Clarkston, Michigan",2011-12-12
+13,3,Kid Rock's Detroit Tour,Union Woodshop,"Clarkston, Michigan",2011-12-12
+13,3,Kid Rock's Detroit Tour,Michigan Brewing Co.,"Webberville, Michigan",2011-12-12
+13,4,Southern Staples,Red Wagon Café,"Vancouver, British Columbia",2011-12-19
+13,4,Southern Staples,Perfectly Franks,"Summerville, South Carolina",2011-12-19
+13,4,Southern Staples,Mama's Food Shop,"Manhattan, New York",2011-12-19
+13,5,Scratch Made Classics,Lito's Mexican Restaurant,"Santa Barbara, California",2011-12-26
+13,5,Scratch Made Classics,Save On Meats,"Vancouver, British Columbia",2011-12-26
+13,5,Scratch Made Classics,The Redhead,"Manhattan, New York",2011-12-26
+13,6,Meat Madness,Rincon Criollo,"Queens, New York",2012-01-16
+13,6,Meat Madness,Tattooed Moose,"Charleston, South Carolina",2012-01-16
+13,6,Meat Madness,Falconetti's,"Vancouver, British Columbia",2012-01-16
+13,7,Global Traditions,John's of 12th Street,"Manhattan, New York",2012-01-23
+13,7,Global Traditions,Mac's Fish & Chip Shop,"Santa Barbara, California",2012-01-23
+13,8,Multitaskers,The Early Bird Diner,"Charleston, South Carolina",2012-01-30
+13,8,Multitaskers,Boulevard Diner,"Dundalk, Maryland",2012-01-30
+13,8,Multitaskers,The Kitchen,"Oxnard, California",2012-01-30
+13,9,Family Matters,Sidecar,"Brooklyn, New York",2012-02-06
+13,9,Family Matters,Peaceful Restaurant,"Vancouver, British Columbia",2012-02-06
+13,9,Family Matters,Flip Flops Grill & Chill,"Virginia Beach, Virginia",2012-02-06
+13,10,"Old Faves, New Craves",Norton's Pastrami & Deli,"Santa Barbara, California",2012-02-13
+13,10,"Old Faves, New Craves",Meat & Bread,"Vancouver, British Columbia",2012-02-13
+13,10,"Old Faves, New Craves",Fuel Cantina,"Charleston, South Carolina",2012-02-13
+13,11,Long Standing Legacies,Defonte's Sandwich Shop,"Brooklyn, New York",2012-02-20
+13,11,Long Standing Legacies,The Glass Onion,"Charleston, South Carolina",2012-02-20
+13,11,Long Standing Legacies,Galway Bay Irish Pub,"Annapolis, Maryland",2012-02-20
+13,12,Time Tested Treasures,R&R Taqueria,"Elkridge, Maryland",2012-02-27
+13,12,Time Tested Treasures,Nye's Polonaise Room,"Minneapolis, Minnesota",2012-02-27
+13,12,Time Tested Treasures,Moseberth's Fried Chicken,"Portsmouth, Virginia",2012-02-27
+13,13,Outside the Box,Joe Squared Pizza,"Baltimore, Maryland",2012-03-05
+13,13,Outside the Box,Pepe's and Mito's,"Dallas, Texas",2012-03-05
+13,13,Outside the Box,Savoy Café & Deli,"Santa Barbara, California",2012-03-05
+14,1,Triple D All Stars,Pizzeria Lola,"Minneapolis, Minnesota",2012-04-02
+14,1,Triple D All Stars,Monument Cafe,"Georgetown, Texas",2012-04-02
+14,2,Streamlined Sammies,Luke's Inside Out,"Austin, Texas",2012-04-09
+14,2,Streamlined Sammies,Smack Shack at The 1029 Bar,"Minneapolis, Minnesota",2012-04-09
+14,2,Streamlined Sammies,Maple & Motor,"Dallas, Texas",2012-04-09
+14,3,Crankin' Up the Classics,Broders' Cucina Italiana,"Minneapolis, Minnesota",2012-04-16
+14,3,Crankin' Up the Classics,Chop House Burgers,"Arlington, Texas",2012-04-16
+14,4,Passin' The Baton,Pete's Breakfast House,"Ventura, California",2012-04-23
+14,4,Passin' The Baton,Sip & Bite Restaurant,"Baltimore, Maryland",2012-04-23
+14,5,Big Time Flavor,Marla's Caribbean Cuisine,"Minneapolis, Minnesota",2012-04-30
+14,5,Big Time Flavor,Cane Rosso,"Dallas, Texas",2012-04-30
+14,5,Big Time Flavor,Counter Cafe,"Austin, Texas",2012-04-30
+14,6,Unexpected Eats,Smalley's Caribbean Barbeque,"Stillwater, Minnesota",2012-05-07
+14,6,Unexpected Eats,Johnny Garlic's,"Santa Rosa, California",2012-05-07
+14,6,Unexpected Eats,Harvey's Hot Dogs II,"Portsmouth, Virginia",2012-05-07
+14,7,BBQ Road Show,Pecan Lodge,"Dallas, Texas",2012-05-28
+14,7,BBQ Road Show,John Mull's Meats and Road Kill Grill,"Las Vegas, Nevada",2012-05-28
+14,8,"All Vegas, All the Time",Naked City Pizza,"Las Vegas, Nevada",2012-06-04
+14,8,"All Vegas, All the Time",Forte European Tapas Bar & Bistro,"Las Vegas, Nevada",2012-06-04
+14,8,"All Vegas, All the Time",UNLV,"Las Vegas, Nevada",2012-06-04
+14,9,Serious Sandwiches,Lola's – A Louisiana Kitchen,"Las Vegas, Nevada",2012-06-11
+14,9,Serious Sandwiches,Noble Pig Sandwiches,"Austin, Texas",2012-06-11
+14,9,Serious Sandwiches,Casper & Runyon's Nook,"St. Paul, Minnesota",2012-06-11
+14,10,International Eats,Bachi Burger,"Las Vegas, Nevada",2012-06-18
+14,10,International Eats,Afrah,"Richardson, Texas",2012-06-18
+14,10,International Eats,Gazala's Place,"Manhattan, New York",2012-06-18
+14,11,Belly Up,Hopleaf Bar,"Chicago, Illinois",2012-06-25
+14,11,Belly Up,Foreign & Domestic,"Austin, Texas",2012-06-25
+14,12,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,"Honolulu, Hawaii",2012-07-02
+14,12,Dynamic Dishes,Taste of Europe,"Arlington, Texas",2012-07-02
+14,12,Dynamic Dishes,Yayo Taco,"Las Vegas, Nevada",2012-07-02
+14,13,Coast to Coast Chow,Camille's on Wheels,"Kailua, Hawaii",2012-07-30
+14,13,Coast to Coast Chow,Chicago Brauhaus,"Chicago, Illinois",2012-07-30
+14,13,Coast to Coast Chow,Dixie Supply Bakery & Cafe,"Charleston, South Carolina",2012-07-30
+15,1,Unconventional Comforts,He'eia Kea Pier General Store and Deli,"Kaneohe, Hawaii",2012-08-05
+15,1,Unconventional Comforts,Rex Italian Foods,"Norridge, Illinois",2012-08-05
+15,1,Unconventional Comforts,Memphis Street Cafe,"Hernando, Mississippi",2012-08-05
+15,2,Goin' the Extra Mile,bopNgrill,"Chicago, Illinois",2012-08-13
+15,2,Goin' the Extra Mile,Sweet Home Waimanalo,"Waimanalo, Hawaii",2012-08-13
+15,3,Savory Standouts,90 Miles Cuban Cafe,"Chicago, Illinois",2012-08-19
+15,3,Savory Standouts,Davis' Pub,"Annapolis, Maryland",2012-08-19
+15,4,Surf 'N' Turf Jackpot,Memphis Barbecue Co.,"Horn Lake, Mississippi",2012-08-27
+15,4,Surf 'N' Turf Jackpot,Fresh Catch,"Honolulu, Hawaii",2012-08-27
+15,5,Massachusetts Madness,Italian Express Pizzeria,"East Boston, Massachusetts",2012-09-03
+15,5,Massachusetts Madness,Cutty's,"Brookline, Massachusetts",2012-09-03
+15,6,East Coast Comfort,Tupelo,"Cambridge, Massachusetts",2012-09-24
+15,6,East Coast Comfort,Patti's Pierogis,"Fall River, Massachusetts",2012-09-24
+15,6,East Coast Comfort,Angelo's Civito Farnese,"Providence, Rhode Island",2012-09-24
+15,6,East Coast Comfort,Mediterraneo Caffe,"Providence, Rhode Island",2012-09-24
+15,7,Flavortown Medley,South Of Beale (SOB),"Memphis, Tennessee",2012-10-01
+15,7,Flavortown Medley,Big Wave Shrimp Truck,"Haleiwa, Hawaii",2012-10-01
+15,7,Flavortown Medley,Chaps Pit Beef,"Baltimore, Maryland",2012-10-01
+15,8,"Burgers, Noodles and Quahogs",Boston Burger Company,"Boston, Massachusetts",2012-10-08
+15,8,"Burgers, Noodles and Quahogs",Anthony's Seafood,"Middletown, Rhode Island",2012-10-08
+15,8,"Burgers, Noodles and Quahogs",Guerilla Street Food,"St. Louis, Missouri",2012-10-08
+15,9,Handcrafted,The Elegant Farmer,"Memphis, Tennessee",2012-10-15
+15,9,Handcrafted,Italian Corner,"East Providence, Rhode Island",2012-10-15
+15,10,"All Family, All the Time",Anthonino's Taverna,"St. Louis, Missouri",2012-10-22
+15,10,"All Family, All the Time",Three Angels Diner,"Memphis, Tennessee",2012-10-22
+15,10,"All Family, All the Time",Opal Thai Food,"Haleiwa, Hawaii",2012-10-22
+15,11,Food Done Right,Aunt Carrie's,"Narragansett, Rhode Island",2012-10-29
+15,11,Food Done Right,The Shaved Duck,"St. Louis, Missouri",2012-10-29
+15,11,Food Done Right,Angela's Cafe,"East Boston, Massachusetts",2012-10-29
+15,12,Pubs and Grub,Dressel's Public House,"St. Louis, Missouri",2012-11-05
+15,12,Pubs and Grub,Outer Banks Brewing Station,"Kill Devil Hills, North Carolina",2012-11-05
+15,12,Pubs and Grub,Edgewood Cafe,"Cranston, Rhode Island",2012-11-05
+15,13,Turn On Traditional,Kitty Hoynes,"Syracuse, New York",2012-11-12
+15,13,Turn On Traditional,Espino's Mexican Bar and Grill,"Chesterfield, Missouri",2012-11-12
+15,13,Turn On Traditional,Yankee Lobster Company,"Boston, Massachusetts",2012-11-12
+16,1,Authentic Eats,Highway 61 Roadhouse and Kitchen,"Webster Groves, Missouri",2012-12-10
+16,1,Authentic Eats,Byblos Mediterranean Cafe,"Syracuse, New York",2012-12-10
+16,2,Fully Focused,Brine and Bottle,"Nags Head, North Carolina",2012-12-17
+16,2,Fully Focused,Pastabilities,"Syracuse, New York",2012-12-17
+16,3,Far Out,La Isla Restaurant,"Hoboken, New Jersey",2012-12-24
+16,3,Far Out,Funk 'n Waffles,"Syracuse, New York",2012-12-24
+16,3,Far Out,Cravings,"Duck, North Carolina",2012-12-24
+16,4,Matches Made in Heaven,Ortegaz' Southwestern Grill,"Manteo, North Carolina",2013-01-07
+16,4,Matches Made in Heaven,The Smoke Joint,"Brooklyn, New York",2013-01-07
+16,5,Savory Sensations,The Weeping Radish,"Jarvisburg, North Carolina",2013-01-14
+16,5,Savory Sensations,Jimmy's Diner,"Brooklyn, New York",2013-01-14
+16,6,Hometown Haunts,Marie's Italian Specialties,"Chatham, New Jersey",2013-01-21
+16,6,Hometown Haunts,Darby's Cafe,"Olympia, Washington",2013-01-21
+16,7,Land to Sea,Empire Brewing Company,"Syracuse, New York",2013-02-11
+16,7,Land to Sea,Black Pelican Oceanfront Restaurant,"Kitty Hawk, North Carolina",2013-02-11
+16,7,Land to Sea,Fish Tale Brew Pub,"Olympia, Washington",2013-02-11
+16,8,Decadent Dishes,Crockett's Public House,"Puyallup, Washington",2013-02-18
+16,8,Decadent Dishes,Pies 'N' Thighs,"Brooklyn, New York",2013-02-18
+16,9,Eurocentric,Eva's European Sweets,"Syracuse, New York",2013-02-24
+16,9,Eurocentric,Bruno's European Restaurant,"Tacoma, Washington",2013-02-24
+16,9,Eurocentric,Hey Meatball,"Toronto, Ontario, Canada",2013-02-24
+16,10,Hittin' the Grill,Crown Bar,"Tacoma, Washington",2013-03-04
+16,10,Hittin' the Grill,The Golden State,"Los Angeles, California",2013-03-04
+16,11,Unlikely Partners,Beer Belly,"Los Angeles, California",2013-03-11
+16,11,Unlikely Partners,Lakeview Restaurant,"Toronto, Ontario, Canada",2013-03-11
+16,12,Layers of Flavor,Tortugas' Lie,"Nags Head, North Carolina",2013-03-18
+16,12,Layers of Flavor,The Ace,"Toronto, Ontario, Canada",2013-03-18
+16,13,Real Deal Roots,Chomp Chomp Nation,"Irvine, California",2013-03-25
+16,13,Real Deal Roots,Caplansky's,"Toronto, Ontario, Canada",2013-03-25
+17,1,Tacos and Tots,Dirty Oscar's Annex,"Tacoma, Washington",2013-04-22
+17,1,Tacos and Tots,Highland Tavern,"Denver, Colorado",2013-04-22
+17,2,"Chicken, Chili and Chowder",Sidecar Bar and Grille,"Philadelphia, Pennsylvania",2013-04-29
+17,2,"Chicken, Chili and Chowder",Chili John's,"Burbank, California",2013-04-29
+17,2,"Chicken, Chili and Chowder",Stockyards Smokehouse and Larder,"Toronto, Ontario, Canada",2013-04-29
+17,3,Dynamic Duos,Atomic Cowboy,"Denver, Colorado",2013-05-06
+17,3,Dynamic Duos,Perk Eatery,"Scottsdale, Arizona",2013-05-06
+17,4,Traditional Gone Wild,South Philadelphia Tap Room,"Philadelphia, Pennsylvania",2013-05-13
+17,4,Traditional Gone Wild,St. Francis,"Phoenix, Arizona",2013-05-13
+17,5,"Peppers, Pork and Poutine",Barrio Cafe,"Phoenix, Arizona",2013-05-20
+17,5,"Peppers, Pork and Poutine",Rosedale Diner,"Toronto, Ontario, Canada",2013-05-20
+17,6,Kings and Queens of 'Cue,Hops & Pie,"Denver, Colorado",2013-05-27
+17,6,Kings and Queens of 'Cue,Bludso's BBQ,"Compton, California",2013-05-27
+17,6,Kings and Queens of 'Cue,Percy Street Barbecue,"Philadelphia, Pennsylvania",2013-05-27
+17,7,A Festival of Flavor,Standard Tap,"Philadelphia, Pennsylvania",2013-06-17
+17,7,A Festival of Flavor,Curry Corner,"Tempe, Arizona",2013-06-17
+17,7,A Festival of Flavor,Prohibition,"Denver, Colorado",2013-06-17
+17,8,Timeless Traditions,Jamaican Jerk Hut,"Philadelphia, Pennsylvania",2013-06-24
+17,8,Timeless Traditions,"DeFalco's Italian Eatery, Grocery & Deli","Scottsdale, Arizona",2013-06-24
+17,8,Timeless Traditions,CoraFaye's Café,"Denver, Colorado",2013-06-24
+17,9,From Pound Cake to Pot Pie,Geechee Girl Rice Cafe,"Philadelphia, Pennsylvania",2013-07-01
+17,9,From Pound Cake to Pot Pie,Haggo's Organic Taco,"Leucadia, California",2013-07-01
+17,9,From Pound Cake to Pot Pie,The Duce,"Phoenix, Arizona",2013-07-01
+17,10,L.A. Eats,The Park's Finest BBQ,"Los Angeles, California",2013-07-08
+17,10,L.A. Eats,Eastside Market Italian Deli,"Los Angeles, California",2013-07-08
+17,11,"All San Diego, All the Time",Hodad's,"Ocean Beach, California",2013-08-05
+17,11,"All San Diego, All the Time",OB Noodle House,"Ocean Beach, California",2013-08-05
+17,11,"All San Diego, All the Time",Pizzeria Luigi,"North Park, California",2013-08-05
+17,12,From the Heart,Shirley's Tippy Canoe,"Troutdale, Oregon",2013-08-12
+17,12,From the Heart,Spirito's Italian Diner,"Carlsbad, California",2013-08-12
+17,12,From the Heart,Nopalito,"San Francisco, California",2013-08-12
+17,13,That's Fresh,Pica Pica,"San Francisco, California",2013-08-19
+17,13,That's Fresh,Edelweiss Sausage & Delicatessen,"Portland, Oregon",2013-08-19
+18,1,Neighborhood Knockouts,Crest Café,"San Diego, California",2013-08-26
+18,1,Neighborhood Knockouts,Show Dogs,"San Francisco, California",2013-08-26
+18,1,Neighborhood Knockouts,Industrial Café & Saloon,"Portland, Oregon",2013-08-26
+18,2,Meat Lover's Paradise,The Refuge,"San Carlos, California",2013-09-02
+18,2,Meat Lover's Paradise,The Country Cat,"Portland, Oregon",2013-09-02
+18,3,Servin' Up San Francisco,Miller's East Coast Deli,"San Francisco, California",2013-09-09
+18,3,Servin' Up San Francisco,Koja Kitchen Food Truck,"San Francisco, California",2013-09-09
+18,3,Servin' Up San Francisco,The Front Porch,"San Francisco, California",2013-09-09
+18,4,"Cannoli, Fritters and Wings",Senor Sisig Food Truck,"San Francisco, California",2013-09-16
+18,4,"Cannoli, Fritters and Wings",A Taste of Home Cooking,"Wheat Ridge, Colorado",2013-09-16
+18,4,"Cannoli, Fritters and Wings",PDX671 Food Trailer,"Portland, Oregon",2013-09-16
+18,5,Aces of Authenticity,Casa Chimayo Restaurant,"Santa Fe, New Mexico",2013-10-21
+18,5,Aces of Authenticity,Frank's Noodle House,"Portland, Oregon",2013-10-21
+18,5,Aces of Authenticity,Torinos,"Albuquerque, New Mexico",2013-10-21
+18,6,Sammies and Stew,Jambo Cafe,"Santa Fe, New Mexico",2013-10-28
+18,6,Sammies and Stew,Bocadillos,"Albuquerque, New Mexico",2013-10-28
+18,7,All Kinds of Gobble Gobble,Back Street Bistro,"Santa Fe, New Mexico",2013-11-18
+18,7,All Kinds of Gobble Gobble,Golden Crown Panaderia,"Albuquerque, New Mexico",2013-11-18
+18,7,All Kinds of Gobble Gobble,Danny Edward's BBQ,"Kansas City, Missouri",2013-11-18
+18,8,Comfort and Soul,Tin Shed Garden Cafe,"Portland, Oregon",2013-11-25
+18,8,Comfort and Soul,Nexus Brewery,"Albuquerque, New Mexico",2013-11-25
+18,8,Comfort and Soul,BB's Lawnside BBQ,"Kansas City, Missouri",2013-11-25
+18,9,"Pork, Pasta and Barbecue",Succotash,"Kansas City, Missouri",2013-12-02
+18,9,"Pork, Pasta and Barbecue",Cupini's,"Kansas City, Missouri",2013-12-02
+18,9,"Pork, Pasta and Barbecue",The Cube,"Albuquerque, New Mexico",2013-12-02
+18,10,South of the Border,Asi y Asado,"Cabo San Lucas, Mexico",2013-12-09
+18,10,South of the Border,Solomon's Landing,"Cabo San Lucas, Mexico",2013-12-09
+18,10,South of the Border,Tiki Bar,"Cabo San Lucas, Mexico",2013-12-09
+18,11,Tennessee Holiday Traditions,Center Point Pit Barbecue,"Hendersonville, Tennessee",2013-12-16
+18,11,Tennessee Holiday Traditions,Mas Tacos por Favor,"Nashville, Tennessee",2013-12-16
+18,12,Family Time,The Grilled Cheeserie,"Nashville, Tennessee",2013-12-23
+18,12,Family Time,Caffe Nonna,"Nashville, Tennessee",2013-12-23
+18,12,Family Time,Blue Koi,"Kansas City, Missouri",2013-12-23
+18,13,"Soup, Salad and Seafood",Pot Pie,"Kansas City, Missouri",2013-12-30
+18,13,"Soup, Salad and Seafood",55 South,"Franklin, Tennessee",2013-12-30
+18,13,"Soup, Salad and Seafood",Phat Bites,"Nashville, Tennessee",2013-12-30
+19,1,Guy's Hometown Tour,Pretzel Cart,"Ferndale, California",2014-02-07
+19,1,Guy's Hometown Tour,Clendenen's Cider Works,"Fortuna, California",2014-02-07
+19,1,Guy's Hometown Tour,Loleta Cheese Shop,"Loleta, California",2014-02-07
+19,1,Guy's Hometown Tour,Ferndale Meat Co.,"Ferndale, California",2014-02-07
+19,1,Guy's Hometown Tour,Ivanhoe,"Ferndale, California",2014-02-07
+19,1,Guy's Hometown Tour,Humboldt Sweets,"Ferndale, California",2014-02-07
+19,2,All Things NY,Black Tree,"Manhattan, New York",2014-02-14
+19,2,All Things NY,Queen's Comfort,"Queens, New York",2014-02-14
+19,2,All Things NY,Paul's Live From New York,"Eureka, California",2014-02-14
+19,3,Big Time Bites,Bun-Ker Vietnamese,"Queens, New York",2014-02-21
+19,3,Big Time Bites,Brindle Room,"Manhattan, New York",2014-02-21
+19,3,Big Time Bites,Brick & Fire,"Eureka, California",2014-02-21
+19,4,Keepin' It Real,Sakaya Kitchen,"Miami, Florida",2014-02-28
+19,4,Keepin' It Real,Don Antonio By Starita,"Manhattan, New York",2014-02-28
+19,4,Keepin' It Real,Bless My Soul,"Eureka, California",2014-02-28
+19,5,Dynamite Duos,Duck's Eatery,"Manhattan, New York",2014-03-07
+19,5,Dynamite Duos,Whisk Gourmet,"Miami, Florida",2014-03-07
+19,5,Dynamite Duos,Café Nooner,"Eureka, California",2014-03-07
+19,6,Kickin It in Key West,Garbo's Grill,"Key West, Florida",2014-03-14
+19,6,Kickin It in Key West,Dj's Clam Shack,"Key West, Florida",2014-03-14
+19,6,Kickin It in Key West,Badboy Burrito,"Key West, Florida",2014-03-14
+19,7,From Meatballs to Lollipops,Maxwell's East Coast Eatery,"Salt Lake City, Utah",2014-04-25
+19,7,From Meatballs to Lollipops,Tin Roof Grill,"Sandy, Utah",2014-04-25
+19,7,From Meatballs to Lollipops,Latin House Grill,"Miami, Florida",2014-04-25
+19,8,Cross Country Comfort Food,The Silver Star Café,"Park City, Utah",2014-05-09
+19,8,Cross Country Comfort Food,Sammy's Bistro,"Park City, Utah",2014-05-09
+19,8,Cross Country Comfort Food,Blue Collar,"Miami, Florida",2014-05-09
+19,9,International Family Style,Artiso's,"Salt Lake City, Utah",2014-05-16
+19,9,International Family Style,Boot's and Kimo's Homestyle Kitchen,"Kailua, Hawaii",2014-05-16
+19,9,International Family Style,Oh Mai,"Holladay, Utah",2014-05-16
+19,10,Island Flavor,Dean's Drive Inn,"Kaneohe, Hawaii",2014-05-23
+19,10,Island Flavor,The Alley Restaurant At Aiea Bowl,"Aiea, Hawaii",2014-05-23
+19,10,Island Flavor,Elena's Restaurant,"Waipahu, Hawaii",2014-05-23
+19,11,"Grillin, Chillin & Huli Huli Chicken",The Federal,"Miami, Florida",2014-05-30
+19,11,"Grillin, Chillin & Huli Huli Chicken",Mike's Huli Huli Chicken,"Kaneohe, Hawaii",2014-05-30
+19,11,"Grillin, Chillin & Huli Huli Chicken",Tamarindo Truck,"Orange County, California",2014-05-30
+19,12,Righteous Bites,Loulou's Griddle In The Middle,"Monterey, California",2014-06-06
+19,12,Righteous Bites,Fat Sal's Deli,"Los Angeles, California",2014-06-06
+19,12,Righteous Bites,The Alley Restaurant At Aiea Bowl,"Aiea, Hawaii",2014-06-06
+19,Special,Vegas Greats,Bachi Burger,"Las Vegas, Nevada",2014-04-14
+19,Special,Vegas Greats,John Mull's Road Kill Grill,"Las Vegas, Nevada",2014-04-14
+19,Special,Vegas Greats,Naked City Pizza,"Las Vegas, Nevada",2014-04-14
+19,Special,Vegas Greats,Forte European Tapas Bar & Bistro,"Las Vegas, Nevada",2014-04-14
+19,Special,Vegas Greats,UNLV,"Las Vegas, Nevada",2014-04-14
+19,Special,Crazy for Chicken,Uncle Lou's,"Memphis, Tennessee",2014-04-18
+19,Special,Crazy for Chicken,Tortugas' Lie,"Nags Head, North Carolina",2014-04-18
+19,Special,Crazy for Chicken,90 Miles Cuban Cafe,"Chicago, Illinois",2014-04-18
+19,Special,Crazy for Chicken,Taco Taco Cafe,"San Antonio, Texas",2014-04-18
+19,Special,Crazy for Chicken,Rincon Criollo,"Queens, New York",2014-04-18
+19,Special,Crazy for Chicken,Tocabe American Indian Eatery,"Denver, Colorado",2014-04-18
+19,Special,Crazy for Chicken,The Glass Onion,"Charleston, South Carolina",2014-04-18
+19,Special,Crazy for Chicken,Opal Thai Food,"Haleiwa, Hawaii",2014-04-18
+19,Special,Crazy for Chicken,PotPie,"Kansas City, Missouri",2014-04-18
+19,Special,Crazy for Chicken,Smalley's Caribbean Barbeque,"Stillwater, Minnesota",2014-04-18
+19,Special,Grilling Greats,Tom's Bar-B-Q,"Memphis, Tennessee",2014-06-21
+19,Special,Grilling Greats,Luke's Inside Out,"Austin, Texas",2014-06-21
+19,Special,Grilling Greats,Caplansky's Deli,"Toronto, Ontario",2014-06-21
+19,Special,Grilling Greats,Danny's All-American Diner & Dairy Bar,"Tampa, Florida",2014-06-21
+19,Special,Grilling Greats,Louie Mueller's Barbecue,"Taylor, Texas",2014-06-21
+19,Special,Grilling Greats,Rick's Press Room Grill & Bar,"Meridian, Idaho",2014-06-21
+19,Special,Grilling Greats,Maple & Motor,"Dallas, Texas",2014-06-21
+19,Special,Grilling Greats,Jawaiian Irie Jerk Restaurant,"Honolulu, Hawaii",2014-06-21
+20,1,California Cruisin,Sabroso Mexican Grill,"Garden Grove, California",2014-09-05
+20,1,California Cruisin,Monterey Fish House,"Monterey, California",2014-09-05
+20,1,California Cruisin,Rutt's Hawaiian Cafe,"Los Angeles, California",2014-09-05
+20,2,Stuffed and Twisted,Sidewinder's American Grill,"Jackson, Wyoming",2014-09-12
+20,2,Stuffed and Twisted,Rosine's Restaurant,"Monterey, California",2014-09-12
+20,2,Stuffed and Twisted,Blunch,"Boston, Massachusetts",2014-09-12
+20,3,"Old Standards, New Styles",Pinky G's Pizzeria,"Jackson, Wyoming",2014-09-19
+20,3,"Old Standards, New Styles",The Starling Diner,"Long Beach, California",2014-09-19
+20,3,"Old Standards, New Styles",Cannery Row Brewing Company,"Monterey, California",2014-09-19
+20,4,From Standards to Standouts,Factory Gastrobar,"Long Beach, California",2014-09-26
+20,4,From Standards to Standouts,Pica's Mexican Taqueria,"Jackson, Wyoming",2014-09-26
+20,4,From Standards to Standouts,Little Napoli,"Carmel, California",2014-09-26
+20,5,All Day Dining,Wild Plum Cafe & Bistro,"Monterey, California",2014-10-03
+20,5,All Day Dining,Nora's Fish Creek Inn,"Wilson, Wyoming",2014-10-03
+20,5,All Day Dining,Tavern on 2,"Long Beach, California",2014-10-03
+21,1,Roadtrippin' in Beantown,Cafe Polonia,"Boston, Massachusetts",2014-09-05
+21,1,Roadtrippin' in Beantown,Lone Star Taco Bar,"Allston, Massachusetts",2014-09-05
+21,1,Roadtrippin' in Beantown,Deep Ellum,"Allston, Massachusetts",2014-09-05
+21,2,Seriously Saucy,Saus,"Boston, Massachusetts",2014-09-12
+21,2,Seriously Saucy,Cafe Genevieve,"Jackson, Wyoming",2014-09-12
+21,2,Seriously Saucy,Melt Eclectic Cafe,"Cincinnati, Ohio",2014-09-12
+21,3,Cross-Country Classics,Trina's Starlite Lounge,"Somerville, Massachusetts",2014-09-19
+21,3,Cross-Country Classics,Shorty's Pizza and Smoked Meat,"Superior, Wisconsin",2014-09-19
+21,3,Cross-Country Classics,From Scratch Restaurant,"Carmel, California",2014-09-19
+21,4,Worldwide Flavorfest,Casa Razdora,"Boston, Massachusetts",2014-09-26
+21,4,Worldwide Flavorfest,Island Frydays,"Cincinnati, Ohio",2014-09-26
+21,4,Worldwide Flavorfest,Pak's Green Corner,"Duluth, Minnesota",2014-09-26
+21,5,Small Town Standouts,Kounty Quarthouse,"South Range, Wisconsin",2014-10-03
+21,5,Small Town Standouts,Junkyard Extreme Burgers and Brats,"Junction City, Oregon",2014-10-03
+21,5,Small Town Standouts,Lotus Cafe,"Jackson, Wyoming",2014-10-03
+21,6,One Street Wonders,Taste of Belgium,"Cincinnati, Ohio",2014-10-10
+21,6,One Street Wonders,Senate Pub,"Cincinnati, Ohio",2014-10-10
+21,6,One Street Wonders,Bakersfield OTR,"Cincinnati, Ohio",2014-10-10
+21,7,Old School Joints,Cornbread Cafe,"Eugene, Oregon",2014-10-31
+21,7,Old School Joints,Gannucci's Italian Market,"Duluth, Minnesota",2014-10-31
+21,7,Old School Joints,Delta Diner,"Delta, Wisconsin",2014-10-31
+21,8,Meat In The Middle,The Sandwich League,"Eugene, Oregon",2014-11-07
+21,8,Meat In The Middle,The Brick House Cafe and Catering,"Cable, Wisconsin",2014-11-07
+21,8,Meat In The Middle,Grano's Pasta Bar,"Baltimore, Maryland",2014-11-07
+21,9,Soup-Centric,Soup Nation,"Eugene, Oregon",2014-11-14
+21,9,Soup-Centric,Slainte Irish Pub and Restaurant,"Baltimore, Maryland",2014-11-14
+21,9,Soup-Centric,Pho Lang Thang,"Cincinnati, Ohio",2014-11-14
+21,10,All Baltimore All The Time,Jimmy's Famous Seafood,"Baltimore, Maryland",2014-11-21
+21,10,All Baltimore All The Time,Clementine,"Baltimore, Maryland",2014-11-21
+21,10,All Baltimore All The Time,Johnny Rad's,"Baltimore, Maryland",2014-11-21
+21,11,Chicken Chowfest,Patton's Restaurant & Catering,"Des Moines, Iowa",2014-11-28
+21,11,Chicken Chowfest,Papa's Soul Food Kitchen and BBQ,"Eugene, Oregon",2014-11-28
+21,11,Chicken Chowfest,Swallow at the Hollow,"Baltimore, Maryland",2014-11-28
+21,12,Fresh Fish & Funky Chicken,Fisherman's Market,"Eugene, Oregon",2014-12-05
+21,12,Fresh Fish & Funky Chicken,Mi Patria Ecuadorian Restaurant,"West Des Moines, Iowa",2014-12-05
+21,12,Fresh Fish & Funky Chicken,Smokey D's BBQ,"Des Moines, Iowa",2014-12-05
+21,13,Oldies But Goodies,Ernest & Son,"Brigantine, New Jersey",2014-12-12
+21,13,Oldies But Goodies,Oyster Creek Inn,"Leeds Point, New Jersey",2014-12-12
+21,13,Oldies But Goodies,George The Chili King Drive-In,"Des Moines, Iowa",2014-12-12
+21,14,Southern Spectacular,Farmer's Shed,"Lexington, South Carolina",2014-12-22
+21,14,Southern Spectacular,Pine State Biscuits,"Portland, Oregon",2014-12-22
+21,14,Southern Spectacular,Sweetie Pie's,"St. Louis, Missouri",2014-12-22
+21,14,Southern Spectacular,Rick's White Light Diner,"Frankfort, Kentucky",2014-12-22
+21,14,Southern Spectacular,Zydeco's,"Mooresville, Indiana",2014-12-22
+21,15,Best of Breakfast,Ruth's Diner,"Salt Lake City, Utah",2014-12-23
+21,15,Best of Breakfast,Lake Effect Diner,"Buffalo, New York",2014-12-23
+21,15,Best of Breakfast,Mustache Bill's,"Barnegat Light, New Jersey",2014-12-23
+21,15,Best of Breakfast,Al's Breakfast,"Minneapolis, Minnesota",2014-12-23
+21,15,Best of Breakfast,Louie & the Red Head Lady,"Mandeville, Louisiana",2014-12-23
+21,15,Best of Breakfast,Grampa's Bakery & Restaurant,"Dania Beach, Florida",2014-12-23
+21,15,Best of Breakfast,W.O.W – Worth Our Weight,"Santa Rosa, California",2014-12-23
+21,15,Best of Breakfast,Schooner or Later,"Long Beach, California",2014-12-23
+21,15,Best of Breakfast,Matt's Big Breakfast,"Phoenix, Arizona",2014-12-23
+21,16,Memorable Moms,Rigoletto Italian Bakery & Café,"Virginia Beach, Virginia",2014-12-24
+21,16,Memorable Moms,Voula's Offshore Cafe,"Seattle, Washington",2014-12-24
+21,16,Memorable Moms,Nadine's Restaurant,"Pittsburgh, Pennsylvania",2014-12-24
+21,16,Memorable Moms,Kelly O's Diner,"Pittsburgh, Pennsylvania",2014-12-24
+21,16,Memorable Moms,Monte Carlo Steak House,"Albuquerque, New Mexico",2014-12-24
+21,16,Memorable Moms,Emily's Lebanese Deli,"Minneapolis, Minnesota",2014-12-24
+21,17,Hometown Heroes,Eischen's Bar,"Okarche, Oklahoma",2014-12-25
+21,17,Hometown Heroes,Otto's Sausage,"Portland, Oregon",2014-12-25
+21,17,Hometown Heroes,South 21 Drive In,"Charlotte, North Carolina",2014-12-25
+21,17,Hometown Heroes,Kramarczuk Sausage Company,"Minneapolis, Minnesota",2014-12-25
+21,17,Hometown Heroes,Bob's Clam Hut,"Kittery, Maine",2014-12-25
+21,17,Hometown Heroes,Rainbow Drive-In,"Honolulu, Hawaii",2014-12-25
+21,17,Hometown Heroes,Tommy's Joynt,"San Francisco, California",2014-12-25
+21,18,Pork Hall of Fame,Union Wood Shop,"Clarkston, Michigan",2014-12-26
+21,18,Pork Hall of Fame,Dough Pizzeria Napoletana,"San Antonio, Texas",2014-12-26
+21,18,Pork Hall of Fame,Maria's Taco Express,"Austin, Texas",2014-12-26
+21,18,Pork Hall of Fame,Bar Gernika,"Boise, Idaho",2014-12-26
+21,18,Pork Hall of Fame,Valencia Luncheria,"Norwalk, Connecticut",2014-12-26
+21,18,Pork Hall of Fame,Santa Cruz Diner,"Santa Cruz, California",2014-12-26
+21,18,Pork Hall of Fame,North End Caffe,"Manhattan Beach, California",2014-12-26
+21,18,Pork Hall of Fame,The Oinkster,"Eagle Rock, California",2014-12-26
+21,18,Pork Hall of Fame,Haus Murphy's,"Glendale, Arizona",2014-12-26
+22,1,"Fish, Fries and Feet",Flying Mango,"Des Moines, Iowa",2015-01-16
+22,1,"Fish, Fries and Feet",Kelsey & Kim's Southern Cafe,"Atlantic City, New Jersey",2015-01-16
+22,1,"Fish, Fries and Feet",Tacopocalypse,"Des Moines, Iowa",2015-01-16
+22,2,Cruisin' the Italian Countryside,Windows On The World (Ristorante WOW),"Montecatini Terme, Italy",2015-01-23
+22,2,Cruisin' the Italian Countryside,Port Ellen Clan,"Lucca, Italy",2015-01-23
+22,2,Cruisin' the Italian Countryside,La Taverna dei Miracoli da Mangiafuoco,"Toscana, Italy",2015-01-23
+22,3,Fillin' Up in Florence,La Cucina Del Garga,"Firenze, Italy",2015-01-30
+22,3,Fillin' Up in Florence,Il Gusta Pizza,"Firenze, Italy",2015-01-30
+22,3,Fillin' Up in Florence,Fratelli Briganti,"Firenze, Italy",2015-01-30
+22,4,Arizona All Stars,Tom's Thumb Fresh Market,"Scottsdale, Arizona",2015-02-06
+22,4,Arizona All Stars,Andreoli – Italian Grocer,"Scottsdale, Arizona",2015-02-06
+22,4,Arizona All Stars,Paradise Valley Burger Company,"Phoenix, Arizona",2015-02-06
+22,5,Roadtrippin',The Anchorage Tavern,"Somers Point, New Jersey",2015-02-27
+22,5,Roadtrippin',Salty's BBQ & Catering,"Bakersfield, California",2015-02-27
+22,5,Roadtrippin',Sal's Gilbert Pizza,"Gilbert, Arizona",2015-02-27
+22,6,From Atlantic to Pacific,KC Steakhouse,"Bakersfield, California",2015-03-06
+22,6,From Atlantic to Pacific,Grilled Cheese & Crab Cake Co.,"Somers Point, New Jersey",2015-03-06
+22,6,From Atlantic to Pacific,Mama Roomba,"Bakersfield, California",2015-03-06
+22,7,Globe Tasting,The Wild Thaiger,"Phoenix, Arizona",2015-03-13
+22,7,Globe Tasting,Muertos Kitchen & Lounge,"Bakersfield, California",2015-03-13
+22,7,Globe Tasting,Carluccio's Coal Fired Pizza,"Northfield, New Jersey",2015-03-13
+22,8,"Sweet, Savory and Saucy",La Santisima Gourmet Taco Shop,"Bakersfield, California",2015-04-17
+22,8,"Sweet, Savory and Saucy",Moo Creamery,"Bakersfield, California",2015-04-17
+22,8,"Sweet, Savory and Saucy",24th Street Cafe,"Bakersfield, California",2015-04-17
+22,9,To Bakersfield and Beyond,Athena's Greek Cafe & Bakery,"Bakersfield, California",2015-04-24
+22,9,To Bakersfield and Beyond,Pyrenees Cafe,"Bakersfield, California",2015-04-24
+22,9,To Bakersfield and Beyond,Asian Experience,"Taft, California",2015-04-24
+22,10,Racing Through Charlotte,Pinky's Westside Grill,"Charlotte, North Carolina",2015-05-01
+22,10,Racing Through Charlotte,Pit Road Bar & Grill,"Charlotte, North Carolina",2015-05-01
+22,10,Racing Through Charlotte,The Tin Kitchen Food Truck,"Charlotte, North Carolina",2015-05-01
+22,11,Indulgent Dishes,Krazy Fish,"Charlotte, North Carolina",2015-05-22
+22,11,Indulgent Dishes,300 East,"Charlotte, North Carolina",2015-05-22
+22,11,Indulgent Dishes,Biergarten,"Los Angeles, California",2015-05-22
+22,12,Griddles & Vittles,Guy Fieri's Kitchen and Bar,"Las Vegas, Nevada",2015-05-29
+22,12,Griddles & Vittles,Those Guys Pies,"Las Vegas, Nevada",2015-05-29
+22,12,Griddles & Vittles,Chichen Itza Restaurant,"Los Angeles, California",2015-05-29
+22,13,Intercontinental Flavorfest,Intermezzo Pizzeria and Cafe,"Charlotte, North Carolina",2015-06-05
+22,13,Intercontinental Flavorfest,The Little Jewel of New Orleans,"Los Angeles, California",2015-06-05
+22,13,Intercontinental Flavorfest,Cha Cha Chili,"Los Angeles, California",2015-06-05
+22,Special,Food TruckAPalooza,Tamarindo Truck,"Orange County, California",2015-02-22
+22,Special,Food TruckAPalooza,Garbo's Grill,"Key West, Florida",2015-02-22
+22,Special,Food TruckAPalooza,The Grilled Cheeserie,"Nashville, Tennessee",2015-02-22
+22,Special,Food TruckAPalooza,Fresh Local Wild,"Vancouver, British Columbia",2015-02-22
+22,Special,Food TruckAPalooza,Don Chow Tacos,"Los Angeles, California",2015-02-22
+22,Special,All Beefed Up,Terry's Turf Club,"Cincinnati, Ohio",2015-03-09
+22,Special,All Beefed Up,Smokin Guns BBQ & Catering,"Kansas City, Missouri",2015-03-09
+22,Special,All Beefed Up,Schellville Grill,"Sonoma, California",2015-03-09
+22,Special,All Beefed Up,Paul's Coffee Shop,"Fountain Valley, California",2015-03-09
+23,1,A Bowlful of Soul,Mert's Heart & Soul,"Charlotte, North Carolina",2015-07-17
+23,1,A Bowlful of Soul,Crepe Expectations,"Las Vegas, Nevada",2015-07-17
+23,1,A Bowlful of Soul,Tubs Fine Chili,"Culver City, California",2015-07-17
+23,2,Taste of Asia,DAE GEE Korean BBQ,"Denver, Colorado",2015-07-24
+23,2,Taste of Asia,Fat Choy,"Las Vegas, Nevada",2015-07-24
+23,2,Taste of Asia,Osaka Japanese Bistro,"Las Vegas, Nevada",2015-07-24
+23,3,Tri-Continent Cuisine,Cafe Brazil,"Denver, Colorado",2015-07-31
+23,3,Tri-Continent Cuisine,Biju's Little Curry Shop,"Denver, Colorado",2015-07-31
+23,3,Tri-Continent Cuisine,Folk Art,"Atlanta, Georgia",2015-07-31
+23,4,From Biscuits to Briskets,Fox Bros Bar-B-Q,"Atlanta, Georgia",2015-08-07
+23,4,From Biscuits to Briskets,Buttermilk Kitchen,"Atlanta, Georgia",2015-08-07
+23,4,From Biscuits to Briskets,Restaurant 415,"Fort Collins, Colorado",2015-08-07
+23,5,Homeland Favorites,Joy Cafe,"Atlanta, Georgia",2015-08-28
+23,5,Homeland Favorites,Axios Estiatorio,"Denver, Colorado",2015-08-28
+23,5,Homeland Favorites,Andale Taqueria & Mercado,"Richfield, Minnesota",2015-08-28
+23,6,Name That Kitchen,The Lodge Sasquatch Kitchen,"Fort Collins, Colorado",2015-09-11
+23,6,Name That Kitchen,Dana's Kitchen,"Falmouth, Massachusetts",2015-09-11
+23,6,Name That Kitchen,Pickle Jar Kitchen,"Falmouth, Massachusetts",2015-09-11
+23,7,East Coast Cruisin,Don Antonio by Starita,"New York, New York",2015-09-23
+23,7,East Coast Cruisin,Louis Restaurant,"Providence, Rhode Island",2015-09-23
+23,7,East Coast Cruisin,Crazy Burger Cafe & Juice Bar,"Narragansett, Rhode Island",2015-09-23
+23,7,East Coast Cruisin,The Dining Car & Market,"Philadelphia, Pennsylvania",2015-09-23
+23,8,Beef It Up,Driftwood Publick House & Oysteria,"Plymouth, Massachusetts",2015-09-18
+23,8,Beef It Up,The General Muir,"Atlanta, Georgia",2015-09-18
+23,8,Beef It Up,Buster's on 28th,"Minneapolis, Minnesota",2015-09-18
+23,9,By Hand and By Fork,Parkside Market,"Falmouth, Massachusetts",2015-09-25
+23,9,By Hand and By Fork,Maria Empanada,"Denver, Colorado",2015-09-25
+23,9,By Hand and By Fork,Bayport BBQ,"Bayport, Minnesota",2015-09-25
+23,10,Finger Lickin' Food,Wrecking Bar Brewpub,"Atlanta, Georgia",2015-10-09
+23,10,Finger Lickin' Food,Shucker's World Famous Raw Bar,"Woods Hole, Massachusetts",2015-10-09
+23,10,Finger Lickin' Food,George and the Dragon,"Minneapolis, Minnesota",2015-10-09
+23,11,Bite of Britain,Grillstock,"London, UK",2015-10-16
+23,11,Bite of Britain,Bird of Smithfield,"London, UK",2015-10-16
+23,11,Bite of Britain,Hook Camden Town,"Camden, London, UK",2015-10-16
+23,12,Piggin' Out,Pig Latin (Food Truck),"Colorado Springs, Colorado",2015-11-06
+23,12,Piggin' Out,North Bound Smokehouse and Brewpub,"Minneapolis, Minnesota",2015-11-06
+23,12,Piggin' Out,Unideli,"Minneapolis, Minnesota",2015-11-06
+23,13,Isle-Talian,The Blue-Eyed Crab Caribbean Grill & Rum Bar,"Plymouth, Massachusetts",2015-12-04
+23,13,Isle-Talian,Parvicini's Italian Bistro,"Colorado Springs, Colorado",2015-12-04
+23,13,Isle-Talian,Rasta Pasta,"Colorado Springs, Colorado",2015-12-04
+23,14,East-West Flavorfest,Mountain Shadows Restaurant,"Colorado Springs, Colorado",2015-12-18
+23,14,East-West Flavorfest,Toki Underground,"Washington, DC",2015-12-18
+23,14,East-West Flavorfest,Piccini Wood Fired Brick Oven Pizza,"Ocean City, NJ",2015-12-18
+23,Special,Amazing Appetizers,Queen's Comfort,"Astoria, New York",2015-10-23
+23,Special,Amazing Appetizers,Highland Tavern,"Denver, Colorado",2015-10-23
+23,Special,Amazing Appetizers,Boulevard Diner,"Dundalk, Colorado",2015-10-23
+23,Special,Amazing Appetizers,Clanton's Cafe,"Vinita, Oklahoma",2015-10-23
+23,Special,Amazing Appetizers,10th Ave Burrito Co,"Belmar, New Jersey",2015-10-23
+23,Special,Amazing Appetizers,BBQ Shack,"Paola, Kansas",2015-10-23
+23,Special,Amazing Appetizers,The Highlander,"Atlanta, Georgia",2015-10-23
+23,Special,Amazing Appetizers,Scully's Tavern,"Miami, FL",2015-10-23
+23,Special,Ultimate Turkey Fest,Golden Crown Restaurant,"Albuquerque, New Mexico",2015-11-19
+23,Special,Ultimate Turkey Fest,Bocadillas: Slow Roasted Sandwich Shop,"Albuquerque, New Mexico",2015-11-19
+23,Special,Ultimate Turkey Fest,Funk N Waffles,"Syracuse, New York",2015-11-19
+23,Special,Ultimate Turkey Fest,Supino Pizzeria,"Detroit, Michigan",2015-11-19
+23,Special,Ultimate Turkey Fest,Comet Cafe,"Milwaukee, Wisconsin",2015-11-19
+23,Special,Ultimate Turkey Fest,Mike's City Diner,"Boston, Massachusetts",2015-11-19
+23,Special,Ultimate Turkey Fest,Sammy's Food Services & Deli,"New Orleans, Louisiana",2015-11-19
+23,Special,Ultimate Turkey Fest,Alpine Steakhouse,"Sarasota, Florida",2015-11-19
+23,Special,Ultimate Turkey Fest,Thee Pitts Again,"Glendale, Arizona",2015-11-19
+23,Special,Extra Helpings,The Brick House Cafe and Catering,"Cable, Wisconsin",2015-11-27
+23,Special,Extra Helpings,Cafe Genevieve,"Jackson, Wyoming",2015-11-27
+23,Special,Extra Helpings,Tavern on 2,"Long Beach, California",2015-11-27
+23,Special,Extra Helpings,DJ's Clam Shack,"Key West, Florida",2015-11-27
+23,Special,Extra Helpings,Café Nooner,"Eureka, California",2015-11-27
+23,Special,Extra Helpings,Sakaya Kitchen,"Miami, Florida",2015-11-27
+23,Special,Extra Helpings,Bless My Soul,"Eureka, California",2015-11-27
+23,Special,Extra Helpings,Brindle Room,"New York, New York",2015-11-27
+23,Special,Extra Helpings,Brick & Fire,"Eureka, California",2015-11-27
+23,Special,Extra Helpings,Black Tree,"New York, New York",2015-11-27
+23,Special,Extra Helpings,Paul's Live From New York,"Eureka, California",2015-11-27
+23,Special,Holiday Hoopla,Mas Tacos,"Nashville, Tennessee",2015-12-11
+23,Special,Holiday Hoopla,Center Point Pit Barbecue,"Hendersonville, Tennessee",2015-12-11
+23,Special,Holiday Hoopla,Miller's East Coast Deli,"San Francisco, California",2015-12-11
+23,Special,Holiday Hoopla,Flakowitz of Boynton,"Boynton Beach, Florida",2015-12-11
+23,Special,Holiday Hoopla,The Bagel Delicatessen & Restaurant,"Denver, Colorado",2015-12-11
+23,Special,Holiday Hoopla,At Last Cafe,"Long Beach, California",2015-12-11
+23,Special,Holiday Hoopla,Big Daddy's BBQ & Banquet,"Fairbanks, Alaska",2015-12-11
+24,1,All Kinds of Meat,Alewife Baltimore,"Baltimore, Maryland",2016-01-01
+24,1,All Kinds of Meat,Carving Room,"Washington, DC",2016-01-01
+24,1,All Kinds of Meat,Spice Island Grill,"Colorado Springs, Colorado",2016-01-01
+24,2,"Triple D ""All Stars""",Tacopocalypse,"Des Moines, Iowa",2016-01-03
+24,2,"Triple D ""All Stars""",Artiso's,"Salt Lake City, Utah",2016-01-03
+24,2,"Triple D ""All Stars""",Sakaya Kitchen,"Miami, Florida",2016-01-03
+24,2,"Triple D ""All Stars""",Chef Lou's Westside Drive-In,"Boise, Idaho",2016-01-03
+24,2,"Triple D ""All Stars""",Pagoda Restaurant,"North Pole, Alaska",2016-01-03
+24,3,Family Legacies,Miss Shirley's Cafe,"Baltimore, Maryland",2016-01-15
+24,3,Family Legacies,Sam's Rialto Bar & Grill,"Pleasantville, New Jersey",2016-01-15
+24,3,Family Legacies,Front Range Barbeque,"Colorado Springs, Colorado",2016-01-15
+24,4,Rockin' New Orleans,The Creole Creamery,"New Orleans, Louisiana",2016-01-20
+24,4,Rockin' New Orleans,The Joint,"New Orleans, Louisiana",2016-01-20
+24,4,Rockin' New Orleans,Surrey's Cafe,"New Orleans, Louisiana",2016-01-20
+24,4,Rockin' New Orleans,Parasol's Restaurant & Bar,"New Orleans, Louisiana",2016-01-20
+24,4,Rockin' New Orleans,Joey K's Restaurant & Bar,"New Orleans, Louisiana",2016-01-20
+24,5,Between the Bread,Skirted Heiffer,"Colorado Springs, Colorado",2016-01-22
+24,5,Between the Bread,Bub and Pop's,"Washington, DC",2016-01-22
+24,5,Between the Bread,Vagabond Kitchen & Tap House,"Atlantic City, New Jersey",2016-01-22
+24,6,Comfort Food Mash-Up,Trina's Starlite Lounge,"Somerville, Massachusetts",2016-02-03
+24,6,Comfort Food Mash-Up,The Starling Diner,"Long Beach, California",2016-02-03
+24,6,Comfort Food Mash-Up,The Alley Restaurant at Aiea Bowl,"Aiea, Hawaii",2016-02-03
+24,6,Comfort Food Mash-Up,Frank's Noodle House,"Portland, Oregon",2016-02-03
+24,6,Comfort Food Mash-Up,Gold 'N Silver Inn,"Reno, Nevada",2016-02-03
+24,6,Comfort Food Mash-Up,Ramona Cafe,"Ramona, California",2016-02-03
+24,7,Smoke and Seafood,The Fish House,"Key Largo, Florida",2016-03-11
+24,7,Smoke and Seafood,Islamorada Shrimp Shack,"Islamorada, Florida",2016-03-11
+24,7,Smoke and Seafood,The Smoking Swine,"Baltimore, Maryland",2016-03-11
+24,8,International Appeal,Digiorgio's Cafe Largo,"Key Largo, Florida",2016-03-25
+24,8,International Appeal,El Nuevo Frutilandia,"San Francisco, California",2016-03-25
+24,8,International Appeal,Green Papaya Food Truck,"Stockton, California",2016-03-25
+24,9,"Tacos, Turtles, and Tri-tip",Green Turtle Inn,"Islamorada, Florida",2016-04-08
+24,9,"Tacos, Turtles, and Tri-tip",Midtown Creperie,"Stockton, California",2016-04-08
+24,9,"Tacos, Turtles, and Tri-tip",Cosecha Cafe,"Oakland, California",2016-04-08
+24,10,Succulent Sandwiches,Clove and Hoof,"Oakland, California",2016-04-15
+24,10,Succulent Sandwiches,Food Fix Truck,"Modesto, California",2016-04-15
+24,10,Succulent Sandwiches,Pilot House Marina & Restaurant,"Key Largo, Florida",2016-04-15
+24,11,Hot Meat and Cool Veg,Souley Vegan,"Oakland, California",2016-04-22
+24,11,Hot Meat and Cool Veg,Bauer's 66 1/2,"Modesto, California",2016-04-22
+24,11,Hot Meat and Cool Veg,M.E.A.T. Eatery and Tap Room,"Islamorada, Florida",2016-04-22
+24,12,South Beach Sizzle,Taquiza,"Miami Beach, Florida",2016-05-06
+24,12,South Beach Sizzle,Lou's Beer Garden,"Miami Beach, Florida",2016-05-06
+24,12,South Beach Sizzle,Hofbrau Beer Hall,"Miami Beach, Florida",2016-05-06
+24,13,"Smoked, Grilled, and Fried",Commonwealth,"Modesto, California",2016-05-26
+24,13,"Smoked, Grilled, and Fried",Miami Smokers,"Miami, Florida",2016-05-26
+24,13,"Smoked, Grilled, and Fried",Smitty's Wings & Things,"Stockton, California",2016-05-26
+24,14,Cruisin' in Cuba,El Figaro,"Havana, Cuba",2016-06-03
+24,14,Cruisin' in Cuba,Nazdarovie,"Havana, Cuba",2016-06-03
+24,14,Cruisin' in Cuba,Restaurante Fonda Paladar la Paila,"Havana, Cuba",2016-06-03
+24,15,Havana Hot Spots,Al Carbon,"Havana, Cuba",2016-06-10
+24,15,Havana Hot Spots,La Catedral,"Havana, Cuba",2016-06-10
+24,15,Havana Hot Spots,Casa Abel,"Havana, Cuba",2016-06-10
+24,16,Great Gear,Gian's Deli,"Stockton, California",2016-06-17
+24,16,Great Gear,The Outrigger Pizza Company,"Kihei, Hawaii",2016-06-17
+24,16,Great Gear,CatHead's BBQ,"San Francisco, California",2016-06-17
+25,1,Soakin' Up Maui,Da Kitchen,"Kahului, Hawaii",2016-07-01
+25,1,Soakin' Up Maui,Fat Daddy's Smokehouse,"Kihei, Hawaii",2016-07-01
+25,1,Soakin' Up Maui,Like Poke,"Kahului, Hawaii",2016-07-01
+25,2,"Asia, Africa and India",Radio Africa & Kitchen,"San Francisco, California",2016-07-08
+25,2,"Asia, Africa and India",Belly & Snout,"Los Angeles, California",2016-07-08
+25,2,"Asia, Africa and India",Gandhi Mahal Restaurant,"Minneapolis, Minnesota",2016-07-08
+25,3,"Creole, Cold Cuts and Crepes",Star Noodle,"Lahaina, Hawaii",2016-07-15
+25,3,"Creole, Cold Cuts and Crepes",The Herbivorous Butcher,"Minneapolis, Minnesota",2016-07-15
+25,3,"Creole, Cold Cuts and Crepes",Harold & Belle's,"Los Angeles, California",2016-07-15
+25,4,Chew and Brew,Surly Brewing Company,"Minneapolis, Minnesota",2016-08-05
+25,4,Chew and Brew,The Local,"Coral Gables, Florida",2016-08-05
+25,4,Chew and Brew,Delancey Pizzeria & Bar,"Hollywood, California",2016-08-05
+25,5,Global Greats,The Original Barone's Famous Italian,"Valley Glen, California",2016-08-12
+25,5,Global Greats,Miso Phat Sushi,"Kihei, Hawaii",2016-08-12
+25,5,Global Greats,Holy Land,"Minneapolis, Minnesota",2016-08-12
+25,6,"Sausage, Seafood and Shawarma",Street Food 360,"Portsmouth, New Hampshire",2016-09-09
+25,6,"Sausage, Seafood and Shawarma",Ivan's Cookhouse,"North Miami Beach, Florida",2016-09-09
+25,6,"Sausage, Seafood and Shawarma",Red Wagon Pizza Company,"Minneapolis, Minnesota",2016-09-09
+25,7,Cosmopolitan Comfort,Azla Ethiopian Vegan,"Los Angeles, California",2016-09-16
+25,7,Cosmopolitan Comfort,Prairie Dogs,"Minneapolis, Minnesota",2016-09-16
+25,7,Cosmopolitan Comfort,Moxy,"Portsmouth, New Hampshire",2016-09-16
+25,8,"Burgers, Buns and Bagels",The Kitchen,"Portsmouth, New Hampshire",2016-10-07
+25,8,"Burgers, Buns and Bagels",Bagel Street,"Plainsboro Township, New Jersey",2016-10-07
+25,8,"Burgers, Buns and Bagels",The Bun Shop,"Los Angeles, California",2016-10-07
+25,9,"Big Food, Small Towns",Vincentown Diner,"Vincentown, New Jersey",2016-10-14
+25,9,"Big Food, Small Towns",Rocky Hill Inn,"Rocky Hill, New Jersey",2016-10-14
+25,9,"Big Food, Small Towns",Tuckaway Tavern & Butchery,"Raymond, New Hampshire",2016-10-14
+25,10,From Port to Port,Vida Cantina,"Portsmouth, New Hampshire",2016-11-04
+25,10,From Port to Port,Ataula,"Portland, Oregon",2016-11-04
+25,10,From Port to Port,P's & Q's Market,"Portland, Oregon",2016-11-04
+25,11,Turkey-giving,45 Market Street Bakery & Cafe,"Somersworth, New Hampshire",2016-11-18
+25,11,Turkey-giving,The Table Cafe,"Louisville, Kentucky",2016-11-18
+25,11,Turkey-giving,Jammin' Crepes,"Princeton, New Jersey",2016-11-18
+25,12,"Brunch, Bologna and Burgers",Gralehaus,"Louisville, Kentucky",2016-12-02
+25,12,"Brunch, Bologna and Burgers",The Original,"Portland, Oregon",2016-12-02
+25,12,"Brunch, Bologna and Burgers",Grind Burger Kitchen,"Louisville, Kentucky",2016-12-02
+25,13,Carnivore Creations,"Momma's Mustard, Pickles & BBQ","Louisville, Kentucky",2016-12-23
+25,13,Carnivore Creations,Jersey Girl Cafe,"Hamilton Township, New Jersey",2016-12-23
+25,13,Carnivore Creations,Tails & Trotters,"Portland, Oregon",2016-12-23
+26,1,Belly Up to Barcelona,Cal Boter,"Barcelona, Spain",2017-01-06
+26,1,Belly Up to Barcelona,Can Conesa,"Barcelona, Spain",2017-01-06
+26,1,Belly Up to Barcelona,Pulperia A Gudiña,"Barcelona, Spain",2017-01-06
+26,2,A Sampling of Spain,Can Vilaro,"Barcelona, Spain",2017-01-13
+26,2,A Sampling of Spain,El Pacifico,"Barcelona, Spain",2017-01-13
+26,2,A Sampling of Spain,Bar Morryssom,"Barcelona, Spain",2017-01-13
+26,3,Mega Mouthfuls,The Seafood Lady,"Louisville, Kentucky",2017-01-20
+26,3,Mega Mouthfuls,Dolce & Clemente's,"Robbinsville, New Jersey",2017-01-20
+26,3,Mega Mouthfuls,Matt's BBQ,"Portland, Oregon",2017-01-20
+26,4,"Swiss, Sandwiches and Sausage",Swiss Hibiscus,"Portland, Oregon",2017-02-10
+26,4,"Swiss, Sandwiches and Sausage",Papi Queso Food Truck,"Charlotte, North Carolina",2017-02-10
+26,4,"Swiss, Sandwiches and Sausage",JJ's Red Hots,"Charlotte, North Carolina",2017-02-10
+26,5,"Beef, Lamb and Pig",Irish Rover,"Louisville, Kentucky",2017-02-17
+26,5,"Beef, Lamb and Pig",The Improper Pig,"Charlotte, North Carolina",2017-02-17
+26,5,"Beef, Lamb and Pig",Bang Bang Burgers,"Charlotte, North Carolina",2017-02-17
+26,6,Kickin' It in Cancun,Guy Fieri's Playa del Carmen Kitchen & Bar,"Playa del Carmen, Mexico",2017-03-17
+26,6,Kickin' It in Cancun,Mora Mora,"Cancun, Mexico",2017-03-17
+26,6,Kickin' It in Cancun,El Rincon de los Antojos,"Cancun, Mexico",2017-03-17
+26,7,Not Your Typical Joints,Q-Shi,"Spring, Texas",2017-03-24
+26,7,Not Your Typical Joints,Fud at Salud,"Charlotte, North Carolina",2017-03-24
+26,7,Not Your Typical Joints,El Fish Fritanga,"Cancun, Mexico",2017-03-24
+26,8,From North to South America,Pinchez Tacos,"Cancun, Mexico",2017-03-31
+26,8,From North to South America,Heist Brewery,"Charlotte, North Carolina",2017-03-31
+26,8,From North to South America,The Original Marini's Empanada House,"Houston, Texas",2017-03-31
+26,9,Goin' International,Cafe Lili,"Houston, Texas",2017-04-07
+26,9,Goin' International,The Surfin' Burrito,"Cancun, Mexico",2017-04-07
+26,9,Goin' International,Cool Runnings Jamaican Grill,"Houston, Texas",2017-04-07
+26,10,Wonder Women,The Meatball Stoppe,"Orlando, Florida",2017-04-21
+26,10,Wonder Women,Se7en Bites Bakeshop,"Orlando, Florida",2017-04-21
+26,10,Wonder Women,Irma's Original,"Houston, Texas",2017-04-21
+26,11,Multicultural Cooking,Willie's Pinchos,"Orlando, Florida",2017-04-28
+26,11,Multicultural Cooking,The Pastrami Project,"Orlando, Florida",2017-04-28
+26,11,Multicultural Cooking,Cuchara Restaurant,"Houston, Texas",2017-04-28
+26,12,"Turkey, Taters and Dogs",Mrs. Potato,"Orlando, Florida",2017-05-12
+26,12,"Turkey, Taters and Dogs",Fat One's Hot Dogs and Italian Ice,"Orlando, Florida",2017-05-12
+26,12,"Turkey, Taters and Dogs",Sherman's Deli & Bakery,"Palm Springs, California",2017-05-12
+26,13,"Burgers, Beef and Barbecue",HoBo's BBQ,"Temecula, California",2017-05-26
+26,13,"Burgers, Beef and Barbecue",Saigon Noodle and Grill,"Orlando, Florida",2017-05-26
+26,13,"Burgers, Beef and Barbecue",Grill-a-Burger,"Palm Desert, California",2017-05-26
+26,14,Chicken Trifecta,Fleetwood's on Front St.,"Lahaina, Hawaii",2017-06-09
+26,14,Chicken Trifecta,Thai Mee Up,"Kahului, Hawaii",2017-06-09
+26,14,Chicken Trifecta,Frankinbun,"Palm Springs, California",2017-06-09
+26,15,From Spicy to Icy,Zobo & Meester's,"Cathedral City, California",2017-06-16
+26,15,From Spicy to Icy,Down the Hatch Maui,"Lahaina, Hawaii",2017-06-16
+26,15,From Spicy to Icy,The Dirty Buffalo,"Norfolk, Virginia",2017-06-16
+26,16,Island and Desert,Wilma & Frieda,"Palm Desert, California",2017-06-30
+26,16,Island and Desert,Carib Shack,"Virginia Beach, Virginia",2017-06-30
+26,16,Island and Desert,Maui Brick Oven,"Kihei, Hawaii",2017-06-30
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Alkaline,"Norfolk, Virginia",2017-07-07
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Pendulum Fine Meats,"Norfolk, Virginia",2017-07-07
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Brigit & Bernard's Garden Cafe,"Kahului, Hawaii",2017-07-07
+27,2,Flavor Adventure,Maui Fresh Streatery,"Kahului, Hawaii",2017-07-14
+27,2,Flavor Adventure,ediBOL,"Los Angeles, California",2017-07-14
+27,2,Flavor Adventure,Jessy's Tienda y Taqueria,"Norfolk, Virginia",2017-07-14
+27,3,"Barbecue, Batter and Beer Can Chicken",Three's Bar and Grill,"Kihei, Hawaii",2017-07-21
+27,3,"Barbecue, Batter and Beer Can Chicken",BatterFish,"Santa Monica, California",2017-07-21
+27,3,"Barbecue, Batter and Beer Can Chicken",Horse Thief BBQ,"Los Angeles, California",2017-07-21
+27,4,Ocean Coasts and Great Lakes,La Tostaderia,"Los Angeles, California",2017-09-15
+27,4,Ocean Coasts and Great Lakes,The Grilled Cheese Bistro,"Norfolk, Virginia",2017-09-15
+27,4,Ocean Coasts and Great Lakes,Meat Southern BBQ & Carnivore Cuisine,"Lansing, Michigan",2017-09-15
+27,5,A Passport of Flavor,La Panaderia,"San Antonio, Texas",2017-09-22
+27,5,A Passport of Flavor,Capital City BBQ,"Lansing, Michigan",2017-09-22
+27,5,A Passport of Flavor,Zaytoon Mediterranean,"Lansing, Michigan",2017-09-22
+27,6,"Old Faces, New Places",Fat Olives,"Flagstaff, Arizona",2017-10-06
+27,6,"Old Faces, New Places",Sunset Pointe,"Fairhope, Alabama",2017-10-06
+27,6,"Old Faces, New Places",Blackbrick,"Miami, Florida",2017-10-06
+27,7,From Pied to Fried,Buya Ramen,"St. Petersburg, Florida",2017-10-13
+27,7,From Pied to Fried,Eastside Fish Fry & Grill,"Lansing, Michigan",2017-10-13
+27,7,From Pied to Fried,Bourrée,"New Orleans, Louisiana",2017-10-13
+27,8,Sammies and Spice,The Roost,"Longmont, Colorado",2017-11-10
+27,8,Sammies and Spice,Loops,"Columbus, Ohio",2017-11-10
+27,8,Sammies and Spice,Jitlada Restaurant,"Los Angeles, California",2017-11-10
+27,9,College-Town Champs,Pierogi Mountain,"Columbus, Ohio",2017-11-17
+27,9,College-Town Champs,Ray Ray's Hog Pit,"Columbus, Ohio",2017-11-17
+27,9,College-Town Champs,Aloy Thai Cuisine,"Boulder, Colorado",2017-11-17
+27,10,"Breakfast, Brisket and Belly",Nighthawk Breakfast Bar,"Venice, California",2017-12-15
+27,10,"Breakfast, Brisket and Belly",Sweet Carrot,"Columbus, Ohio",2017-12-15
+27,10,"Breakfast, Brisket and Belly",Bootleggers Modern America Smokehouse,"Scottsdale, Arizona",2017-12-15
+27,11,"Poutine, Pizza and Pork",Samples Restaurant,"Longmont, Colorado",2018-01-05
+27,11,"Poutine, Pizza and Pork",Tutta's Pizza,"Dallas, Texas",2018-01-05
+27,11,"Poutine, Pizza and Pork",Slanted Rice Vietnamese Bistro,"Scottsdale, Arizona",2018-01-05
+28,1,Mom's Kitchen,Zoe Ma Ma,"Boulder, Colorado",2017-12-22
+28,1,Mom's Kitchen,Ena's Caribbean Kitchen,"Columbus, Ohio",2017-12-22
+28,1,Mom's Kitchen,Republica Empanada,"Mesa, Arizona",2017-12-22
+28,2,Delicious Discoveries,Momo Ghar,"Columbus, Ohio",2018-01-19
+28,2,Delicious Discoveries,Tacos Mariachi,"Dallas, Texas",2018-01-19
+28,2,Delicious Discoveries,Nora Restaurant and Bar,"Dallas, Texas",2018-01-19
+28,3,Bird and Beef,The Post Brewing Company,"Longmont, Colorado",2018-02-02
+28,3,Bird and Beef,One90 Smoked Meats,"Dallas, Texas",2018-02-02
+28,3,Bird and Beef,Tacos Chiwas,"Phoenix, Arizona",2018-02-02
+28,4,All Kinds of Comfort,Grubstak,"Gilbert, Arizona",2018-02-18
+28,4,All Kinds of Comfort,Audrey Jane's Pizza Garage,"Boulder, Colorado",2018-02-18
+28,4,All Kinds of Comfort,Whistle Britches,"Dallas, Texas",2018-02-18
+28,5,Rollin' in the Dough,Aloha Kitchen,"Mesa, Arizona",2018-03-02
+28,5,Rollin' in the Dough,Renee's Organic Oven,"Tucson, Arizona",2018-03-02
+28,5,Rollin' in the Dough,Mojo Donuts and Fried Chicken,"Miami, Florida",2018-03-02
+28,6,International Intrigue,CrushCraft Thai Street Eats,"Dallas, Texas",2018-03-09
+28,6,International Intrigue,Milly's Empanada Factory,"Miami, Florida",2018-03-09
+28,6,International Intrigue,Zeman's,"Tucson, Arizona",2018-03-09
+28,7,Lights-Out Latin,Mr. & Mrs. Bun,"Miami, Florida",2018-03-30
+28,7,Lights-Out Latin,Ceviche's,"Wilmington, North Carolina",2018-03-30
+28,7,Lights-Out Latin,Cafe Tumerico,"Tucson, Arizona",2018-03-30
+28,8,"Pizza, Pork and Peru",The Cosmos,"Lansing, Michigan",2018-04-06
+28,8,"Pizza, Pork and Peru",Copper Penny,"Wilmington, North Carolina",2018-04-06
+28,8,"Pizza, Pork and Peru",Inca's Peruvian Cuisine,"Tucson, Arizona",2018-04-06
+28,9,Seafood and Savory,Something Fishy Seafood Restaurant,"Wilmington, North Carolina",2018-04-27
+28,9,Seafood and Savory,The Purple Carrot,"Okemos, Michigan",2018-04-27
+28,9,Seafood and Savory,Chef Alisah's Restaurant,"Tucson, Arizona",2018-04-27
+28,10,Grab and Grub,Doce Provisions,"Miami, Florida",2018-05-04
+28,10,Grab and Grub,Rocco's Little Chicago,"Tucson, Arizona",2018-05-04
+28,10,Grab and Grub,Fork-n-Cork,"Wilmington, North Carolina",2018-05-04
+28,11,BBQ Bites and Southern Flavor,Wood Shop BBQ,"Seattle, Washington",2018-05-25
+28,11,BBQ Bites and Southern Flavor,Cast Iron Kitchen,"Wilmington, North Carolina",2018-05-25
+28,11,BBQ Bites and Southern Flavor,Southern Cafe,"Oakland, California",2018-05-25
+28,12,"East Coast, West Coast",Calafia Cafe,"Palo Alto, California",2018-06-08
+28,12,"East Coast, West Coast",Sweet n Savory Cafe,"Wilmington, North Carolina",2018-06-08
+28,12,"East Coast, West Coast",W.E.P.A.! at Brix 581,"Oakland, California",2018-06-08
+28,13,"Italian, Hawaiian and Colombian",Umekes Fishmarket Bar & Grill,"Kailua-Kona, Hawaii",2018-06-29
+28,13,"Italian, Hawaiian and Colombian",Pazzo,"San Carlos, California",2018-06-29
+28,13,"Italian, Hawaiian and Colombian",LOBA Restaurant,"Miami, Florida",2018-06-29
+28,14,Playin' Chicken,Scolari's Good Eats,"Alameda, California",2018-07-06
+28,14,Playin' Chicken,Pizzeria Credo,"Seattle, Washington",2018-07-06
+28,14,Playin' Chicken,Foster's Kitchen,"Kailua-Kona, Hawaii",2018-07-06
+28,15,On the Hook and In the Bun,The Red Door,"Seattle, Washington",2018-07-27
+28,15,On the Hook and In the Bun,Rebel Kitchen,"Kealakekua, Hawaii",2018-07-27
+28,15,On the Hook and In the Bun,Grand Harbor,"San Francisco, California",2018-07-27
+28,16,Fusion of Flavors,Saucy Porka,"Chicago, Illinois",2018-08-03
+28,16,Fusion of Flavors,Sisters and Brothers Bar,"Seattle, Washington",2018-08-03
+28,16,Fusion of Flavors,Island Lava Java,"Kailua-Kona, Hawaii",2018-08-03
+28,17,Tasty Traditions,Piroshki on 3rd,"Seattle, Washington",2018-08-10
+28,17,Tasty Traditions,Kanaka Kava,"Kailua-Kona, Hawaii",2018-08-10
+28,17,Tasty Traditions,Manny's Cafeteria and Delicatessen,"Chicago, Illinois",2018-08-10
+28,18,Far East Flavorfest,Del Seoul,"Chicago, Illinois",2018-08-31
+28,18,Far East Flavorfest,Original Thai,"Kailua-Kona, Hawaii",2018-08-31
+28,18,Far East Flavorfest,Bok A Bok Fried Chicken & Biscuits,"Seattle, Washington",2018-08-31
+28,19,Culinary Journey,Broke Da Mouth Grindz,"Kailua-Kona, Hawaii",2018-09-07
+28,19,Culinary Journey,MFK,"Chicago, Illinois",2018-09-07
+28,19,Culinary Journey,Blue Toba,"Ashland, Oregon",2018-09-07
+29,1,From Pork to Pasta,Ruins,"Spokane, Washington",2018-09-21
+29,1,From Pork to Pasta,Bella Luna Cafe,"Chicago, Illinois",2018-09-21
+29,1,From Pork to Pasta,Sun Wah BBQ,"Chicago, Illinois",2018-09-21
+29,2,"Sandwiches, Southern and South of the Boarder",Roost Fried Chicken,"Bozeman, Montana",2018-09-28
+29,2,"Sandwiches, Southern and South of the Boarder",Nordic Smoke BBQ,"Spokane, Washington",2018-09-28
+29,2,"Sandwiches, Southern and South of the Boarder",Agave,"Ashland, Oregon",2018-09-28
+29,3,"Pretzels, Pork and Paella",Storm Castle Cafe,"Bozeman, Montana",2018-10-19
+29,3,"Pretzels, Pork and Paella",La Terraza Rum Longe,"Little Rock, Arkansas",2018-10-19
+29,3,"Pretzels, Pork and Paella",Flyway Brewing,"North Little Rock, Arkansas",2018-10-19
+29,4,From Big Burgers to Little Italy,Zoftig Eatery,"Santa Rosa, California",2018-10-26
+29,4,From Big Burgers to Little Italy,Bruno's Little Italy,"Little Rock, Arkansas",2018-10-26
+29,4,From Big Burgers to Little Italy,North Bar,"Little Rock, Arkansas",2018-10-26
+29,5,Meaty Mashup,The Fold: Botanas & Bar,"Little Rock, Arkansas",2018-11-09
+29,5,Meaty Mashup,Simply Vietnam Express,"Santa Rosa, California",2018-11-09
+29,5,Meaty Mashup,Cochon Volant BBQ,"Sonoma, California",2018-11-09
+29,6,"Burgers, Bacon and BBQ",The Root Cafe,"Little Rock, Arkansas",2018-11-23
+29,6,"Burgers, Bacon and BBQ",Eight Noodle Shop,"Napa, California",2018-11-23
+29,6,"Burgers, Bacon and BBQ",Smoke Shack,"San Antonio, Texas",2018-11-23
+29,7,From Sandwiches to Stroganoff,Wrigleyville,"San Antonio, Texas",2018-11-30
+29,7,From Sandwiches to Stroganoff,Fat Tummy,"San Antonio, Texas",2018-11-30
+29,7,From Sandwiches to Stroganoff,Zazu Kitchen + Farm,"Sebastopol, California",2018-11-30
+29,8,Regional Recipes,Dignowity Meats,"San Antonio, Texas",2018-12-14
+29,8,Regional Recipes,Ma Harper's Creole Kitchen,"San Antonio, Texas",2018-12-14
+29,8,Regional Recipes,Taqueria Molcajetes,"Santa Rosa, California",2018-12-14
+29,9,Cultural Twist,Finn's Cafe,"Salt Lake City, Utah",
+29,9,Cultural Twist,Red's Chinese,"New Orleans, Louisiana",
+29,9,Cultural Twist,Curry Pizza,"West Valley City, Utah",
+29,10,Handy Helpings,Hruska's Kolaches,"Salt Lake City, Utah",
+29,10,Handy Helpings,Proper Burger Company,"Salt Lake City, Utah",
+29,10,Handy Helpings,Rreal Tacos,"Atlanta, Georgia",
+29,11,'Round the World Roundup,Yakitori Jinbei,"Smyrna, Georgia",2019-02-08
+29,11,'Round the World Roundup,OneTaco,"Austin, Texas",2019-02-08
+29,11,'Round the World Roundup,Laziz Kitchen,"Salt Lake City, Utah",2019-02-08
+29,12,Whole Lotta Comfort,Twisted Soul Cookhouse & Pours,"Atlanta, Georgia",2019-02-15
+29,12,Whole Lotta Comfort,Purgatory,"Salt Lake City, Utah",2019-02-15
+29,12,Whole Lotta Comfort,Valentina's,"Austin, Texas",2019-02-15
+29,13,Eating Up New Orleans,Piece of Meat,"New Orleans, Louisiana",2019-03-01
+29,13,Eating Up New Orleans,Seither's Seafood,"New Orleans, Louisiana",2019-03-01
+29,13,Eating Up New Orleans,Avery's on Tulane,"New Orleans, Louisiana",2019-03-01
+29,14,Sandwich Showcase,Holy Roller,"Austin, Texas",2019-02-22
+29,14,Sandwich Showcase,SLAB BBQ & Beer,"Austin, Texas",2019-02-22
+29,14,Sandwich Showcase,Vinny's Bakery,"Pasco, Washington",2019-02-22
+29,15,Southern to South American,Greens & Gravy,"Atlanta, Georgia",2019-03-08
+29,15,Southern to South American,Boteco,"Austin, Texas",2019-03-08
+29,15,Southern to South American,Porter's Real Barbecue,"Richland, Washington",2019-03-08
+29,16,Mega Meat and Sweet Treats,Hankook Taqueria,"Atlanta, Georgia",2019-03-29
+29,16,Mega Meat and Sweet Treats,Pieous,"Austin, Texas",2019-03-29
+29,16,Mega Meat and Sweet Treats,The Folded Pizza Pie,"Richland, Washington",2019-03-29
+29,17,"Belly, Beef and Bratwurst",Barley's Brewhub,"Kennewick, Washington",
+29,17,"Belly, Beef and Bratwurst",Fable Diner,"Vancouver, British Columbia",
+29,17,"Belly, Beef and Bratwurst",Pijiu Belly,"Atlanta, Georgia",
+29,18,Coming Together in Cali,Grana,"Chico, California",
+29,18,Coming Together in Cali,Upper Crust Bakery & Cafe,"Chico, California",
+29,18,Coming Together in Cali,The Banshee,"Chico, California",
+29,19,Burger and Breakfast,The Pie Hole,"Vancouver, British Columbia",
+29,19,Burger and Breakfast,Sin of Cortez,"Chico, California",
+29,19,Burger and Breakfast,Ethos Bakery & Cafe,"Richland, Washington",
+29,20,Not Your Everyday Eats,Frost Me Sweet Bakery & Bistro,"Richland, Washington",
+29,20,Not Your Everyday Eats,Momona,"Chico, California",
+29,20,Not Your Everyday Eats,Tuc Craft Kitchen,"Vancouver, British Columbia",
+30,1,A World of Barbecue,Tahini Nui,"Kauai, Hawaii",2019-05-24
+30,1,A World of Barbecue,Grand Ole BBQ,"San Diego, California",2019-05-24
+30,1,A World of Barbecue,Locale BBQ Post,"Wilmington, Delaware",2019-05-24
+30,2,"Sausage, Shawarma and Scaloppini",Tahini,"San Diego, California",2019-05-31
+30,2,"Sausage, Shawarma and Scaloppini",Corduroy Pie Co.,"Vancouver, British Columbia",2019-05-31
+30,2,"Sausage, Shawarma and Scaloppini",Luigi Vitrone's Pastabilities Trattoria,"Wilmington, Delaware",2019-05-31
