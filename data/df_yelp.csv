@@ -1,0 +1,1252 @@
+season,episode,title,restaurant,rating,price,city,state
+1,1,Classics,Mac & Ernie's Roadside Eatery,4.0,$$,Tarpley,Texas
+1,1,Classics,Brint's Diner,3.5,$,Wichita,Kansas
+1,1,Classics,The Mad Greek Cafe,3.0,$$,Baker,California
+1,2,That's Italian,Pizza Palace,4.0,$,Knoxville,Tennessee
+1,2,That's Italian,Hullabaloo Diner,3.5,$$,Wellborn,Texas
+1,2,That's Italian,Four Kegs Sports Pub,4.0,$$,Las Vegas,Nevada
+1,3,Blue Plate Special,Patrick's Roadhouse,3.5,$$,Santa Monica,California
+1,3,Blue Plate Special,Frosted Mug,,,Alsip,Illinois
+1,3,Blue Plate Special,The Penguin,,,Charlotte,North Carolina
+1,4,Breakfast,Frank's Diner,4.0,$,Kenosha,Wisconsin
+1,4,Breakfast,Gaffey Street Diner,,,San Pedro,California
+1,4,Breakfast,The Coffee Cup,4.5,$$,Boulder City,Nevada
+1,5,BBQ,Baby Blues BBQ,4.0,$$,Venice,California
+1,5,BBQ,Louie Mueller BBQ,4.0,$$,Taylor,Texas
+1,5,BBQ,Barbecue King Drive-In,,,Charlotte,North Carolina
+1,6,Local Legends,Eveready Diner,3.5,$$,Hyde Park,New York
+1,6,Local Legends,Leo's BBQ,4.0,$$,Oklahoma City,Oklahoma
+1,6,Local Legends,A1 Diner,4.0,$$,Gardiner,Maine
+1,7,Burgers,Triple XXX Restaurant,4.0,$$,West Lafayette,Indiana
+1,7,Burgers,Hackney's,,,Glenview,Illinois
+1,7,Burgers,Squeeze Inn,3.5,$$,Sacramento,California
+1,8,House Specials,Red Arrow Diner,4.0,$,Manchester,New Hampshire
+1,8,House Specials,Hank's Creekside Restaurant,4.0,$$,Santa Rosa,California
+1,8,House Specials,Voula's Offshore Café,4.0,$$,Seattle,Washington
+1,9,Retro,South Side Soda Shop and Diner,4.0,$$,Goshen,Indiana
+1,9,Retro,Taylor's Automatic Refresher,5.0,,St. Helena,California
+1,9,Retro,Byways Café,4.0,$$,Portland,Oregon
+1,10,Worth the Trip,Big Star Diner,,,Bainbridge Island,Washington
+1,10,Worth the Trip,Harold's Café,,,Gaffney,South Carolina
+1,10,Worth the Trip,Mo Gridder's BBQ,,,Bronx,New York
+1,11,Diners A-Plenty,Kelly's Diner,4.0,$,Somerville,Massachusetts
+1,11,Diners A-Plenty,Bay Way Diner,,,Linden,New Jersey
+1,11,Diners A-Plenty,Beacon Drive-In,3.0,$,Spartanburg,South Carolina
+1,12,American Cookin' ,Rosie's Diner,,,Rockford,Michigan
+1,12,American Cookin' ,Dari-ette Drive-In,3.5,$,St. Paul,Minnesota
+1,12,American Cookin' ,The Russian River Pub,4.0,$$,Forestville,California
+1,12,American Cookin' ,Al's Breakfast,4.0,$$,Minneapolis,Minnesota
+2,1,Totally Fried,Falafel's Drive-In,4.0,$,San Jose,California
+2,1,Totally Fried,Ramona Café,3.0,$$,Ramona,California
+2,1,Totally Fried,Silk City Diner,4.0,$$,Philadelphia,Pennsylvania
+2,2,Route 66,Emma Jean's Holland Burger Café,4.5,$,Victorville,California
+2,2,Route 66,The Rock Café,4.0,$,Stroud,Oklahoma
+2,2,Route 66,Café on the Route,4.0,,Baxter Springs,Kansas
+2,3,Seaside Eats,Evelyn's Drive-In,3.0,$$,Tiverton,Rhode Island
+2,3,Seaside Eats,Hodad's,4.0,$$,Ocean Beach,California
+2,3,Seaside Eats,Keegan's Seafood Grille,4.0,$$,Indian Rocks Beach,Florida
+2,4,Local Flavors,Clanton's Café,4.0,$,Vinita,Oklahoma
+2,4,Local Flavors,Mike's Chili Parlor,3.5,$,Seattle,Washington
+2,4,Local Flavors,Duarte's Tavern,3.5,$$,Pescadero,California
+2,5,Viewer's Choice,Bobby's Hawaiian Style Restaurant,4.0,$$,Everett,Washington
+2,5,Viewer's Choice,Ted Peters Famous Smoked Fish,4.0,$$,South Pasadena,Florida
+2,5,Viewer's Choice,Psycho Suzie's Motor Lounge,3.5,$$,Minneapolis,Minnesota
+2,6,Real Deal BBQ,Jay Bee's Bar-B-Que,3.5,$$,Gardena,California
+2,6,Real Deal BBQ,Smoque,4.5,$$,Chicago,Illinois
+2,6,Real Deal BBQ,BBQ Shack,,,Paola,Kansas
+2,7,Talkin' Turkey,Mike's City Diner,4.0,$$,Boston,Massachusetts
+2,7,Talkin' Turkey,Willie Bird's Restaurant,3.5,$$,Santa Rosa,California
+2,7,Talkin' Turkey,Alpine Steakhouse,3.5,$$,Sarasota,Florida
+2,8,One of a Kind,JT Farnham's Seafood & Grill,,,Essex,Massachusetts
+2,8,One of a Kind,Joe's Gizzard City,3.5,$$,Potterville,Michigan
+2,8,One of a Kind,Grubstake Diner,3.5,$$,San Francisco,California
+2,8,One of a Kind,Los Tapatios,,,San Jose,California
+2,9,Family Owned,El Indio,,,San Diego,California
+2,9,Family Owned,Charlie's Diner,3.0,$$,Spencer,Massachusetts
+2,9,Family Owned,Paradise Pup,4.5,$,Des Plaines,Illinois
+2,10,Open 24/7,Studio Diner,3.5,$$,San Diego,California
+2,10,Open 24/7,White Palace Grill,3.5,$$,Chicago,Illinois
+2,10,Open 24/7,The Dining Car,3.5,$$,Philadelphia,Pennsylvania
+2,11,Off the Hook Specials,Schooner or Later,3.5,$$,Long Beach,California
+2,11,Off the Hook Specials,Grinders Pizza,4.0,$$,Kansas City,Missouri
+2,11,Off the Hook Specials,The Fly Trap,4.0,$$,Ferndale,Michigan
+2,11,Off the Hook Specials,Galewood Cook Shack,,,Chicago,Illinois
+2,12,"Burgers, Rings and Fries",Joe's Cable Car,,,San Francisco,California
+2,12,"Burgers, Rings and Fries",The Nook,,,St. Paul,Minnesota
+2,12,"Burgers, Rings and Fries",Krazy Jim's Blimpy Burger,3.5,$,Ann Arbor,Michigan
+2,13,The New Jersey Diner Tour,Mustache Bill's,4.0,$$,Barnegat Light,New Jersey
+2,13,The New Jersey Diner Tour,Tick Tock Diner,2.5,$$,Clifton,New Jersey
+2,13,The New Jersey Diner Tour,White Manna Hamburgers,,,Hackensack,New Jersey
+2,13,The New Jersey Diner Tour,The Ritz Diner,2.5,$$,Livingston,New Jersey
+2,13,The New Jersey Diner Tour,Hightstown Diner,3.0,$,Hightstown,New Jersey
+2,13,The New Jersey Diner Tour,Skylark Diner,3.5,$$,Edison,New Jersey
+2,13,The New Jersey Diner Tour,Jefferson Diner,3.0,$$,Lake Hopatcong,New Jersey
+3,1,Big Breakfast,Brownstone Diner,,,Jersey City,New Jersey
+3,1,Big Breakfast,39th Street Mama's,,,Kansas City,Missouri
+3,1,Big Breakfast,Matt's Big Breakfast,4.0,$$,Phoenix,Arizona
+3,2,Like Mama Made,Roberto's Mexican Food,,,Phoenix,Arizona
+3,2,Like Mama Made,Smokey Valley Truck Stop,,,Olive Hill,Kentucky
+3,2,Like Mama Made,Sweetie Pie's,,,St. Louis,Missouri
+3,3,Regional Favorites,Charlie Parker's,4.0,$,Springfield,Illinois
+3,3,Regional Favorites,Tecolote Café,4.0,$$,Santa Fe,New Mexico
+3,3,Regional Favorites,Virginia Diner,3.0,$$,Wakefield,Virginia
+3,4,Neighborhood Joints,Thee Pitts Again,4.0,$$,Silverton,Colorado
+3,4,Neighborhood Joints,Iron Barley,,,St. Louis,Missouri
+3,4,Neighborhood Joints,Daddypops,4.0,$,Hatboro,Pennsylvania
+3,4,Neighborhood Joints,The Village Café,3.5,$$,Richmond,Virginia
+3,5,A World of Flavors,Chino Bandido,4.0,$,Phoenix,Arizona
+3,5,A World of Flavors,Marietta Diner,3.5,$$,Marietta,Georgia
+3,5,A World of Flavors,YJ's Snack Bar,4.0,,Kansas City,Missouri
+3,6,Something Different,Scully's Tavern,4.0,$$,Miami,Florida
+3,6,Something Different,Dot's Back Inn,4.0,$$,Richmond,Virginia
+3,6,Something Different,Hillbilly Hot Dogs,4.5,$$,Lesage,West Virginia
+3,7,American Classics,11th Street Diner,3.5,$$,Miami Beach,Florida
+3,7,American Classics,Bobo Drive-In,4.0,$,Topeka,Kansas
+3,7,American Classics,Little Tea Shop,4.5,$,Memphis,Tennessee
+3,8,Real Deal Fast Food,Panini Pete's,4.5,$,Fairhope,Alabama
+3,8,Real Deal Fast Food,Joe's Farm Grill,4.0,$$,Gilbert,Arizona
+3,8,Real Deal Fast Food,Maria's Taco Express,4.0,$,Austin,Texas
+3,9,The Memphis BBQ Tour,Cozy Corner,,,Memphis,Tennessee
+3,9,The Memphis BBQ Tour,Leonard's BBQ,,,Memphis,Tennessee
+3,9,The Memphis BBQ Tour,Marlowe's Ribs,,,Memphis,Tennessee
+3,9,The Memphis BBQ Tour,Tom's Bar-B-Q,4.0,$$,Memphis,Tennessee
+3,10,Comfort Food,Grampa's Bakery & Restaurant,3.5,$$,Dania Beach,Florida
+3,10,Comfort Food,Blue Moon Café,4.0,$$,Baltimore,Maryland
+3,10,Comfort Food,Central City Cafe,4.0,$,Huntington,West Virginia
+3,10,Comfort Food,Tip Top Café,3.0,$$,San Antonio,Texas
+3,11,Where The Locals Go,Matthews Cafeteria,4.0,$,Tucker,Georgia
+3,11,Where The Locals Go,The Rivershack Tavern,4.0,$$,Jefferson,Louisiana
+3,11,Where The Locals Go,Monte Carlo Steak House,4.0,$$,Albuquerque,New Mexico
+3,12,All Kinds of BBQ,The Joint,4.5,$$,New Orleans,Louisiana
+3,12,All Kinds of BBQ,The Shed,,,Ocean Springs,Mississippi
+3,12,All Kinds of BBQ,Texas Pride BBQ,3.5,$$,Adkins,Texas
+3,13,In the Family,Benny's Seafood Restaurant,,,South Miami,Florida
+3,13,In the Family,Chaps Pit Beef,4.5,$,Baltimore,Maryland
+3,13,In the Family,Burger Bar,4.0,$,Roy,Utah
+4,1,Brain Freeze,Doumar's,,,Norfolk,Virginia
+4,1,Brain Freeze,Aunt Lena's Creamery,,,Chandler,Arizona
+4,1,Brain Freeze,The Creole Creamery,4.5,$,New Orleans,Louisiana
+4,2,Diners You Sent Me To,Town Talk Diner,4.5,$$,Minneapolis,Minnesota
+4,2,Diners You Sent Me To,Blue Plate Diner,3.5,$$,Salt Lake City,Utah
+4,2,Diners You Sent Me To,Broadway Diner,4.0,$$,Baltimore,Maryland
+4,3,Bar Food,The Highlander,3.5,$$,Atlanta,Georgia
+4,3,Bar Food,Gumbo Shack,,,Fairhope,Alabama
+4,3,Bar Food,Starlite Lounge,3.5,$,Blawnox,Pennsylvania
+4,4,Burgers and Dogs,The Wienery,4.0,$,Minneapolis,Minnesota
+4,4,Burgers and Dogs,Casino El Camino,3.5,$$,Austin,Texas
+4,4,Burgers and Dogs,G&A Restaurant,4.0,$,Baltimore,Maryland
+4,5,Where the Locals Eat,Uncle Lou's,,,Memphis,Tennessee
+4,5,Where the Locals Eat,Captain Chuck A Mucks,,,Rescue,Virginia
+4,5,Where the Locals Eat,Dixie Quicks,,,Omaha,Nebraska
+4,6,Totally Unexpected,Cabbage Town Market,,,Atlanta,Georgia
+4,6,Totally Unexpected,The Cove,4.0,$$,San Antonio,Texas
+4,6,Totally Unexpected,Bryant-Lake Bowl,3.5,$$,Minneapolis,Minnesota
+4,7,A Taste of Everywhere,Jamaica Kitchen,4.0,$$,Kendale Lakes,Florida
+4,7,A Taste of Everywhere,Crystal Restaurant,,,Pittsburgh,Pennsylvania
+4,7,A Taste of Everywhere,Red Iguana,4.5,$$,Salt Lake City,Utah
+4,8,Better Than Ever,Colonnade,,,Atlanta,Georgia
+4,8,Better Than Ever,Manci's Antique Club,3.5,$$,Daphne,Alabama
+4,8,Better Than Ever,Amato's,3.5,$,Omaha,Nebraska
+4,9,Big Flavor,Darwell's Café,4.5,$$,Long Beach,Mississippi
+4,9,Big Flavor,Brick Oven Pizza,3.0,$,Baltimore,Maryland
+4,9,Big Flavor,Victor's 1959 Café,4.0,$$,Minneapolis,Minnesota
+4,10,Cookin' It Old School,Nadine's Restaurant,,,Pittsburgh,Pennsylvania
+4,10,Cookin' It Old School,Casamento's Restaurant,4.0,$$,New Orleans,Louisiana
+4,10,Cookin' It Old School,Big Mama's Kitchen & Catering,4.0,$$,Omaha,Nebraska
+4,11,Grabbin'a Sandwich,Moochie's Meatballs & More,4.0,$$,Salt Lake City,Utah
+4,11,Grabbin'a Sandwich,Cemitas Puebla,3.5,$$,Chicago,Illinois
+4,11,Grabbin'a Sandwich,Tioli's Crazee Burger,,,San Diego,California
+4,12,Traditional Dishes,Donatelli's,4.0,$$,White Bear Lake,Minnesota
+4,12,Traditional Dishes,Stoney Creek Inn,4.0,$$,Baltimore,Maryland
+4,12,Traditional Dishes,Alcenia's,,,Memphis,Tennessee
+4,13,Doin' Their Own Thing,Lone Star Taqueria,4.0,$,Salt Lake City,Utah
+4,13,Doin' Their Own Thing,Modern Café,4.0,$,Minneapolis,Minnesota
+4,13,Doin' Their Own Thing,Brewburger's,,,Omaha,Nebraska
+5,1,What's For Breakfast,Surrey's Café,,,New Orleans,Louisiana
+5,1,What's For Breakfast,Harry's Roadhouse,4.0,$$,Santa Fe,New Mexico
+5,1,What's For Breakfast,Dor-Stop Restaurant,4.0,$,Pittsburgh,Pennsylvania
+5,2,Real Deal Italian,LoBello's Spaghetti House,,,Coraopolis,Pennsylvania
+5,2,Real Deal Italian,Di Pasquale's,,,Baltimore,Maryland
+5,2,Real Deal Italian,Pizzeria Luigi,4.0,$$,San Diego,California
+5,3,Not What You'd Expect,Sophia's Place,,,Albuquerque,New Mexico
+5,3,Not What You'd Expect,Magnolia Café,3.5,$$,Austin,Texas
+5,3,Not What You'd Expect,Glenn's Diner,4.0,$$,Chicago,Illinois
+5,4,Places You Sent Me,Ruth's Diner,4.0,$$,Salt Lake City,Utah
+5,4,Places You Sent Me,O'Rourke's Diner,4.0,$$,Middletown,Connecticut
+5,4,Places You Sent Me,Parasol's,,,New Orleans,Louisiana
+5,5,Long Time Legends,Tommy's Joynt,4.0,$$,San Francisco,California
+5,5,Long Time Legends,Joe Tess Place,3.0,$$,Omaha,Nebraska
+5,5,Long Time Legends,Big Jim's,,,Pittsburgh,Pennsylvania
+5,6,Something from Everywhere,Valencia Luncheria,4.0,$$,Norwalk,Connecticut
+5,6,Something from Everywhere,The Original Vito & Nick's Pizzeria,4.0,$$,Chicago,Illinois
+5,6,Something from Everywhere,Emily's Lebanese Delicatessen,4.0,$$,Minneapolis,Minnesota
+5,7,Neighborhood Favorites,Pat's BBQ,3.5,$$,Salt Lake City,Utah
+5,7,Neighborhood Favorites,Blow Fly Inn,3.0,$$,Gulfport,Mississippi
+5,7,Neighborhood Favorites,Tune-Up Café,4.5,$$,Santa Fe,New Mexico
+5,8,Just Like Yesterday,Hob Nob Hill,4.0,$$,San Diego,California
+5,8,Just Like Yesterday,The Silver Skillet,3.5,$$,Atlanta,Georgia
+5,8,Just Like Yesterday,Tufano's Vernon Park Tap,4.0,$$,Chicago,Illinois
+5,9,Return to Route 66,Standard Diner,4.0,$$,Albuquerque,New Mexico
+5,9,Return to Route 66,Dell Rhea's Chicken Basket,3.5,$$,Willowbrook,Illinois
+5,9,Return to Route 66,Salsa Brava,4.0,$$,Flagstaff,Arizona
+5,10,BBQ & More,Green Mesquite,3.5,$$,Austin,Texas
+5,10,BBQ & More,Gorilla BBQ,4.0,$$,Pacifica,California
+5,10,BBQ & More,Wilson's Holy Smoke BBQ,,,Fairfield,Connecticut
+5,11,Regional Classics,Cecilia's Café,4.0,$,Albuquerque,New Mexico
+5,11,Regional Classics,Joey K's Restaurant & Bar,4.0,$$,New Orleans,Louisiana
+5,11,Regional Classics,Kelly O's Diner,4.0,$$,Pittsburgh,Pennsylvania
+5,12,All Kinds of Fast Food,Super Duper Weenie,4.0,$,Fairfield,Connecticut
+5,12,All Kinds of Fast Food,California Tacos,3.5,$,Omaha,Nebraska
+5,12,All Kinds of Fast Food,Bert's Burger Bowl,,,Santa Fe,New Mexico
+5,13,Family Favorites,Giusti's,4.0,$$,Walnut Grove,California
+5,13,Family Favorites,Haus Murphy's,4.0,$$,Glendale,Arizona
+5,13,Family Favorites,Louie's,3.5,$$,Dallas,Texas
+6,1,Funky Joints,Bizzaro Café,,,Seattle,Washington
+6,1,Funky Joints,Chef Point Café,,,Watauga,Texas
+6,1,Funky Joints,Jamie's Bar & Grill,4.0,$$,Sacramento,California
+6,2,Their Own Way,Bluewater Seafood Market & Grill,4.0,$$,San Diego,California
+6,2,Their Own Way,Brandy's Restaurant & Bakery,4.0,$$,Flagstaff,Arizona
+6,2,Their Own Way,Kuma's Corner,4.0,$$,Chicago,Illinois
+6,3,A Little Bit of Everywhere,Bar Gernika,4.5,$$,Boise,Idaho
+6,3,A Little Bit of Everywhere,Café Rolle,4.5,$$,Sacramento,California
+6,3,A Little Bit of Everywhere,Havana Hideout,,,Lake Worth,Florida
+6,4,"A Burger, A Bowl and a Slice",La Piazza Al Forno,4.0,$$,Glendale,Arizona
+6,4,"A Burger, A Bowl and a Slice",Slim's Last Chance Chili Shack & Watering Hole,,,Seattle,Washington
+6,4,"A Burger, A Bowl and a Slice",Twisted Root Beer Co.,,,Dallas,Texas
+6,5,"Biscuits, Bagels and BLTs","Arleta Library, Bakery & Café",4.0,$$,Portland,Oregon
+6,5,"Biscuits, Bagels and BLTs",Bubba's Diner,,,San Anselmo,California
+6,5,"Biscuits, Bagels and BLTs",Flakowitz of Boynton Bakery & Deli Restaurant,,,Boynton Beach,Florida
+6,6,Who'Da Thunk It,Backroad Pizza,3.5,$$,Santa Fe,New Mexico
+6,6,Who'Da Thunk It,Jamaica Gates Caribbean Cuisine,,,Arlington,Texas
+6,6,Who'Da Thunk It,Chef Lou's Westside Drive-In,3.5,$,Boise,Idaho
+6,7,Go-To Joints,Black Duck Café,3.0,$,Westport,Connecticut
+6,7,Go-To Joints,Otto's Sausage Kitchen & Meat Market,4.5,$,Portland,Oregon
+6,7,Go-To Joints,Sol Food Puerto Rican Cuisine,,,San Rafael,California
+6,8,Homestyle,Giuseppe's Restaurant,,,Phoenix,Arizona
+6,8,Homestyle,Southern Kitchen Restaurant,4.0,$$,Tacoma,Washington
+6,8,Homestyle,Zia Diner & Angel Food Catering,,,Santa Fe,New Mexico
+6,9,All Kinds of Classics,Blue Marlin Fish House Restaurant,,,North Miami Beach,Florida
+6,9,All Kinds of Classics,Fred's Texas Café,4.0,$$,Fort Worth,Texas
+6,9,All Kinds of Classics,Pine State Biscuits,4.5,$,Portland,Oregon
+6,10,All Over The Map,Georgia Greek Restaurant & Deli,3.5,$$,Seattle,Washington
+6,10,All Over The Map,Los Tacquitos Grill,,,Phoenix,Arizona
+6,10,All Over The Map,Rocco's Café,4.0,$$,San Francisco,California
+6,11,Old Time Favorites,Blueplate Lunch Counter & Soda Fountain,,,Portland,Oregon
+6,11,Old Time Favorites,Don's Hilltop Kodiak Grill,,,Boise,Idaho
+6,11,Old Time Favorites,La Camoronera Restaurant & Fish Market,4.0,$$,Miami,Florida
+6,12,Comfort Cookin',Dottie's True Blue Café,4.0,$$,San Francisco,California
+6,12,Comfort Cookin',Over Easy,,,Phoenix,Arizona
+6,12,Comfort Cookin',Comet Café,4.0,$$,Milwaukee,Wisconsin
+6,13,Mama's Cookin',Polka Restaurant & Catering,,,Los Angeles,California
+6,13,Mama's Cookin',Avila's Café,,,Dallas,Texas
+6,13,Mama's Cookin',Mama E's,,,Oklahoma City,Oklahoma
+7,1,Upper Crust,Bunk Sandwiches,,,Portland,Oregon
+7,1,Upper Crust,Sonny's Famous Steak Hogies,4.0,$,Hollywood,Florida
+7,1,Upper Crust,The Depot American Diner,,,Chicago,Illinois
+7,2,"Burgers, Tacos & Dogs",Lankford Grocery,4.0,$,Houston,Texas
+7,2,"Burgers, Tacos & Dogs",Fab Hot Dogs,4.0,$,Reseda,California
+7,2,"Burgers, Tacos & Dogs",Cempazuchi,,,Milwaukee,Wisconsin
+7,3,Name That Cook,Rick's Press Room & Grill,,,Meridian,Idaho
+7,3,Name That Cook,Nic's Grill,4.5,$$,Oklahoma City,Oklahoma
+7,3,Name That Cook,Pam's Kitchen,4.0,$$,Seattle,Washington
+7,4,Global Grub,Prince Lebanese Grill,4.5,$$,Arlington,Texas
+7,4,Global Grub,Tre Kronor,4.0,$$,Chicago,Illinois
+7,4,Global Grub,La Texanita,,,Santa Rosa,California
+7,5,Only At This Joint,Podnah's Pit Barbeque,4.0,$$,Portland,Oregon
+7,5,Only At This Joint,Donnie Mac's Trailer Park Cuisine,,,Boise,Idaho
+7,5,Only At This Joint,Whale's Rib,4.0,$$,Deerfield Beach,Florida
+7,6,You Picked ‘Em,Eischen's Bar & Grill,4.0,$$,Okarche,Oklahoma
+7,6,You Picked ‘Em,Mom's Tamales,5.0,,Los Angeles,California
+7,6,You Picked ‘Em,Kenny & Ziggy's,,,Houston,Texas
+7,7,You Can Say That Again,Tap Tap Haitian Restaurant,,,Miami Beach,Florida
+7,7,You Can Say That Again,Pok Pok,4.0,$$,Portland,Oregon
+7,7,You Can Say That Again,Niko Niko's,,,Houston,Texas
+7,8,"Barbequed, Baked & Brined",Honky Tonk BBQ,3.5,$$,Chicago,Illinois
+7,8,"Barbequed, Baked & Brined",Pizzalchik,,,Boise,Idaho
+7,8,"Barbequed, Baked & Brined",Lucky's Café,4.0,$$,Cleveland,Ohio
+7,9,Blast from the Past,Cattlemen's Steakhouse,,,Oklahoma City,Oklahoma
+7,9,Blast from the Past,Sam LaGrassa's,4.5,$$,Boston,Massachusetts
+7,9,Blast from the Past,Nickel Diner,4.0,$$,Los Angeles,California
+7,10,Dives Worth a Drive,Parkview Nightclub,4.0,$$,Cleveland,Ohio
+7,10,Dives Worth a Drive,The Shanty,4.0,$$,Wadsworth,Illinois
+7,10,Dives Worth a Drive,Grover's Bar & Grill,4.0,$$,East Amherst,New York
+7,11,Family Style,Louis Family Restaurant,3.5,$,Providence,Rhode Island
+7,11,Family Style,Café Pita+,5.0,$$,Houston,Texas
+7,11,Family Style,Mambos Café,3.5,$$,Glendale,California
+7,12,Diners Times Three,The Little Depot Diner,4.5,$,Peabody,Massachusetts
+7,12,Diners Times Three,Santa Cruz Diner,2.5,$$,Santa Cruz,California
+7,12,Diners Times Three,The Diner,4.5,$,Norman,Oklahoma
+7,13,Legacies,Lake Effect Diner,3.5,$$,Buffalo,New York
+7,13,Legacies,Geraci's Restaurant,3.5,$$,Cleveland,Ohio
+7,13,Legacies,Morin's Hometown Bar & Grill,3.5,$$,Attleboro,Massachusetts
+8,1,"Burgers, Steaks & Chops",Mr. Bartley's Gourmet Burgers,3.5,$$,Cambridge,Massachusetts
+8,1,"Burgers, Steaks & Chops",T-Bone Tom's Steakhouse,,,Kemah,Texas
+8,1,"Burgers, Steaks & Chops",Tee Off Bar & Grill,,,San Francisco,California
+8,2,"Pizza, Pork & Paprikash",Pizza Junction,,,North Tonawanda,New York
+8,2,"Pizza, Pork & Paprikash",Sterle's Slovenian Country House,,,Cleveland,Ohio
+8,2,"Pizza, Pork & Paprikash",Q Restaurant,3.5,$$,San Francisco,California
+8,3,"Stacked, Stuffed & Loaded",Bob's Taco Station,3.5,$$,Rosenberg,Texas
+8,3,"Stacked, Stuffed & Loaded",Crazy Burger Café & Juice Bar,4.0,$$,Narragansett,Rhode Island
+8,3,"Stacked, Stuffed & Loaded",The Oinkster,4.0,$$,Eagle Rock,California
+8,4,Triple D Goes Tailgatin',Rudy's Can't Fail Cafe,3.5,$$,Emeryville,California
+8,4,Triple D Goes Tailgatin',900 Grayson Restaurant,,,Berkeley,California
+8,4,Triple D Goes Tailgatin',Rick & Ann's Restaurant,,,Berkeley,California
+8,5,Home And Away,Taste of Peru,4.0,$$,Chicago,Illinois
+8,5,Home And Away,Ingrid's Kitchen,4.0,$$,Oklahoma City,Oklahoma
+8,5,Home And Away,Blackthorn Restaurant & Pub,4.0,$$,Buffalo,New York
+8,6,By Request,South 21 Drive-In,4.0,$,Charlotte,North Carolina
+8,6,By Request,Red Lion Pub & Restaurant,,,Houston,Texas
+8,6,By Request,Melt Bar & Grilled,4.0,$$,Lakewood,Ohio
+8,7,And The Kicker Is...,Pawley's Front Porch,3.5,$$,Columbia,South Carolina
+8,7,And The Kicker Is...,Sophia Restaurant,4.5,$,Buffalo,New York
+8,7,And The Kicker Is...,Bette's Oceanview Diner,4.0,$$,Berkeley,California
+8,8,Comfort Food Classics,The Liberty Elm Diner,,,Providence,Rhode Island
+8,8,Comfort Food Classics,Naglee Park Garage,3.5,$$,San Jose,California
+8,8,Comfort Food Classics,Dish,4.0,$$,Charlotte,North Carolina
+8,9,Twists And Traditions,Earl's Drive-In,,,Chaffee,New York
+8,9,Twists And Traditions,Aldo's Harbor Restaurant,3.5,$$,Santa Cruz,California
+8,9,Twists And Traditions,Momocho,4.0,$$,Cleveland,Ohio
+8,10,Fresh And Funky,Dish Café & Catering,4.5,$$,Reno,Nevada
+8,10,Fresh And Funky,Landmark Restaurant,3.5,$,Charlotte,North Carolina
+8,10,Fresh And Funky,Pier 23 Café,,,San Francisco,California
+8,11,Triple D Goes Hawaiian,Highway Inn & Ho'okipa Catering,,,Waipahu,Hawaii
+8,11,Triple D Goes Hawaiian,Hank's Haute Dogs,4.0,$,Honolulu,Hawaii
+8,11,Triple D Goes Hawaiian,Nico's Pier 38,4.0,$$,Honolulu,Hawaii
+8,11,Triple D Goes Hawaiian,Germaine's Luau,3.5,$$$$,Kapolei,Hawaii
+9,1,Surf ‘n Turf,North End Café,4.0,$$,Manhattan Beach,California
+9,1,Surf ‘n Turf,Gold ‘N Silver Inn,3.5,$$,Reno,Nevada
+9,1,Surf ‘n Turf,Singleton's Seafood Shack,3.5,$$,Atlantic Beach,Florida
+9,2,Homegrown & Homemade,The Farmer's Shed,,,Lexington,South Carolina
+9,2,Homegrown & Homemade,Poke Stop at Mililana Mauka Llc.,,,Mililani,Hawaii
+9,2,Homegrown & Homemade,Mulberry Café,,,Lackawanna,New York
+9,3,Globetrottin',Louis' Basque Corner,4.0,$$,Reno,Nevada
+9,3,Globetrottin',13 Gypsies,4.0,$$,Jacksonville,Florida
+9,3,Globetrottin',Gloria's Café,4.0,$$,Los Angeles,California
+9,4,Bringin' It Home,Café Citti,4.0,$$,Kenwood,California
+9,4,Bringin' It Home,Cabo Fish Taco,4.0,$$,Charlotte,North Carolina
+9,4,Bringin' It Home,Murphy's Bar & Grill,4.0,$$,Honolulu,Hawaii
+9,5,Porkapalooza,At Last Café,,,Long Beach,California
+9,5,Porkapalooza,Virgil's Café,,,Bellevue,Kentucky
+9,5,Porkapalooza,Martin's Bar-B-Que Joint,4.0,$$,Nolensville,Tennessee
+9,6,"Grilled, Smoked & Sauced",Terry's Turf Club,4.0,$$,Cincinnati,Ohio
+9,6,"Grilled, Smoked & Sauced",Schellville Grille,3.5,$$,Sonoma,California
+9,6,"Grilled, Smoked & Sauced",Jake's Good Eats,3.5,$$,Charlotte,North Carolina
+9,7,Comfort Food With Attitude,Jax At The Trax,3.5,$$,Truckee,California
+9,7,Comfort Food With Attitude,Culhane's Irish Pub,4.5,$$,Atlantic Beach,Florida
+9,7,Comfort Food With Attitude,Blue Ash Chili Restaurant,4.5,$,Cincinnati,Ohio
+9,8,Fast Food Their Way,Don Chow Tacos,,,Los Angeles,California
+9,8,Fast Food Their Way,Rainbow Drive-In,4.0,$,Honolulu,Hawaii
+9,8,Fast Food Their Way,Northern Waters Smokehaus,4.5,$$,Duluth,Minnesota
+9,9,Farm To Table,Blackwater Grill,3.5,$$,St. Simons Island,Georgia
+9,9,Farm To Table,Comet Ping Pong,3.5,$$,Washington D.C.,DC
+9,9,Farm To Table,Wallace Station,,,Versailles,Kentucky
+9,10,Kansas City Barbeque Tour,Smokin' Guns BBQ,3.5,$$,North Kansas City,Missouri
+9,10,Kansas City Barbeque Tour,RJ's Bob-Be-Que Shack,3.5,$$,Mission,Kansas
+9,10,Kansas City Barbeque Tour,Johnny's Bar-B-Q,,,Mission,Kansas
+9,10,Kansas City Barbeque Tour,Woodyard Bar-B-Que,4.0,$$,Kansas City,Kansas
+9,11,Burgers ‘n More,Swagger Fine Spirits & Food,,,Kansas City,Missouri
+9,11,Burgers ‘n More,Burger Me!,4.0,$$,Truckee,California
+9,11,Burgers ‘n More,Athens Family Restaurant,4.0,$$,Nashville,Tennessee
+9,12,You Called It,Paul's Coffee Shop,3.5,$$,Fountain Valley,California
+9,12,You Called It,Rick's White Light Diner,4.0,$$,Frankfort,Kentucky
+9,12,You Called It,Gordy's Hi-Hat,,,Cloquet,Minnesota
+9,13,Old Time Attitude,Arnold's Country Kitchen,4.5,$$,Nashville,Tennessee
+9,13,Old Time Attitude,Southern Soul Barbeque,4.5,$$,St. Simons Island,Georgia
+9,13,Old Time Attitude,Maine Diner,4.0,$$,Wells,Maine
+10,1,Family Joints,Kramarczuk's,,,Minneapolis,Minnesota
+10,1,Family Joints,Happy Gillis Café & Hangout,4.5,$$,Kansas City,Missouri
+10,1,Family Joints,Hillbilly Hot Dogs,4.5,$$,Lesage,West Virginia
+10,2,Tried and True,Mama Cozza's,3.0,$$,Anaheim,California
+10,2,Tried and True,Tune In Restaurant,,,Washington D.C.,DC
+10,2,Tried and True,Bob's Clam Hut,4.0,$$,Kittery,Maine
+10,3,Timeless,Greek Corner Restaurant,4.0,$$,Cambridge,Massachusetts
+10,3,Timeless,Bro's Cajun Cuisine,3.5,$$,Nashville,Tennessee
+10,3,Timeless,The General Store,4.0,$$,Silver Spring,Maryland
+10,4,You Found ‘Em,Parkette Drive In,3.5,$,Lexington,Kentucky
+10,4,You Found ‘Em,Metro Diner,4.5,$$,Jacksonville,Florida
+10,4,You Found ‘Em,Al's Breakfast,4.0,$$,Minneapolis,Minnesota
+10,5,"Wings, Dogs and Claws",The Lobster Shanty,3.5,$$,Salem,Massachusetts
+10,5,"Wings, Dogs and Claws",The Brick,4.0,$,Kansas City,Missouri
+10,5,"Wings, Dogs and Claws",Oohh's & Aahh's Gourmet Deli,,,Washington D.C.,DC
+10,6,Sauced and Spiced,J.J. McBrewster's,,,Lexington,Kentucky
+10,6,Sauced and Spiced,At Sara's Table Chester Creek Café,4.0,$$,Duluth,Minnesota
+10,6,Sauced and Spiced,Café Rakka,4.5,$$,Hendersonville,Tennessee
+10,7,Made to Order,Rino's Place,4.0,$$,East Boston,Massachusetts
+10,7,Made to Order,The Blue Door Pub,,,St. Paul,Minnesota
+10,7,Made to Order,Bay Way Diner,,,Linden,New Jersey
+10,8,"Fresh, Filled and Fried",Chaps Coffee Co.,4.0,$$,Spokane,Washington
+10,8,"Fresh, Filled and Fried",Good Dog Bar & Restaurant,,,Philadelphia,Pennsylvania
+10,8,"Fresh, Filled and Fried",Porthole Restaurant,3.5,$$,Portland,Maine
+10,9,Gone Global,LaCaraquena,,,Falls Church,Virginia
+10,9,Gone Global,Savarino's Cucina,,,Nashville,Tennessee
+10,9,Gone Global,Brats Brothers,,,Sherman Oaks,California
+10,10,A Triple D Thanksgiving,George's Place,4.0,$$,Cape May,New Jersey
+10,10,A Triple D Thanksgiving,Becky's Diner,4.0,$$,Portland,Maine
+10,10,A Triple D Thanksgiving,Sammy's Food Service & Deli,4.0,$$,New Orleans,Louisiana
+10,11,Sweet ‘n Savory,Meal Ticket,,,Berkeley,California
+10,11,Sweet ‘n Savory,Metro 29 Diner,3.0,$$,Arlington,Virginia
+10,11,Sweet ‘n Savory,Duluth Grill,4.5,$$,Duluth,Minnesota
+10,12,Wings ‘n Things,10th Avenue Burrito,3.0,$$,Belmar,New Jersey
+10,12,Wings ‘n Things,Capone's Pub,4.0,$$,Coeur d'Alene,Idaho
+10,12,Wings ‘n Things,Jamaicaway,,,Nashville,Tennessee
+10,13,Sandwiches Plus,Elk Public House,4.0,$$,Spokane,Washington
+10,13,Sandwiches Plus,Colossal Café,4.0,$$,Minneapolis,Minnesota
+10,13,Sandwiches Plus,Maui's Dog House,3.5,$,Wildwood,New Jersey
+11,1,From Pork to Tofu,Tortilla Café,4.0,$,Washington D.C.,DC
+11,1,From Pork to Tofu,Memphis Taproom,4.0,$$,Philadelphia,Pennsylvania
+11,1,From Pork to Tofu,The Golden Bear,4.0,$$,Sacramento,California
+11,2,"Po' Boys, Pasta & Pork",Mahoney's Po-Boy Shop,,,New Orleans,Louisiana
+11,2,"Po' Boys, Pasta & Pork",Hill's Restaurant & Lounge,,,Spokane,Washington
+11,2,"Po' Boys, Pasta & Pork",Q Fanatic BBQ,4.0,$$,Champlin,Minnesota
+11,3,Funky Finds,Sage General Store,,,Queens,New York
+11,3,Funky Finds,Quahog's Seafood Shack,3.5,$$,Stone Harbor,New Jersey
+11,3,Funky Finds,W.O.W. – Worth Our Weight,,,Santa Rosa,California
+11,4,Quirky Classics,Louie & The Red Head Lady,,,Mandeville,Louisiana
+11,4,Quirky Classics,Honey's Sit-N-Eat,4.0,$$,Philadelphia,Pennsylvania
+11,4,Quirky Classics,Picabu Neighborhood Bistro,,,Spokane,Washington
+11,5,A Little Twisted,The Pit Stop,3.0,$$,Merrick,New York
+11,5,A Little Twisted,Gatsby's Diner,,,Sacramento,California
+11,5,A Little Twisted,Anchor Bar,4.0,$,Superior,Wisconsin
+11,6,Signature Sandwiches,La Pines Café,4.0,$,Slidell,Louisiana
+11,6,Signature Sandwiches,Steuben's Food Service,,,Denver,Colorado
+11,6,Signature Sandwiches,3 Sisters Café,4.0,$$,Indianapolis,Indiana
+11,7,Favorites With A Twist,Jimmy's Down the Street,4.5,$$,Coeur d'Alene,Idaho
+11,7,Favorites With A Twist,Aunt Mary's Café,4.0,$$,Oakland,California
+11,7,Favorites With A Twist,Corey's Catsup & Mustard,,,Manchester,Connecticut
+11,8,Soup & Sandwiches,Pineville Tavern,3.0,$$,Pineville,Pennsylvania
+11,8,Soup & Sandwiches,Indy's Historic Steer-In Restaurant,4.0,$,Indianapolis,Indiana
+11,8,Soup & Sandwiches,Dad's Kitchen,4.0,$$,Sacramento,California
+11,9,From Crepes to Kreplach,Ben's Best Deli,,,Queens,New York
+11,9,From Crepes to Kreplach,Foolish Craig's Café,4.0,$$,Boulder,Colorado
+11,9,From Crepes to Kreplach,Waddell's Pub & Grille,3.5,$$,Spokane,Washington
+11,10,Fully Loaded,Katie's Restaurant,4.0,$$,New Orleans,Louisiana
+11,10,Fully Loaded,Jersey Café,,,Carmel,Indiana
+11,10,Fully Loaded,Merritt Canteen Inc.,4.0,$,Bridgeport,Connecticut
+11,11,From Mozz to Matzo Balls,Sunflower Café,4.0,$$,Sonoma,California
+11,11,From Mozz to Matzo Balls,Hildebrandt's,3.5,$$,Williston Park,New York
+11,11,From Mozz to Matzo Balls,The Bagel Delicatessen & Restaurant,,,Denver,Colorado
+11,12,Signature Twists,The Barking Dog,,,Indianapolis,Indiana
+11,12,Signature Twists,Putah Creek Café,3.5,$$,Winters,California
+11,12,Signature Twists,The Old Coffee Pot Restaurant,3.5,$$,New Orleans,Louisiana
+11,13,Porktastic,Jimtown Store,4.0,$$,Healdsburg,California
+11,13,Porktastic,Dough Pizzeria Napoletana,4.0,$$,San Antonio,Texas
+11,13,Porktastic,Sam's No. 3,4.0,$$,Denver,Colorado
+12,1,Bar Food and Bon Bons,The Sparrow Tavern,4.0,$$,Queens,New York
+12,1,Bar Food and Bon Bons,Catelli's,4.5,$$,Geyserville,California
+12,1,Bar Food and Bon Bons,Zest,,,Indianapolis,Indiana
+12,2,From Kraut to Couscous,Lauer-Krauts,4.5,$,Brighton,Colorado
+12,2,From Kraut to Couscous,Moroccan Bites,4.0,$$,San Antonio,Texas
+12,2,From Kraut to Couscous,California Tacos To Go,4.0,$,Tampa,Florida
+12,3,You Can Only Get It Here,HRD Coffee Shop,,,San Francisco,California
+12,3,You Can Only Get It Here,The Tamale Place,4.5,$,Indianapolis,Indiana
+12,3,You Can Only Get It Here,Garifuna Flava,4.5,$$,Chicago,Illinois
+12,4,Grillin' and Smokin',Bun ‘N Barrel,3.5,$,San Antonio,Texas
+12,4,Grillin' and Smokin',Tocabe American Indian Eatery,4.5,$,Denver,Colorado
+12,4,Grillin' and Smokin',Munch's Restaurant & Sundries,,,St. Petersburg,Florida
+12,5,Southern Flavor,Broken Record,4.0,$,San Francisco,California
+12,5,Southern Flavor,Bang!,,,Denver,Colorado
+12,5,Southern Flavor,Jose's Real Cuban Food,,,Bradenton,Florida
+12,6,Gettin' Fresh,The Sink,3.5,$$,Boulder,Colorado
+12,6,Gettin' Fresh,Nana Organic,,,Chicago,Illinois
+12,6,Gettin' Fresh,Get Fresh Café,,,Norfolk,Virginia
+12,7,Homemade & Homebrewed,Tampa Bay Brewing Co.,4.0,$$,Tampa,Florida
+12,7,Homemade & Homebrewed,Zydeco's,4.0,$$,Mooresville,Indiana
+12,7,Homemade & Homebrewed,Chilam Balam,3.5,$$,Chicago,Illinois
+12,8,Latin Street Food,Irazu,,,Chicago,Illinois
+12,8,Latin Street Food,Beto's Comida Latina,,,San Antonio,Texas
+12,8,Latin Street Food,Tortilleria Nixtamal,4.0,,Queens,New York
+12,9,Slammin' Sammies,Taco Taco Mexican Restaurant,4.5,$,San Antonio,Texas
+12,9,Slammin' Sammies,Whitner's Barbeque,3.5,$$,Virginia Beach,Virginia
+12,9,Slammin' Sammies,DMK Burger Bar,4.0,$$,Chicago,Illinois
+12,10,Global Comfort,Rigoletto Italian Bakery & Café,4.0,$$,Virginia Beach,Virginia
+12,10,Global Comfort,Chuck's Southern Comforts Café,4.0,$$,Burbank,Illinois
+12,10,Global Comfort,El Bohio,,,San Antonio,Texas
+12,11,"Breakfast, Lunch & Dinner",Magnolia Pancake Haus,4.5,$$,San Antonio,Texas
+12,11,"Breakfast, Lunch & Dinner",Taco Bus,3.5,$,Tampa,Florida
+12,11,"Breakfast, Lunch & Dinner",Beach Pub,3.0,$$,Virginia Beach,Virginia
+12,12,"Pizza, Pancakes & Pork",Supino Pizzeria,4.5,$$,Detroit,Michigan
+12,12,"Pizza, Pancakes & Pork",Big & Littles,,,Chicago,Illinois
+12,12,"Pizza, Pancakes & Pork",Citrus Breakfast & Lunch,,,Virginia Beach,Virginia
+12,13,Old to New,Polish Village Café,4.0,$$,Hamtramck,Michigan
+12,13,Old to New,Leaping Lizards Café,4.0,$$,Virginia Beach,Virginia
+12,13,Old to New,Jethros Fine Grub,3.0,$$,Vancouver,British Columbia
+13,1,Seafood & Sammies,Fresh Local Wild,,,Vancouver,British Columbia
+13,1,Seafood & Sammies,Traffic Jam & Snug,3.0,$$,Detroit,Michigan
+13,1,Seafood & Sammies,Panozzo's Italian Market,4.5,$,Chicago,Illinois
+13,2,Coast to Coast Classics,Tomahawk Restaurant,,,North Vancouver,British Columbia
+13,2,Coast to Coast Classics,Danny's All American Diner,4.0,$,Tampa,Florida
+13,3,Kid Rock's Detroit Tour,Clarkston Union Bar & Kitchen,4.0,$$,Clarkston,Michigan
+13,3,Kid Rock's Detroit Tour,Union Woodshop,4.5,$$,Clarkston,Michigan
+13,3,Kid Rock's Detroit Tour,Michigan Brewing Co.,3.5,$$,Webberville,Michigan
+13,4,Southern Staples,Red Wagon Café,,,Vancouver,British Columbia
+13,4,Southern Staples,Perfectly Franks,,,Summerville,South Carolina
+13,4,Southern Staples,Mama's Food Shop,,,Manhattan,New York
+13,5,Scratch Made Classics,Lito's Mexican Restaurant,,,Santa Barbara,California
+13,5,Scratch Made Classics,Save On Meats,3.5,$$,Vancouver,British Columbia
+13,5,Scratch Made Classics,The Redhead,,,Manhattan,New York
+13,6,Meat Madness,Rincon Criollo,4.5,$$,Queens,New York
+13,6,Meat Madness,Tattooed Moose,4.5,$$,Charleston,South Carolina
+13,6,Meat Madness,Falconetti's,,,Vancouver,British Columbia
+13,7,Global Traditions,John's of 12th Street,3.5,$$,Manhattan,New York
+13,7,Global Traditions,Mac's Fish & Chip Shop,,,Santa Barbara,California
+13,8,Multitaskers,The Early Bird Diner,4.5,$$,Charleston,South Carolina
+13,8,Multitaskers,Boulevard Diner,3.5,$$,Dundalk,Maryland
+13,8,Multitaskers,The Kitchen,5.0,,Oxnard,California
+13,9,Family Matters,Sidecar,3.5,$$,Brooklyn,New York
+13,9,Family Matters,Peaceful Restaurant,3.5,$$,Vancouver,British Columbia
+13,9,Family Matters,Flip Flops Grill & Chill,4.0,$$,Virginia Beach,Virginia
+13,10,"Old Faves, New Craves",Norton's Pastrami & Deli,4.5,$$,Santa Barbara,California
+13,10,"Old Faves, New Craves",Meat & Bread,4.0,$,Vancouver,British Columbia
+13,10,"Old Faves, New Craves",Fuel Cantina,,,Charleston,South Carolina
+13,11,Long Standing Legacies,Defonte's Sandwich Shop,,,Brooklyn,New York
+13,11,Long Standing Legacies,The Glass Onion,4.0,$$,Charleston,South Carolina
+13,11,Long Standing Legacies,Galway Bay Irish Pub,4.0,$$,Annapolis,Maryland
+13,12,Time Tested Treasures,R&R Taqueria,3.5,$$,Elkridge,Maryland
+13,12,Time Tested Treasures,Nye's Polonaise Room,,,Minneapolis,Minnesota
+13,12,Time Tested Treasures,Moseberth's Fried Chicken,3.5,$,Portsmouth,Virginia
+13,13,Outside the Box,Joe Squared Pizza,3.5,$$,Baltimore,Maryland
+13,13,Outside the Box,Pepe's and Mito's,,,Dallas,Texas
+13,13,Outside the Box,Savoy Café & Deli,4.5,$$,Santa Barbara,California
+14,1,Triple D All Stars,Pizzeria Lola,4.5,$$,Minneapolis,Minnesota
+14,1,Triple D All Stars,Monument Cafe,3.5,$$,Georgetown,Texas
+14,2,Streamlined Sammies,Luke's Inside Out,4.5,$$,Austin,Texas
+14,2,Streamlined Sammies,Smack Shack at The 1029 Bar,,,Minneapolis,Minnesota
+14,2,Streamlined Sammies,Maple & Motor,4.0,$$,Dallas,Texas
+14,3,Crankin' Up the Classics,Broders' Cucina Italiana,4.0,$$,Minneapolis,Minnesota
+14,3,Crankin' Up the Classics,Chop House Burgers,4.0,,Arlington,Texas
+14,4,Passin' The Baton,Pete's Breakfast House,4.5,$$,Ventura,California
+14,4,Passin' The Baton,Sip & Bite Restaurant,3.5,$$,Baltimore,Maryland
+14,5,Big Time Flavor,Marla's Caribbean Cuisine,4.0,$$,Minneapolis,Minnesota
+14,5,Big Time Flavor,Cane Rosso,4.0,$$,Dallas,Texas
+14,5,Big Time Flavor,Counter Cafe,4.0,$$,Austin,Texas
+14,6,Unexpected Eats,Smalley's Caribbean Barbeque,,,Stillwater,Minnesota
+14,6,Unexpected Eats,Johnny Garlic's,,,Santa Rosa,California
+14,6,Unexpected Eats,Harvey's Hot Dogs II,,,Portsmouth,Virginia
+14,7,BBQ Road Show,Pecan Lodge,4.5,$$,Dallas,Texas
+14,7,BBQ Road Show,John Mull's Meats and Road Kill Grill,4.5,$$,Las Vegas,Nevada
+14,8,"All Vegas, All the Time",Naked City Pizza,4.0,$$,Las Vegas,Nevada
+14,8,"All Vegas, All the Time",Forte European Tapas Bar & Bistro,4.0,$$,Las Vegas,Nevada
+14,8,"All Vegas, All the Time",UNLV,,,Las Vegas,Nevada
+14,9,Serious Sandwiches,Lola's – A Louisiana Kitchen,4.0,$$,Las Vegas,Nevada
+14,9,Serious Sandwiches,Noble Pig Sandwiches,,,Austin,Texas
+14,9,Serious Sandwiches,Casper & Runyon's Nook,4.5,$$,St. Paul,Minnesota
+14,10,International Eats,Bachi Burger,4.0,$$,Las Vegas,Nevada
+14,10,International Eats,Afrah,,,Richardson,Texas
+14,10,International Eats,Gazala's Place,3.5,$$,Manhattan,New York
+14,11,Belly Up,Hopleaf Bar,4.0,$$,Chicago,Illinois
+14,11,Belly Up,Foreign & Domestic,3.5,$$,Austin,Texas
+14,12,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,,,Honolulu,Hawaii
+14,12,Dynamic Dishes,Taste of Europe,4.5,$$,Arlington,Texas
+14,12,Dynamic Dishes,Yayo Taco,,,Las Vegas,Nevada
+14,13,Coast to Coast Chow,Camille's on Wheels,,,Kailua,Hawaii
+14,13,Coast to Coast Chow,Chicago Brauhaus,,,Chicago,Illinois
+14,13,Coast to Coast Chow,Dixie Supply Bakery & Cafe,,,Charleston,South Carolina
+15,1,Unconventional Comforts,He'eia Kea Pier General Store and Deli,,,Kaneohe,Hawaii
+15,1,Unconventional Comforts,Rex Italian Foods,4.5,$,Norridge,Illinois
+15,1,Unconventional Comforts,Memphis Street Cafe,,,Hernando,Mississippi
+15,2,Goin' the Extra Mile,bopNgrill,,,Chicago,Illinois
+15,2,Goin' the Extra Mile,Sweet Home Waimanalo,,,Waimanalo,Hawaii
+15,3,Savory Standouts,90 Miles Cuban Cafe,4.0,$$,Chicago,Illinois
+15,3,Savory Standouts,Davis' Pub,4.0,$$,Annapolis,Maryland
+15,4,Surf 'N' Turf Jackpot,Memphis Barbecue Co.,4.0,$$,Horn Lake,Mississippi
+15,4,Surf 'N' Turf Jackpot,Fresh Catch,4.5,$$,Honolulu,Hawaii
+15,5,Massachusetts Madness,Italian Express Pizzeria,4.5,$$,East Boston,Massachusetts
+15,5,Massachusetts Madness,Cutty's,4.0,$,Brookline,Massachusetts
+15,6,East Coast Comfort,Tupelo,,,Cambridge,Massachusetts
+15,6,East Coast Comfort,Patti's Pierogis,4.5,$$,Fall River,Massachusetts
+15,6,East Coast Comfort,Angelo's Civito Farnese,,,Providence,Rhode Island
+15,6,East Coast Comfort,Mediterraneo Caffe,,,Providence,Rhode Island
+15,7,Flavortown Medley,South Of Beale (SOB),4.0,$$,Memphis,Tennessee
+15,7,Flavortown Medley,Big Wave Shrimp Truck,4.0,$$,Haleiwa,Hawaii
+15,7,Flavortown Medley,Chaps Pit Beef,4.5,$,Baltimore,Maryland
+15,8,"Burgers, Noodles and Quahogs",Boston Burger Company,3.5,$$,Boston,Massachusetts
+15,8,"Burgers, Noodles and Quahogs",Anthony's Seafood,4.0,$$,Middletown,Rhode Island
+15,8,"Burgers, Noodles and Quahogs",Guerilla Street Food,,,St. Louis,Missouri
+15,9,Handcrafted,The Elegant Farmer,,,Memphis,Tennessee
+15,9,Handcrafted,Italian Corner,4.5,$$,East Providence,Rhode Island
+15,10,"All Family, All the Time",Anthonino's Taverna,4.5,$$,St. Louis,Missouri
+15,10,"All Family, All the Time",Three Angels Diner,,,Memphis,Tennessee
+15,10,"All Family, All the Time",Opal Thai Food,4.0,$$,Haleiwa,Hawaii
+15,11,Food Done Right,Aunt Carrie's,3.0,$$,Narragansett,Rhode Island
+15,11,Food Done Right,The Shaved Duck,4.5,$$,St. Louis,Missouri
+15,11,Food Done Right,Angela's Cafe,,,East Boston,Massachusetts
+15,12,Pubs and Grub,Dressel's Public House,4.0,$$,St. Louis,Missouri
+15,12,Pubs and Grub,Outer Banks Brewing Station,3.5,$$,Kill Devil Hills,North Carolina
+15,12,Pubs and Grub,Edgewood Cafe,4.5,$$,Cranston,Rhode Island
+15,13,Turn On Traditional,Kitty Hoynes,,,Syracuse,New York
+15,13,Turn On Traditional,Espino's Mexican Bar and Grill,3.0,$$,Chesterfield,Missouri
+15,13,Turn On Traditional,Yankee Lobster Company,4.0,$$,Boston,Massachusetts
+16,1,Authentic Eats,Highway 61 Roadhouse and Kitchen,3.5,$$,Webster Groves,Missouri
+16,1,Authentic Eats,Byblos Mediterranean Cafe,3.5,$$,Syracuse,New York
+16,2,Fully Focused,Brine and Bottle,,,Nags Head,North Carolina
+16,2,Fully Focused,Pastabilities,4.5,$$,Syracuse,New York
+16,3,Far Out,La Isla Restaurant,4.0,$$,Hoboken,New Jersey
+16,3,Far Out,Funk 'n Waffles,3.5,$$,Syracuse,New York
+16,3,Far Out,Cravings,,,Duck,North Carolina
+16,4,Matches Made in Heaven,Ortegaz' Southwestern Grill,4.0,$$,Manteo,North Carolina
+16,4,Matches Made in Heaven,The Smoke Joint,5.0,,Brooklyn,New York
+16,5,Savory Sensations,The Weeping Radish,,,Jarvisburg,North Carolina
+16,5,Savory Sensations,Jimmy's Diner,4.0,$$,Brooklyn,New York
+16,6,Hometown Haunts,Marie's Italian Specialties,4.0,$$,Chatham,New Jersey
+16,6,Hometown Haunts,Darby's Cafe,,,Olympia,Washington
+16,7,Land to Sea,Empire Brewing Company,3.5,$$,Syracuse,New York
+16,7,Land to Sea,Black Pelican Oceanfront Restaurant,,,Kitty Hawk,North Carolina
+16,7,Land to Sea,Fish Tale Brew Pub,3.5,$$,Olympia,Washington
+16,8,Decadent Dishes,Crockett's Public House,4.0,$$,Puyallup,Washington
+16,8,Decadent Dishes,Pies 'N' Thighs,4.0,$$,Brooklyn,New York
+16,9,Eurocentric,Eva's European Sweets,4.5,$$,Syracuse,New York
+16,9,Eurocentric,Bruno's European Restaurant,4.0,$$,Tacoma,Washington
+16,9,Eurocentric,Hey Meatball,,,Toronto,"Ontario, Canada"
+16,10,Hittin' the Grill,Crown Bar,3.5,$$,Tacoma,Washington
+16,10,Hittin' the Grill,The Golden State,4.0,$$,Los Angeles,California
+16,11,Unlikely Partners,Beer Belly,4.0,$$,Los Angeles,California
+16,11,Unlikely Partners,Lakeview Restaurant,,,Toronto,"Ontario, Canada"
+16,12,Layers of Flavor,Tortugas' Lie,4.0,$$,Nags Head,North Carolina
+16,12,Layers of Flavor,The Ace,4.0,$$,Toronto,"Ontario, Canada"
+16,13,Real Deal Roots,Chomp Chomp Nation,4.0,$,Irvine,California
+16,13,Real Deal Roots,Caplansky's,,,Toronto,"Ontario, Canada"
+17,1,Tacos and Tots,Dirty Oscar's Annex,4.0,$$,Tacoma,Washington
+17,1,Tacos and Tots,Highland Tavern,4.0,$$,Denver,Colorado
+17,2,"Chicken, Chili and Chowder",Sidecar Bar and Grille,4.0,$$,Philadelphia,Pennsylvania
+17,2,"Chicken, Chili and Chowder",Chili John's,4.0,$$,Burbank,California
+17,2,"Chicken, Chili and Chowder",Stockyards Smokehouse and Larder,,,Toronto,"Ontario, Canada"
+17,3,Dynamic Duos,Atomic Cowboy,4.0,$$,Denver,Colorado
+17,3,Dynamic Duos,Perk Eatery,4.0,$$,Scottsdale,Arizona
+17,4,Traditional Gone Wild,South Philadelphia Tap Room,4.0,$$,Philadelphia,Pennsylvania
+17,4,Traditional Gone Wild,St. Francis,,,Phoenix,Arizona
+17,5,"Peppers, Pork and Poutine",Barrio Cafe,4.0,$$,Phoenix,Arizona
+17,5,"Peppers, Pork and Poutine",Rosedale Diner,3.5,$$,Toronto,"Ontario, Canada"
+17,6,Kings and Queens of 'Cue,Hops & Pie,4.5,$$,Denver,Colorado
+17,6,Kings and Queens of 'Cue,Bludso's BBQ,4.0,$$,Compton,California
+17,6,Kings and Queens of 'Cue,Percy Street Barbecue,,,Philadelphia,Pennsylvania
+17,7,A Festival of Flavor,Standard Tap,4.0,$$,Philadelphia,Pennsylvania
+17,7,A Festival of Flavor,Curry Corner,3.5,$,Tempe,Arizona
+17,7,A Festival of Flavor,Prohibition,4.0,$$,Denver,Colorado
+17,8,Timeless Traditions,Jamaican Jerk Hut,2.5,$$,Philadelphia,Pennsylvania
+17,8,Timeless Traditions,"DeFalco's Italian Eatery, Grocery & Deli",4.5,$$,Scottsdale,Arizona
+17,8,Timeless Traditions,CoraFaye's Café,3.5,$$,Denver,Colorado
+17,9,From Pound Cake to Pot Pie,Geechee Girl Rice Cafe,,,Philadelphia,Pennsylvania
+17,9,From Pound Cake to Pot Pie,Haggo's Organic Taco,4.0,$$,Leucadia,California
+17,9,From Pound Cake to Pot Pie,The Duce,3.5,$$,Phoenix,Arizona
+17,10,L.A. Eats,The Park's Finest BBQ,4.0,$$,Los Angeles,California
+17,10,L.A. Eats,Eastside Market Italian Deli,4.5,$,Los Angeles,California
+17,11,"All San Diego, All the Time",Hodad's,4.0,$$,Ocean Beach,California
+17,11,"All San Diego, All the Time",OB Noodle House,4.0,$$,Ocean Beach,California
+17,11,"All San Diego, All the Time",Pizzeria Luigi,4.0,$$,North Park,California
+17,12,From the Heart,Shirley's Tippy Canoe,3.0,$$,Troutdale,Oregon
+17,12,From the Heart,Spirito's Italian Diner,4.5,$$,Carlsbad,California
+17,12,From the Heart,Nopalito,4.0,$$,San Francisco,California
+17,13,That's Fresh,Pica Pica,,,San Francisco,California
+17,13,That's Fresh,Edelweiss Sausage & Delicatessen,4.0,$,Portland,Oregon
+18,1,Neighborhood Knockouts,Crest Café,3.5,$$,San Diego,California
+18,1,Neighborhood Knockouts,Show Dogs,,,San Francisco,California
+18,1,Neighborhood Knockouts,Industrial Café & Saloon,4.0,$$,Portland,Oregon
+18,2,Meat Lover's Paradise,The Refuge,4.0,$$,San Carlos,California
+18,2,Meat Lover's Paradise,The Country Cat,,,Portland,Oregon
+18,3,Servin' Up San Francisco,Miller's East Coast Deli,3.5,$$,San Francisco,California
+18,3,Servin' Up San Francisco,Koja Kitchen Food Truck,4.5,$$,San Francisco,California
+18,3,Servin' Up San Francisco,The Front Porch,4.0,$$,San Francisco,California
+18,4,"Cannoli, Fritters and Wings",Senor Sisig Food Truck,,,San Francisco,California
+18,4,"Cannoli, Fritters and Wings",A Taste of Home Cooking,,,Wheat Ridge,Colorado
+18,4,"Cannoli, Fritters and Wings",PDX671 Food Trailer,,,Portland,Oregon
+18,5,Aces of Authenticity,Casa Chimayo Restaurant,4.0,$$,Santa Fe,New Mexico
+18,5,Aces of Authenticity,Frank's Noodle House,3.5,$$,Portland,Oregon
+18,5,Aces of Authenticity,Torinos,,,Albuquerque,New Mexico
+18,6,Sammies and Stew,Jambo Cafe,4.5,$$,Santa Fe,New Mexico
+18,6,Sammies and Stew,Bocadillos,,,Albuquerque,New Mexico
+18,7,All Kinds of Gobble Gobble,Back Street Bistro,,,Santa Fe,New Mexico
+18,7,All Kinds of Gobble Gobble,Golden Crown Panaderia,4.5,$,Albuquerque,New Mexico
+18,7,All Kinds of Gobble Gobble,Danny Edward's BBQ,4.0,$$,Kansas City,Missouri
+18,8,Comfort and Soul,Tin Shed Garden Cafe,,,Portland,Oregon
+18,8,Comfort and Soul,Nexus Brewery,4.0,$$,Albuquerque,New Mexico
+18,8,Comfort and Soul,BB's Lawnside BBQ,4.0,$$,Kansas City,Missouri
+18,9,"Pork, Pasta and Barbecue",Succotash,4.0,$$,Kansas City,Missouri
+18,9,"Pork, Pasta and Barbecue",Cupini's,4.0,$$,Kansas City,Missouri
+18,9,"Pork, Pasta and Barbecue",The Cube,,,Albuquerque,New Mexico
+18,10,South of the Border,Asi y Asado,4.5,$,Cabo San Lucas,Mexico
+18,10,South of the Border,Solomon's Landing,4.0,$$,Cabo San Lucas,Mexico
+18,10,South of the Border,Tiki Bar,,,Cabo San Lucas,Mexico
+18,11,Tennessee Holiday Traditions,Center Point Pit Barbecue,3.5,$,Hendersonville,Tennessee
+18,11,Tennessee Holiday Traditions,Mas Tacos por Favor,,,Nashville,Tennessee
+18,12,Family Time,The Grilled Cheeserie,4.0,$$,Nashville,Tennessee
+18,12,Family Time,Caffe Nonna,4.0,$$,Nashville,Tennessee
+18,12,Family Time,Blue Koi,,,Kansas City,Missouri
+18,13,"Soup, Salad and Seafood",Pot Pie,4.5,$$,Kansas City,Missouri
+18,13,"Soup, Salad and Seafood",55 South,4.0,$$,Franklin,Tennessee
+18,13,"Soup, Salad and Seafood",Phat Bites,3.5,$,Nashville,Tennessee
+19,1,Guy's Hometown Tour,Pretzel Cart,,,Ferndale,California
+19,1,Guy's Hometown Tour,Clendenen's Cider Works,4.5,,Fortuna,California
+19,1,Guy's Hometown Tour,Loleta Cheese Shop,4.5,$,Loleta,California
+19,1,Guy's Hometown Tour,Ferndale Meat Co.,4.5,$,Ferndale,California
+19,1,Guy's Hometown Tour,Ivanhoe,,,Ferndale,California
+19,1,Guy's Hometown Tour,Humboldt Sweets,,,Ferndale,California
+19,2,All Things NY,Black Tree,,,Manhattan,New York
+19,2,All Things NY,Queen's Comfort,4.0,$$,Queens,New York
+19,2,All Things NY,Paul's Live From New York,3.5,$,Eureka,California
+19,3,Big Time Bites,Bun-Ker Vietnamese,,,Queens,New York
+19,3,Big Time Bites,Brindle Room,4.0,$$,Manhattan,New York
+19,3,Big Time Bites,Brick & Fire,4.5,$$,Eureka,California
+19,4,Keepin' It Real,Sakaya Kitchen,3.5,$$,Miami,Florida
+19,4,Keepin' It Real,Don Antonio By Starita,,,Manhattan,New York
+19,4,Keepin' It Real,Bless My Soul,,,Eureka,California
+19,5,Dynamite Duos,Duck's Eatery,4.0,$$,Manhattan,New York
+19,5,Dynamite Duos,Whisk Gourmet,,,Miami,Florida
+19,5,Dynamite Duos,Café Nooner,4.0,$$,Eureka,California
+19,6,Kickin It in Key West,Garbo's Grill,4.5,$$,Key West,Florida
+19,6,Kickin It in Key West,Dj's Clam Shack,4.5,$$,Key West,Florida
+19,6,Kickin It in Key West,Badboy Burrito,4.0,$$,Key West,Florida
+19,7,From Meatballs to Lollipops,Maxwell's East Coast Eatery,3.5,$$,Salt Lake City,Utah
+19,7,From Meatballs to Lollipops,Tin Roof Grill,3.5,$$,Sandy,Utah
+19,7,From Meatballs to Lollipops,Latin House Grill,3.5,$$,Miami,Florida
+19,8,Cross Country Comfort Food,The Silver Star Café,4.0,$$,Park City,Utah
+19,8,Cross Country Comfort Food,Sammy's Bistro,4.0,$$,Park City,Utah
+19,8,Cross Country Comfort Food,Blue Collar,4.5,$$,Miami,Florida
+19,9,International Family Style,Artiso's,,,Salt Lake City,Utah
+19,9,International Family Style,Boot's and Kimo's Homestyle Kitchen,3.5,$$,Kailua,Hawaii
+19,9,International Family Style,Oh Mai,,,Holladay,Utah
+19,10,Island Flavor,Dean's Drive Inn,4.0,$$,Kaneohe,Hawaii
+19,10,Island Flavor,The Alley Restaurant At Aiea Bowl,4.0,$$,Aiea,Hawaii
+19,10,Island Flavor,Elena's Restaurant,,,Waipahu,Hawaii
+19,11,"Grillin, Chillin & Huli Huli Chicken",The Federal,,,Miami,Florida
+19,11,"Grillin, Chillin & Huli Huli Chicken",Mike's Huli Huli Chicken,3.5,$$,Kaneohe,Hawaii
+19,11,"Grillin, Chillin & Huli Huli Chicken",Tamarindo Truck,4.0,$$,Orange County,California
+19,12,Righteous Bites,Loulou's Griddle In The Middle,4.5,$$,Monterey,California
+19,12,Righteous Bites,Fat Sal's Deli,,,Los Angeles,California
+19,12,Righteous Bites,The Alley Restaurant At Aiea Bowl,4.0,$$,Aiea,Hawaii
+19,Special,Vegas Greats,Bachi Burger,4.0,$$,Las Vegas,Nevada
+19,Special,Vegas Greats,John Mull's Road Kill Grill,4.5,$$,Las Vegas,Nevada
+19,Special,Vegas Greats,Naked City Pizza,4.0,$$,Las Vegas,Nevada
+19,Special,Vegas Greats,Forte European Tapas Bar & Bistro,4.0,$$,Las Vegas,Nevada
+19,Special,Vegas Greats,UNLV,,,Las Vegas,Nevada
+19,Special,Crazy for Chicken,Uncle Lou's,,,Memphis,Tennessee
+19,Special,Crazy for Chicken,Tortugas' Lie,4.0,$$,Nags Head,North Carolina
+19,Special,Crazy for Chicken,90 Miles Cuban Cafe,4.0,$$,Chicago,Illinois
+19,Special,Crazy for Chicken,Taco Taco Cafe,2.5,$,San Antonio,Texas
+19,Special,Crazy for Chicken,Rincon Criollo,4.5,$$,Queens,New York
+19,Special,Crazy for Chicken,Tocabe American Indian Eatery,4.5,$,Denver,Colorado
+19,Special,Crazy for Chicken,The Glass Onion,4.0,$$,Charleston,South Carolina
+19,Special,Crazy for Chicken,Opal Thai Food,4.0,$$,Haleiwa,Hawaii
+19,Special,Crazy for Chicken,PotPie,4.5,$$,Kansas City,Missouri
+19,Special,Crazy for Chicken,Smalley's Caribbean Barbeque,,,Stillwater,Minnesota
+19,Special,Grilling Greats,Tom's Bar-B-Q,4.0,$$,Memphis,Tennessee
+19,Special,Grilling Greats,Luke's Inside Out,4.5,$$,Austin,Texas
+19,Special,Grilling Greats,Caplansky's Deli,3.0,$$,Toronto,Ontario
+19,Special,Grilling Greats,Danny's All-American Diner & Dairy Bar,4.0,$,Tampa,Florida
+19,Special,Grilling Greats,Louie Mueller's Barbecue,4.0,$$,Taylor,Texas
+19,Special,Grilling Greats,Rick's Press Room Grill & Bar,,,Meridian,Idaho
+19,Special,Grilling Greats,Maple & Motor,4.0,$$,Dallas,Texas
+19,Special,Grilling Greats,Jawaiian Irie Jerk Restaurant,,,Honolulu,Hawaii
+20,1,California Cruisin,Sabroso Mexican Grill,4.5,$$,Garden Grove,California
+20,1,California Cruisin,Monterey Fish House,4.0,$$,Monterey,California
+20,1,California Cruisin,Rutt's Hawaiian Cafe,4.0,$$,Los Angeles,California
+20,2,Stuffed and Twisted,Sidewinder's American Grill,,,Jackson,Wyoming
+20,2,Stuffed and Twisted,Rosine's Restaurant,4.0,$$,Monterey,California
+20,2,Stuffed and Twisted,Blunch,4.5,$,Boston,Massachusetts
+20,3,"Old Standards, New Styles",Pinky G's Pizzeria,3.5,$$,Jackson,Wyoming
+20,3,"Old Standards, New Styles",The Starling Diner,4.0,$$,Long Beach,California
+20,3,"Old Standards, New Styles",Cannery Row Brewing Company,3.5,$$,Monterey,California
+20,4,From Standards to Standouts,Factory Gastrobar,,,Long Beach,California
+20,4,From Standards to Standouts,Pica's Mexican Taqueria,3.0,$$,Jackson,Wyoming
+20,4,From Standards to Standouts,Little Napoli,4.0,$$,Carmel,California
+20,5,All Day Dining,Wild Plum Cafe & Bistro,,,Monterey,California
+20,5,All Day Dining,Nora's Fish Creek Inn,4.0,$$,Wilson,Wyoming
+20,5,All Day Dining,Tavern on 2,,,Long Beach,California
+21,1,Roadtrippin' in Beantown,Cafe Polonia,4.5,$$,Boston,Massachusetts
+21,1,Roadtrippin' in Beantown,Lone Star Taco Bar,4.0,$$,Allston,Massachusetts
+21,1,Roadtrippin' in Beantown,Deep Ellum,4.0,$$,Allston,Massachusetts
+21,2,Seriously Saucy,Saus,4.0,$$,Boston,Massachusetts
+21,2,Seriously Saucy,Cafe Genevieve,4.0,$$,Jackson,Wyoming
+21,2,Seriously Saucy,Melt Eclectic Cafe,,,Cincinnati,Ohio
+21,3,Cross-Country Classics,Trina's Starlite Lounge,4.0,$$,Somerville,Massachusetts
+21,3,Cross-Country Classics,Shorty's Pizza and Smoked Meat,3.5,$$,Superior,Wisconsin
+21,3,Cross-Country Classics,From Scratch Restaurant,4.0,$$,Carmel,California
+21,4,Worldwide Flavorfest,Casa Razdora,4.5,$,Boston,Massachusetts
+21,4,Worldwide Flavorfest,Island Frydays,4.0,$,Cincinnati,Ohio
+21,4,Worldwide Flavorfest,Pak's Green Corner,5.0,,Duluth,Minnesota
+21,5,Small Town Standouts,Kounty Quarthouse,,,South Range,Wisconsin
+21,5,Small Town Standouts,Junkyard Extreme Burgers and Brats,4.5,$$,Junction City,Oregon
+21,5,Small Town Standouts,Lotus Cafe,,,Jackson,Wyoming
+21,6,One Street Wonders,Taste of Belgium,4.0,$$,Cincinnati,Ohio
+21,6,One Street Wonders,Senate Pub,4.0,$$,Cincinnati,Ohio
+21,6,One Street Wonders,Bakersfield OTR,4.5,$$,Cincinnati,Ohio
+21,7,Old School Joints,Cornbread Cafe,4.5,$$,Eugene,Oregon
+21,7,Old School Joints,Gannucci's Italian Market,4.0,$$,Duluth,Minnesota
+21,7,Old School Joints,Delta Diner,4.5,$$,Delta,Wisconsin
+21,8,Meat In The Middle,The Sandwich League,4.0,,Eugene,Oregon
+21,8,Meat In The Middle,The Brick House Cafe and Catering,4.0,$$,Cable,Wisconsin
+21,8,Meat In The Middle,Grano's Pasta Bar,4.0,$$,Baltimore,Maryland
+21,9,Soup-Centric,Soup Nation,,,Eugene,Oregon
+21,9,Soup-Centric,Slainte Irish Pub and Restaurant,4.0,$$,Baltimore,Maryland
+21,9,Soup-Centric,Pho Lang Thang,4.0,$$,Cincinnati,Ohio
+21,10,All Baltimore All The Time,Jimmy's Famous Seafood,3.5,$$,Baltimore,Maryland
+21,10,All Baltimore All The Time,Clementine,3.5,,Baltimore,Maryland
+21,10,All Baltimore All The Time,Johnny Rad's,,,Baltimore,Maryland
+21,11,Chicken Chowfest,Patton's Restaurant & Catering,,,Des Moines,Iowa
+21,11,Chicken Chowfest,Papa's Soul Food Kitchen and BBQ,,,Eugene,Oregon
+21,11,Chicken Chowfest,Swallow at the Hollow,4.0,$$,Baltimore,Maryland
+21,12,Fresh Fish & Funky Chicken,Fisherman's Market,4.0,$$,Eugene,Oregon
+21,12,Fresh Fish & Funky Chicken,Mi Patria Ecuadorian Restaurant,4.5,$$,West Des Moines,Iowa
+21,12,Fresh Fish & Funky Chicken,Smokey D's BBQ,4.0,$$,Des Moines,Iowa
+21,13,Oldies But Goodies,Ernest & Son,,,Brigantine,New Jersey
+21,13,Oldies But Goodies,Oyster Creek Inn,3.5,$$,Leeds Point,New Jersey
+21,13,Oldies But Goodies,George The Chili King Drive-In,3.5,$,Des Moines,Iowa
+21,14,Southern Spectacular,Farmer's Shed,,,Lexington,South Carolina
+21,14,Southern Spectacular,Pine State Biscuits,4.5,$,Portland,Oregon
+21,14,Southern Spectacular,Sweetie Pie's,,,St. Louis,Missouri
+21,14,Southern Spectacular,Rick's White Light Diner,4.0,$$,Frankfort,Kentucky
+21,14,Southern Spectacular,Zydeco's,4.0,$$,Mooresville,Indiana
+21,15,Best of Breakfast,Ruth's Diner,4.0,$$,Salt Lake City,Utah
+21,15,Best of Breakfast,Lake Effect Diner,3.5,$$,Buffalo,New York
+21,15,Best of Breakfast,Mustache Bill's,4.0,$$,Barnegat Light,New Jersey
+21,15,Best of Breakfast,Al's Breakfast,4.0,$$,Minneapolis,Minnesota
+21,15,Best of Breakfast,Louie & the Red Head Lady,,,Mandeville,Louisiana
+21,15,Best of Breakfast,Grampa's Bakery & Restaurant,3.5,$$,Dania Beach,Florida
+21,15,Best of Breakfast,W.O.W – Worth Our Weight,,,Santa Rosa,California
+21,15,Best of Breakfast,Schooner or Later,3.5,$$,Long Beach,California
+21,15,Best of Breakfast,Matt's Big Breakfast,4.0,$$,Phoenix,Arizona
+21,16,Memorable Moms,Rigoletto Italian Bakery & Café,4.0,$$,Virginia Beach,Virginia
+21,16,Memorable Moms,Voula's Offshore Cafe,4.0,$$,Seattle,Washington
+21,16,Memorable Moms,Nadine's Restaurant,,,Pittsburgh,Pennsylvania
+21,16,Memorable Moms,Kelly O's Diner,4.0,$$,Pittsburgh,Pennsylvania
+21,16,Memorable Moms,Monte Carlo Steak House,4.0,$$,Albuquerque,New Mexico
+21,16,Memorable Moms,Emily's Lebanese Deli,4.0,$$,Minneapolis,Minnesota
+21,17,Hometown Heroes,Eischen's Bar,4.0,$$,Okarche,Oklahoma
+21,17,Hometown Heroes,Otto's Sausage,,,Portland,Oregon
+21,17,Hometown Heroes,South 21 Drive In,4.0,$,Charlotte,North Carolina
+21,17,Hometown Heroes,Kramarczuk Sausage Company,4.0,$$,Minneapolis,Minnesota
+21,17,Hometown Heroes,Bob's Clam Hut,4.0,$$,Kittery,Maine
+21,17,Hometown Heroes,Rainbow Drive-In,4.0,$,Honolulu,Hawaii
+21,17,Hometown Heroes,Tommy's Joynt,4.0,$$,San Francisco,California
+21,18,Pork Hall of Fame,Union Wood Shop,4.5,$$,Clarkston,Michigan
+21,18,Pork Hall of Fame,Dough Pizzeria Napoletana,4.0,$$,San Antonio,Texas
+21,18,Pork Hall of Fame,Maria's Taco Express,4.0,$,Austin,Texas
+21,18,Pork Hall of Fame,Bar Gernika,4.5,$$,Boise,Idaho
+21,18,Pork Hall of Fame,Valencia Luncheria,4.0,$$,Norwalk,Connecticut
+21,18,Pork Hall of Fame,Santa Cruz Diner,2.5,$$,Santa Cruz,California
+21,18,Pork Hall of Fame,North End Caffe,4.0,$$,Manhattan Beach,California
+21,18,Pork Hall of Fame,The Oinkster,4.0,$$,Eagle Rock,California
+21,18,Pork Hall of Fame,Haus Murphy's,4.0,$$,Glendale,Arizona
+22,1,"Fish, Fries and Feet",Flying Mango,4.5,$$,Des Moines,Iowa
+22,1,"Fish, Fries and Feet",Kelsey & Kim's Southern Cafe,4.5,$$,Atlantic City,New Jersey
+22,1,"Fish, Fries and Feet",Tacopocalypse,,,Des Moines,Iowa
+22,2,Cruisin' the Italian Countryside,Windows On The World (Ristorante WOW),,,Montecatini Terme,Italy
+22,2,Cruisin' the Italian Countryside,Port Ellen Clan,4.0,€€€,Lucca,Italy
+22,2,Cruisin' the Italian Countryside,La Taverna dei Miracoli da Mangiafuoco,4.5,€€,Toscana,Italy
+22,3,Fillin' Up in Florence,La Cucina Del Garga,4.5,€€€,Firenze,Italy
+22,3,Fillin' Up in Florence,Il Gusta Pizza,4.5,€,Firenze,Italy
+22,3,Fillin' Up in Florence,Fratelli Briganti,4.0,€€,Firenze,Italy
+22,4,Arizona All Stars,Tom's Thumb Fresh Market,,,Scottsdale,Arizona
+22,4,Arizona All Stars,Andreoli – Italian Grocer,4.0,$$,Scottsdale,Arizona
+22,4,Arizona All Stars,Paradise Valley Burger Company,4.5,$,Phoenix,Arizona
+22,5,Roadtrippin',The Anchorage Tavern,,,Somers Point,New Jersey
+22,5,Roadtrippin',Salty's BBQ & Catering,4.0,$$,Bakersfield,California
+22,5,Roadtrippin',Sal's Gilbert Pizza,4.5,$$,Gilbert,Arizona
+22,6,From Atlantic to Pacific,KC Steakhouse,3.0,$$,Bakersfield,California
+22,6,From Atlantic to Pacific,Grilled Cheese & Crab Cake Co.,4.0,$$,Somers Point,New Jersey
+22,6,From Atlantic to Pacific,Mama Roomba,4.0,$$,Bakersfield,California
+22,7,Globe Tasting,The Wild Thaiger,4.0,$$,Phoenix,Arizona
+22,7,Globe Tasting,Muertos Kitchen & Lounge,3.5,$$,Bakersfield,California
+22,7,Globe Tasting,Carluccio's Coal Fired Pizza,4.0,$$,Northfield,New Jersey
+22,8,"Sweet, Savory and Saucy",La Santisima Gourmet Taco Shop,,,Bakersfield,California
+22,8,"Sweet, Savory and Saucy",Moo Creamery,4.0,$$,Bakersfield,California
+22,8,"Sweet, Savory and Saucy",24th Street Cafe,4.0,$$,Bakersfield,California
+22,9,To Bakersfield and Beyond,Athena's Greek Cafe & Bakery,4.0,$$,Bakersfield,California
+22,9,To Bakersfield and Beyond,Pyrenees Cafe,3.5,$$,Bakersfield,California
+22,9,To Bakersfield and Beyond,Asian Experience,4.0,$$,Taft,California
+22,10,Racing Through Charlotte,Pinky's Westside Grill,4.0,$,Charlotte,North Carolina
+22,10,Racing Through Charlotte,Pit Road Bar & Grill,4.0,$$,Charlotte,North Carolina
+22,10,Racing Through Charlotte,The Tin Kitchen Food Truck,,,Charlotte,North Carolina
+22,11,Indulgent Dishes,Krazy Fish,4.0,$$,Charlotte,North Carolina
+22,11,Indulgent Dishes,300 East,4.0,$$,Charlotte,North Carolina
+22,11,Indulgent Dishes,Biergarten,4.0,$$,Los Angeles,California
+22,12,Griddles & Vittles,Guy Fieri's Kitchen and Bar,,,Las Vegas,Nevada
+22,12,Griddles & Vittles,Those Guys Pies,4.0,$$,Las Vegas,Nevada
+22,12,Griddles & Vittles,Chichen Itza Restaurant,4.5,$$,Los Angeles,California
+22,13,Intercontinental Flavorfest,Intermezzo Pizzeria and Cafe,4.0,$$,Charlotte,North Carolina
+22,13,Intercontinental Flavorfest,The Little Jewel of New Orleans,4.0,$$,Los Angeles,California
+22,13,Intercontinental Flavorfest,Cha Cha Chili,4.0,$,Los Angeles,California
+22,Special,Food TruckAPalooza,Tamarindo Truck,4.0,$$,Orange County,California
+22,Special,Food TruckAPalooza,Garbo's Grill,4.5,$$,Key West,Florida
+22,Special,Food TruckAPalooza,The Grilled Cheeserie,4.0,$$,Nashville,Tennessee
+22,Special,Food TruckAPalooza,Fresh Local Wild,,,Vancouver,British Columbia
+22,Special,Food TruckAPalooza,Don Chow Tacos,,,Los Angeles,California
+22,Special,All Beefed Up,Terry's Turf Club,4.0,$$,Cincinnati,Ohio
+22,Special,All Beefed Up,Smokin Guns BBQ & Catering,3.5,$$,Kansas City,Missouri
+22,Special,All Beefed Up,Schellville Grill,3.5,$$,Sonoma,California
+22,Special,All Beefed Up,Paul's Coffee Shop,3.5,$$,Fountain Valley,California
+23,1,A Bowlful of Soul,Mert's Heart & Soul,3.5,$$,Charlotte,North Carolina
+23,1,A Bowlful of Soul,Crepe Expectations,4.5,$,Las Vegas,Nevada
+23,1,A Bowlful of Soul,Tubs Fine Chili,,,Culver City,California
+23,2,Taste of Asia,DAE GEE Korean BBQ,3.5,$$,Denver,Colorado
+23,2,Taste of Asia,Fat Choy,4.0,$$,Las Vegas,Nevada
+23,2,Taste of Asia,Osaka Japanese Bistro,4.0,$$,Las Vegas,Nevada
+23,3,Tri-Continent Cuisine,Cafe Brazil,4.5,$$,Denver,Colorado
+23,3,Tri-Continent Cuisine,Biju's Little Curry Shop,4.0,$$,Denver,Colorado
+23,3,Tri-Continent Cuisine,Folk Art,,,Atlanta,Georgia
+23,4,From Biscuits to Briskets,Fox Bros Bar-B-Q,4.5,$$,Atlanta,Georgia
+23,4,From Biscuits to Briskets,Buttermilk Kitchen,4.5,$$,Atlanta,Georgia
+23,4,From Biscuits to Briskets,Restaurant 415,4.0,$$,Fort Collins,Colorado
+23,5,Homeland Favorites,Joy Cafe,4.0,$$,Atlanta,Georgia
+23,5,Homeland Favorites,Axios Estiatorio,,,Denver,Colorado
+23,5,Homeland Favorites,Andale Taqueria & Mercado,4.5,$,Richfield,Minnesota
+23,6,Name That Kitchen,The Lodge Sasquatch Kitchen,,,Fort Collins,Colorado
+23,6,Name That Kitchen,Dana's Kitchen,4.0,$$,Falmouth,Massachusetts
+23,6,Name That Kitchen,Pickle Jar Kitchen,4.5,$$,Falmouth,Massachusetts
+23,7,East Coast Cruisin,Don Antonio by Starita,,,New York,New York
+23,7,East Coast Cruisin,Louis Restaurant,3.5,$,Providence,Rhode Island
+23,7,East Coast Cruisin,Crazy Burger Cafe & Juice Bar,4.0,$$,Narragansett,Rhode Island
+23,7,East Coast Cruisin,The Dining Car & Market,3.5,$$,Philadelphia,Pennsylvania
+23,8,Beef It Up,Driftwood Publick House & Oysteria,,,Plymouth,Massachusetts
+23,8,Beef It Up,The General Muir,4.0,$$,Atlanta,Georgia
+23,8,Beef It Up,Buster's on 28th,4.0,$$,Minneapolis,Minnesota
+23,9,By Hand and By Fork,Parkside Market,,,Falmouth,Massachusetts
+23,9,By Hand and By Fork,Maria Empanada,4.5,$,Denver,Colorado
+23,9,By Hand and By Fork,Bayport BBQ,4.0,$$,Bayport,Minnesota
+23,10,Finger Lickin' Food,Wrecking Bar Brewpub,4.0,$$,Atlanta,Georgia
+23,10,Finger Lickin' Food,Shucker's World Famous Raw Bar,,,Woods Hole,Massachusetts
+23,10,Finger Lickin' Food,George and the Dragon,4.5,$$,Minneapolis,Minnesota
+23,11,Bite of Britain,Grillstock,,,London,UK
+23,11,Bite of Britain,Bird of Smithfield,4.0,£££,London,UK
+23,11,Bite of Britain,Hook Camden Town,,,Camden,UK
+23,12,Piggin' Out,Pig Latin (Food Truck),4.5,$,Colorado Springs,Colorado
+23,12,Piggin' Out,North Bound Smokehouse and Brewpub,4.0,$$,Minneapolis,Minnesota
+23,12,Piggin' Out,Unideli,3.5,$$,Minneapolis,Minnesota
+23,13,Isle-Talian,The Blue-Eyed Crab Caribbean Grill & Rum Bar,3.5,$$,Plymouth,Massachusetts
+23,13,Isle-Talian,Parvicini's Italian Bistro,,,Colorado Springs,Colorado
+23,13,Isle-Talian,Rasta Pasta,4.0,$$,Colorado Springs,Colorado
+23,14,East-West Flavorfest,Mountain Shadows Restaurant,4.5,$,Colorado Springs,Colorado
+23,14,East-West Flavorfest,Toki Underground,4.0,$$,Washington,DC
+23,14,East-West Flavorfest,Piccini Wood Fired Brick Oven Pizza,3.5,$$,Ocean City,New Jersey
+23,Special,Amazing Appetizers,Queen's Comfort,4.0,$$,Astoria,New York
+23,Special,Amazing Appetizers,Highland Tavern,4.0,$$,Denver,Colorado
+23,Special,Amazing Appetizers,Boulevard Diner,3.5,$$,Dundalk,Colorado
+23,Special,Amazing Appetizers,Clanton's Cafe,4.0,$,Vinita,Oklahoma
+23,Special,Amazing Appetizers,10th Ave Burrito Co,3.0,$$,Belmar,New Jersey
+23,Special,Amazing Appetizers,BBQ Shack,,,Paola,Kansas
+23,Special,Amazing Appetizers,The Highlander,3.5,$$,Atlanta,Georgia
+23,Special,Amazing Appetizers,Scully's Tavern,4.0,$$,Miami,Florida
+23,Special,Ultimate Turkey Fest,Golden Crown Restaurant,4.5,$,Albuquerque,New Mexico
+23,Special,Ultimate Turkey Fest,Bocadillas: Slow Roasted Sandwich Shop,,,Albuquerque,New Mexico
+23,Special,Ultimate Turkey Fest,Funk N Waffles,3.5,$$,Syracuse,New York
+23,Special,Ultimate Turkey Fest,Supino Pizzeria,4.5,$$,Detroit,Michigan
+23,Special,Ultimate Turkey Fest,Comet Cafe,4.0,$$,Milwaukee,Wisconsin
+23,Special,Ultimate Turkey Fest,Mike's City Diner,4.0,$$,Boston,Massachusetts
+23,Special,Ultimate Turkey Fest,Sammy's Food Services & Deli,4.0,$$,New Orleans,Louisiana
+23,Special,Ultimate Turkey Fest,Alpine Steakhouse,3.5,$$,Sarasota,Florida
+23,Special,Ultimate Turkey Fest,Thee Pitts Again,3.0,$$,Glendale,Arizona
+23,Special,Extra Helpings,The Brick House Cafe and Catering,4.0,$$,Cable,Wisconsin
+23,Special,Extra Helpings,Cafe Genevieve,4.0,$$,Jackson,Wyoming
+23,Special,Extra Helpings,Tavern on 2,,,Long Beach,California
+23,Special,Extra Helpings,DJ's Clam Shack,4.5,$$,Key West,Florida
+23,Special,Extra Helpings,Café Nooner,4.0,$$,Eureka,California
+23,Special,Extra Helpings,Sakaya Kitchen,3.5,$$,Miami,Florida
+23,Special,Extra Helpings,Bless My Soul,,,Eureka,California
+23,Special,Extra Helpings,Brindle Room,4.0,$$,New York,New York
+23,Special,Extra Helpings,Brick & Fire,4.5,$$,Eureka,California
+23,Special,Extra Helpings,Black Tree,,,New York,New York
+23,Special,Extra Helpings,Paul's Live From New York,3.5,$,Eureka,California
+23,Special,Holiday Hoopla,Mas Tacos,4.5,$,Nashville,Tennessee
+23,Special,Holiday Hoopla,Center Point Pit Barbecue,3.5,$,Hendersonville,Tennessee
+23,Special,Holiday Hoopla,Miller's East Coast Deli,3.5,$$,San Francisco,California
+23,Special,Holiday Hoopla,Flakowitz of Boynton,3.0,$$,Boynton Beach,Florida
+23,Special,Holiday Hoopla,The Bagel Delicatessen & Restaurant,,,Denver,Colorado
+23,Special,Holiday Hoopla,At Last Cafe,,,Long Beach,California
+23,Special,Holiday Hoopla,Big Daddy's BBQ & Banquet,,,Fairbanks,Alaska
+24,1,All Kinds of Meat,Alewife Baltimore,,,Baltimore,Maryland
+24,1,All Kinds of Meat,Carving Room,4.0,$$,Washington,DC
+24,1,All Kinds of Meat,Spice Island Grill,4.0,$$,Colorado Springs,Colorado
+24,2,"Triple D ""All Stars""",Tacopocalypse,,,Des Moines,Iowa
+24,2,"Triple D ""All Stars""",Artiso's,,,Salt Lake City,Utah
+24,2,"Triple D ""All Stars""",Sakaya Kitchen,3.5,$$,Miami,Florida
+24,2,"Triple D ""All Stars""",Chef Lou's Westside Drive-In,3.5,$,Boise,Idaho
+24,2,"Triple D ""All Stars""",Pagoda Restaurant,4.0,$$,North Pole,Alaska
+24,3,Family Legacies,Miss Shirley's Cafe,4.0,$$,Baltimore,Maryland
+24,3,Family Legacies,Sam's Rialto Bar & Grill,,,Pleasantville,New Jersey
+24,3,Family Legacies,Front Range Barbeque,4.0,$$,Colorado Springs,Colorado
+24,4,Rockin' New Orleans,The Creole Creamery,4.5,$,New Orleans,Louisiana
+24,4,Rockin' New Orleans,The Joint,4.5,$$,New Orleans,Louisiana
+24,4,Rockin' New Orleans,Surrey's Cafe,,,New Orleans,Louisiana
+24,4,Rockin' New Orleans,Parasol's Restaurant & Bar,4.0,$$,New Orleans,Louisiana
+24,4,Rockin' New Orleans,Joey K's Restaurant & Bar,4.0,$$,New Orleans,Louisiana
+24,5,Between the Bread,Skirted Heiffer,4.0,$,Colorado Springs,Colorado
+24,5,Between the Bread,Bub and Pop's,4.5,$$,Washington,DC
+24,5,Between the Bread,Vagabond Kitchen & Tap House,4.0,$$,Atlantic City,New Jersey
+24,6,Comfort Food Mash-Up,Trina's Starlite Lounge,4.0,$$,Somerville,Massachusetts
+24,6,Comfort Food Mash-Up,The Starling Diner,4.0,$$,Long Beach,California
+24,6,Comfort Food Mash-Up,The Alley Restaurant at Aiea Bowl,4.0,$$,Aiea,Hawaii
+24,6,Comfort Food Mash-Up,Frank's Noodle House,3.5,$$,Portland,Oregon
+24,6,Comfort Food Mash-Up,Gold 'N Silver Inn,3.5,$$,Reno,Nevada
+24,6,Comfort Food Mash-Up,Ramona Cafe,3.0,$$,Ramona,California
+24,7,Smoke and Seafood,The Fish House,4.0,$$,Key Largo,Florida
+24,7,Smoke and Seafood,Islamorada Shrimp Shack,4.0,$$,Islamorada,Florida
+24,7,Smoke and Seafood,The Smoking Swine,4.5,$$,Baltimore,Maryland
+24,8,International Appeal,Digiorgio's Cafe Largo,4.0,$$,Key Largo,Florida
+24,8,International Appeal,El Nuevo Frutilandia,4.0,$$,San Francisco,California
+24,8,International Appeal,Green Papaya Food Truck,4.0,$,Stockton,California
+24,9,"Tacos, Turtles, and Tri-tip",Green Turtle Inn,4.0,$$,Islamorada,Florida
+24,9,"Tacos, Turtles, and Tri-tip",Midtown Creperie,3.5,$$,Stockton,California
+24,9,"Tacos, Turtles, and Tri-tip",Cosecha Cafe,4.0,$$,Oakland,California
+24,10,Succulent Sandwiches,Clove and Hoof,4.0,$$,Oakland,California
+24,10,Succulent Sandwiches,Food Fix Truck,4.5,$$,Modesto,California
+24,10,Succulent Sandwiches,Pilot House Marina & Restaurant,3.5,$$,Key Largo,Florida
+24,11,Hot Meat and Cool Veg,Souley Vegan,4.0,$$,Oakland,California
+24,11,Hot Meat and Cool Veg,Bauer's 66 1/2,4.5,$$,Modesto,California
+24,11,Hot Meat and Cool Veg,M.E.A.T. Eatery and Tap Room,4.5,$$,Islamorada,Florida
+24,12,South Beach Sizzle,Taquiza,4.0,$$,Miami Beach,Florida
+24,12,South Beach Sizzle,Lou's Beer Garden,4.0,$$,Miami Beach,Florida
+24,12,South Beach Sizzle,Hofbrau Beer Hall,,,Miami Beach,Florida
+24,13,"Smoked, Grilled, and Fried",Commonwealth,4.0,$$,Modesto,California
+24,13,"Smoked, Grilled, and Fried",Miami Smokers,,,Miami,Florida
+24,13,"Smoked, Grilled, and Fried",Smitty's Wings & Things,4.0,$$,Stockton,California
+24,14,Cruisin' in Cuba,El Figaro,,,Havana,Cuba
+24,14,Cruisin' in Cuba,Nazdarovie,,,Havana,Cuba
+24,14,Cruisin' in Cuba,Restaurante Fonda Paladar la Paila,,,Havana,Cuba
+24,15,Havana Hot Spots,Al Carbon,,,Havana,Cuba
+24,15,Havana Hot Spots,La Catedral,,,Havana,Cuba
+24,15,Havana Hot Spots,Casa Abel,,,Havana,Cuba
+24,16,Great Gear,Gian's Deli,4.0,$,Stockton,California
+24,16,Great Gear,The Outrigger Pizza Company,4.5,$$,Kihei,Hawaii
+24,16,Great Gear,CatHead's BBQ,4.0,$$,San Francisco,California
+25,1,Soakin' Up Maui,Da Kitchen,4.0,$$,Kahului,Hawaii
+25,1,Soakin' Up Maui,Fat Daddy's Smokehouse,4.0,$$,Kihei,Hawaii
+25,1,Soakin' Up Maui,Like Poke,4.5,$$,Kahului,Hawaii
+25,2,"Asia, Africa and India",Radio Africa & Kitchen,4.5,$$,San Francisco,California
+25,2,"Asia, Africa and India",Belly & Snout,3.5,,Los Angeles,California
+25,2,"Asia, Africa and India",Gandhi Mahal Restaurant,,,Minneapolis,Minnesota
+25,3,"Creole, Cold Cuts and Crepes",Star Noodle,4.0,$$,Lahaina,Hawaii
+25,3,"Creole, Cold Cuts and Crepes",The Herbivorous Butcher,4.5,$$,Minneapolis,Minnesota
+25,3,"Creole, Cold Cuts and Crepes",Harold & Belle's,3.5,$$,Los Angeles,California
+25,4,Chew and Brew,Surly Brewing Company,4.0,$$,Minneapolis,Minnesota
+25,4,Chew and Brew,The Local,,,Coral Gables,Florida
+25,4,Chew and Brew,Delancey Pizzeria & Bar,,,Hollywood,California
+25,5,Global Greats,The Original Barone's Famous Italian,,,Valley Glen,California
+25,5,Global Greats,Miso Phat Sushi,4.5,$$,Kihei,Hawaii
+25,5,Global Greats,Holy Land,4.0,$$,Minneapolis,Minnesota
+25,6,"Sausage, Seafood and Shawarma",Street Food 360,4.0,,Portsmouth,New Hampshire
+25,6,"Sausage, Seafood and Shawarma",Ivan's Cookhouse,3.5,$$,North Miami Beach,Florida
+25,6,"Sausage, Seafood and Shawarma",Red Wagon Pizza Company,4.0,$$,Minneapolis,Minnesota
+25,7,Cosmopolitan Comfort,Azla Ethiopian Vegan,,,Los Angeles,California
+25,7,Cosmopolitan Comfort,Prairie Dogs,,,Minneapolis,Minnesota
+25,7,Cosmopolitan Comfort,Moxy,4.0,$$,Portsmouth,New Hampshire
+25,8,"Burgers, Buns and Bagels",The Kitchen,,,Portsmouth,New Hampshire
+25,8,"Burgers, Buns and Bagels",Bagel Street,4.0,$,Plainsboro Township,New Jersey
+25,8,"Burgers, Buns and Bagels",The Bun Shop,4.0,$,Los Angeles,California
+25,9,"Big Food, Small Towns",Vincentown Diner,3.5,$$,Vincentown,New Jersey
+25,9,"Big Food, Small Towns",Rocky Hill Inn,,,Rocky Hill,New Jersey
+25,9,"Big Food, Small Towns",Tuckaway Tavern & Butchery,4.0,$$,Raymond,New Hampshire
+25,10,From Port to Port,Vida Cantina,4.0,$$,Portsmouth,New Hampshire
+25,10,From Port to Port,Ataula,4.5,$$,Portland,Oregon
+25,10,From Port to Port,P's & Q's Market,4.5,$$,Portland,Oregon
+25,11,Turkey-giving,45 Market Street Bakery & Cafe,4.5,$$,Somersworth,New Hampshire
+25,11,Turkey-giving,The Table Cafe,4.5,$,Louisville,Kentucky
+25,11,Turkey-giving,Jammin' Crepes,4.0,$$,Princeton,New Jersey
+25,12,"Brunch, Bologna and Burgers",Gralehaus,4.5,$$,Louisville,Kentucky
+25,12,"Brunch, Bologna and Burgers",The Original,3.5,$$,Portland,Oregon
+25,12,"Brunch, Bologna and Burgers",Grind Burger Kitchen,4.0,$$,Louisville,Kentucky
+25,13,Carnivore Creations,"Momma's Mustard, Pickles & BBQ",4.0,$$,Louisville,Kentucky
+25,13,Carnivore Creations,Jersey Girl Cafe,4.0,$,Hamilton Township,New Jersey
+25,13,Carnivore Creations,Tails & Trotters,4.5,$$,Portland,Oregon
+26,1,Belly Up to Barcelona,Cal Boter,4.5,€€,Barcelona,Spain
+26,1,Belly Up to Barcelona,Can Conesa,3.0,,Barcelona,Spain
+26,1,Belly Up to Barcelona,Pulperia A Gudiña,4.0,€€,Barcelona,Spain
+26,2,A Sampling of Spain,Can Vilaro,4.0,,Barcelona,Spain
+26,2,A Sampling of Spain,El Pacifico,3.5,€€,Barcelona,Spain
+26,2,A Sampling of Spain,Bar Morryssom,4.0,€,Barcelona,Spain
+26,3,Mega Mouthfuls,The Seafood Lady,3.5,$$,Louisville,Kentucky
+26,3,Mega Mouthfuls,Dolce & Clemente's,4.5,$$,Robbinsville,New Jersey
+26,3,Mega Mouthfuls,Matt's BBQ,4.5,$$,Portland,Oregon
+26,4,"Swiss, Sandwiches and Sausage",Swiss Hibiscus,5.0,$$,Portland,Oregon
+26,4,"Swiss, Sandwiches and Sausage",Papi Queso Food Truck,,,Charlotte,North Carolina
+26,4,"Swiss, Sandwiches and Sausage",JJ's Red Hots,4.0,$,Charlotte,North Carolina
+26,5,"Beef, Lamb and Pig",Irish Rover,4.0,$$,Louisville,Kentucky
+26,5,"Beef, Lamb and Pig",The Improper Pig,4.0,$$,Charlotte,North Carolina
+26,5,"Beef, Lamb and Pig",Bang Bang Burgers,4.5,$$,Charlotte,North Carolina
+26,6,Kickin' It in Cancun,Guy Fieri's Playa del Carmen Kitchen & Bar,,,Playa del Carmen,Mexico
+26,6,Kickin' It in Cancun,Mora Mora,4.5,$$,Cancun,Mexico
+26,6,Kickin' It in Cancun,El Rincon de los Antojos,4.0,$,Cancun,Mexico
+26,7,Not Your Typical Joints,Q-Shi,,,Spring,Texas
+26,7,Not Your Typical Joints,Fud at Salud,,,Charlotte,North Carolina
+26,7,Not Your Typical Joints,El Fish Fritanga,4.5,$$,Cancun,Mexico
+26,8,From North to South America,Pinchez Tacos,5.0,$,Cancun,Mexico
+26,8,From North to South America,Heist Brewery,3.5,$$,Charlotte,North Carolina
+26,8,From North to South America,The Original Marini's Empanada House,4.5,$,Houston,Texas
+26,9,Goin' International,Cafe Lili,4.0,$$,Houston,Texas
+26,9,Goin' International,The Surfin' Burrito,4.0,$$,Cancun,Mexico
+26,9,Goin' International,Cool Runnings Jamaican Grill,4.0,$$,Houston,Texas
+26,10,Wonder Women,The Meatball Stoppe,4.5,$$,Orlando,Florida
+26,10,Wonder Women,Se7en Bites Bakeshop,4.5,$$,Orlando,Florida
+26,10,Wonder Women,Irma's Original,3.0,$$,Houston,Texas
+26,11,Multicultural Cooking,Willie's Pinchos,4.5,$,Orlando,Florida
+26,11,Multicultural Cooking,The Pastrami Project,4.5,$,Orlando,Florida
+26,11,Multicultural Cooking,Cuchara Restaurant,,,Houston,Texas
+26,12,"Turkey, Taters and Dogs",Mrs. Potato,4.5,$$,Orlando,Florida
+26,12,"Turkey, Taters and Dogs",Fat One's Hot Dogs and Italian Ice,3.5,,Orlando,Florida
+26,12,"Turkey, Taters and Dogs",Sherman's Deli & Bakery,4.0,$$,Palm Springs,California
+26,13,"Burgers, Beef and Barbecue",HoBo's BBQ,4.0,$$,Temecula,California
+26,13,"Burgers, Beef and Barbecue",Saigon Noodle and Grill,4.5,$$,Orlando,Florida
+26,13,"Burgers, Beef and Barbecue",Grill-a-Burger,4.0,$$,Palm Desert,California
+26,14,Chicken Trifecta,Fleetwood's on Front St.,,,Lahaina,Hawaii
+26,14,Chicken Trifecta,Thai Mee Up,4.5,$$,Kahului,Hawaii
+26,14,Chicken Trifecta,Frankinbun,3.5,$,Palm Springs,California
+26,15,From Spicy to Icy,Zobo & Meester's,4.5,$$,Cathedral City,California
+26,15,From Spicy to Icy,Down the Hatch Maui,4.5,$$,Lahaina,Hawaii
+26,15,From Spicy to Icy,The Dirty Buffalo,4.0,$$,Norfolk,Virginia
+26,16,Island and Desert,Wilma & Frieda,4.5,$$,Palm Desert,California
+26,16,Island and Desert,Carib Shack,4.5,$,Virginia Beach,Virginia
+26,16,Island and Desert,Maui Brick Oven,4.0,$$,Kihei,Hawaii
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Alkaline,4.0,$$,Norfolk,Virginia
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Pendulum Fine Meats,5.0,$$,Norfolk,Virginia
+27,1,"Sandwiches, Spaetzle and Sticky Wings",Brigit & Bernard's Garden Cafe,4.0,$$,Kahului,Hawaii
+27,2,Flavor Adventure,Maui Fresh Streatery,4.5,$$,Kahului,Hawaii
+27,2,Flavor Adventure,ediBOL,4.5,$$,Los Angeles,California
+27,2,Flavor Adventure,Jessy's Tienda y Taqueria,4.0,$$,Norfolk,Virginia
+27,3,"Barbecue, Batter and Beer Can Chicken",Three's Bar and Grill,4.0,$$,Kihei,Hawaii
+27,3,"Barbecue, Batter and Beer Can Chicken",BatterFish,,,Santa Monica,California
+27,3,"Barbecue, Batter and Beer Can Chicken",Horse Thief BBQ,3.5,$$,Los Angeles,California
+27,4,Ocean Coasts and Great Lakes,La Tostaderia,4.0,$$,Los Angeles,California
+27,4,Ocean Coasts and Great Lakes,The Grilled Cheese Bistro,4.5,$$,Norfolk,Virginia
+27,4,Ocean Coasts and Great Lakes,Meat Southern BBQ & Carnivore Cuisine,,,Lansing,Michigan
+27,5,A Passport of Flavor,La Panaderia,4.5,$$,San Antonio,Texas
+27,5,A Passport of Flavor,Capital City BBQ,4.0,$,Lansing,Michigan
+27,5,A Passport of Flavor,Zaytoon Mediterranean,4.5,$$,Lansing,Michigan
+27,6,"Old Faces, New Places",Fat Olives,4.5,$$,Flagstaff,Arizona
+27,6,"Old Faces, New Places",Sunset Pointe,4.5,$$,Fairhope,Alabama
+27,6,"Old Faces, New Places",Blackbrick,,,Miami,Florida
+27,7,From Pied to Fried,Buya Ramen,,,St. Petersburg,Florida
+27,7,From Pied to Fried,Eastside Fish Fry & Grill,4.0,$,Lansing,Michigan
+27,7,From Pied to Fried,Bourrée,4.0,$$,New Orleans,Louisiana
+27,8,Sammies and Spice,The Roost,4.0,$$,Longmont,Colorado
+27,8,Sammies and Spice,Loops,4.0,$,Columbus,Ohio
+27,8,Sammies and Spice,Jitlada Restaurant,,,Los Angeles,California
+27,9,College-Town Champs,Pierogi Mountain,4.5,$,Columbus,Ohio
+27,9,College-Town Champs,Ray Ray's Hog Pit,4.5,$$,Columbus,Ohio
+27,9,College-Town Champs,Aloy Thai Cuisine,4.0,$$,Boulder,Colorado
+27,10,"Breakfast, Brisket and Belly",Nighthawk Breakfast Bar,4.5,$$,Venice,California
+27,10,"Breakfast, Brisket and Belly",Sweet Carrot,4.0,$$,Columbus,Ohio
+27,10,"Breakfast, Brisket and Belly",Bootleggers Modern America Smokehouse,4.0,$$,Scottsdale,Arizona
+27,11,"Poutine, Pizza and Pork",Samples Restaurant,,,Longmont,Colorado
+27,11,"Poutine, Pizza and Pork",Tutta's Pizza,4.0,$$,Dallas,Texas
+27,11,"Poutine, Pizza and Pork",Slanted Rice Vietnamese Bistro,4.0,$$,Scottsdale,Arizona
+28,1,Mom's Kitchen,Zoe Ma Ma,3.5,$,Boulder,Colorado
+28,1,Mom's Kitchen,Ena's Caribbean Kitchen,4.0,$$,Columbus,Ohio
+28,1,Mom's Kitchen,Republica Empanada,4.5,$,Mesa,Arizona
+28,2,Delicious Discoveries,Momo Ghar,4.5,$,Columbus,Ohio
+28,2,Delicious Discoveries,Tacos Mariachi,4.5,$,Dallas,Texas
+28,2,Delicious Discoveries,Nora Restaurant and Bar,4.0,$$,Dallas,Texas
+28,3,Bird and Beef,The Post Brewing Company,4.0,$$,Longmont,Colorado
+28,3,Bird and Beef,One90 Smoked Meats,4.5,$$,Dallas,Texas
+28,3,Bird and Beef,Tacos Chiwas,4.5,$,Phoenix,Arizona
+28,4,All Kinds of Comfort,Grubstak,4.5,$$,Gilbert,Arizona
+28,4,All Kinds of Comfort,Audrey Jane's Pizza Garage,4.5,$,Boulder,Colorado
+28,4,All Kinds of Comfort,Whistle Britches,4.0,$$,Dallas,Texas
+28,5,Rollin' in the Dough,Aloha Kitchen,4.5,$$,Mesa,Arizona
+28,5,Rollin' in the Dough,Renee's Organic Oven,4.5,$$,Tucson,Arizona
+28,5,Rollin' in the Dough,Mojo Donuts and Fried Chicken,4.5,$,Miami,Florida
+28,6,International Intrigue,CrushCraft Thai Street Eats,4.0,$,Dallas,Texas
+28,6,International Intrigue,Milly's Empanada Factory,5.0,$,Miami,Florida
+28,6,International Intrigue,Zeman's,4.5,$$,Tucson,Arizona
+28,7,Lights-Out Latin,Mr. & Mrs. Bun,4.5,$$,Miami,Florida
+28,7,Lights-Out Latin,Ceviche's,4.5,$$,Wilmington,North Carolina
+28,7,Lights-Out Latin,Cafe Tumerico,5.0,$$,Tucson,Arizona
+28,8,"Pizza, Pork and Peru",The Cosmos,,,Lansing,Michigan
+28,8,"Pizza, Pork and Peru",Copper Penny,4.5,$$,Wilmington,North Carolina
+28,8,"Pizza, Pork and Peru",Inca's Peruvian Cuisine,4.0,$$,Tucson,Arizona
+28,9,Seafood and Savory,Something Fishy Seafood Restaurant,3.5,$$,Wilmington,North Carolina
+28,9,Seafood and Savory,The Purple Carrot,3.5,$,Okemos,Michigan
+28,9,Seafood and Savory,Chef Alisah's Restaurant,4.5,$$,Tucson,Arizona
+28,10,Grab and Grub,Doce Provisions,4.5,$$,Miami,Florida
+28,10,Grab and Grub,Rocco's Little Chicago,4.0,$$,Tucson,Arizona
+28,10,Grab and Grub,Fork-n-Cork,,,Wilmington,North Carolina
+28,11,BBQ Bites and Southern Flavor,Wood Shop BBQ,4.5,$$,Seattle,Washington
+28,11,BBQ Bites and Southern Flavor,Cast Iron Kitchen,4.5,$$,Wilmington,North Carolina
+28,11,BBQ Bites and Southern Flavor,Southern Cafe,4.0,$$,Oakland,California
+28,12,"East Coast, West Coast",Calafia Cafe,3.5,$,Palo Alto,California
+28,12,"East Coast, West Coast",Sweet n Savory Cafe,4.0,$$,Wilmington,North Carolina
+28,12,"East Coast, West Coast",W.E.P.A.! at Brix 581,,,Oakland,California
+28,13,"Italian, Hawaiian and Colombian",Umekes Fishmarket Bar & Grill,4.0,$$,Kailua-Kona,Hawaii
+28,13,"Italian, Hawaiian and Colombian",Pazzo,4.5,$$,San Carlos,California
+28,13,"Italian, Hawaiian and Colombian",LOBA Restaurant,,,Miami,Florida
+28,14,Playin' Chicken,Scolari's Good Eats,,,Alameda,California
+28,14,Playin' Chicken,Pizzeria Credo,4.5,$$,Seattle,Washington
+28,14,Playin' Chicken,Foster's Kitchen,4.0,$$,Kailua-Kona,Hawaii
+28,15,On the Hook and In the Bun,The Red Door,3.0,$$,Seattle,Washington
+28,15,On the Hook and In the Bun,Rebel Kitchen,4.5,$$,Kealakekua,Hawaii
+28,15,On the Hook and In the Bun,Grand Harbor,,,San Francisco,California
+28,16,Fusion of Flavors,Saucy Porka,4.5,$,Chicago,Illinois
+28,16,Fusion of Flavors,Sisters and Brothers Bar,4.0,$$,Seattle,Washington
+28,16,Fusion of Flavors,Island Lava Java,4.0,$$,Kailua-Kona,Hawaii
+28,17,Tasty Traditions,Piroshki on 3rd,4.5,$,Seattle,Washington
+28,17,Tasty Traditions,Kanaka Kava,4.5,$$,Kailua-Kona,Hawaii
+28,17,Tasty Traditions,Manny's Cafeteria and Delicatessen,4.0,$$,Chicago,Illinois
+28,18,Far East Flavorfest,Del Seoul,4.5,$,Chicago,Illinois
+28,18,Far East Flavorfest,Original Thai,4.0,$$,Kailua-Kona,Hawaii
+28,18,Far East Flavorfest,Bok A Bok Fried Chicken & Biscuits,,,Seattle,Washington
+28,19,Culinary Journey,Broke Da Mouth Grindz,4.5,$$,Kailua-Kona,Hawaii
+28,19,Culinary Journey,MFK,4.0,$$$,Chicago,Illinois
+28,19,Culinary Journey,Blue Toba,4.5,$$,Ashland,Oregon
+29,1,From Pork to Pasta,Ruins,4.0,$$,Spokane,Washington
+29,1,From Pork to Pasta,Bella Luna Cafe,,,Chicago,Illinois
+29,1,From Pork to Pasta,Sun Wah BBQ,4.0,$$,Chicago,Illinois
+29,2,"Sandwiches, Southern and South of the Boarder",Roost Fried Chicken,4.0,$$,Bozeman,Montana
+29,2,"Sandwiches, Southern and South of the Boarder",Nordic Smoke BBQ,5.0,$,Spokane,Washington
+29,2,"Sandwiches, Southern and South of the Boarder",Agave,3.5,$$,Ashland,Oregon
+29,3,"Pretzels, Pork and Paella",Storm Castle Cafe,4.5,$$,Bozeman,Montana
+29,3,"Pretzels, Pork and Paella",La Terraza Rum Longe,4.0,$$,Little Rock,Arkansas
+29,3,"Pretzels, Pork and Paella",Flyway Brewing,4.0,$$,North Little Rock,Arkansas
+29,4,From Big Burgers to Little Italy,Zoftig Eatery,4.5,$$,Santa Rosa,California
+29,4,From Big Burgers to Little Italy,Bruno's Little Italy,4.0,$$,Little Rock,Arkansas
+29,4,From Big Burgers to Little Italy,North Bar,4.5,$$,Little Rock,Arkansas
+29,5,Meaty Mashup,The Fold: Botanas & Bar,4.0,$$,Little Rock,Arkansas
+29,5,Meaty Mashup,Simply Vietnam Express,3.5,$$,Santa Rosa,California
+29,5,Meaty Mashup,Cochon Volant BBQ,4.0,$$,Sonoma,California
+29,6,"Burgers, Bacon and BBQ",The Root Cafe,4.5,$$,Little Rock,Arkansas
+29,6,"Burgers, Bacon and BBQ",Eight Noodle Shop,3.5,$$,Napa,California
+29,6,"Burgers, Bacon and BBQ",Smoke Shack,4.0,$$,San Antonio,Texas
+29,7,From Sandwiches to Stroganoff,Wrigleyville,4.5,$,San Antonio,Texas
+29,7,From Sandwiches to Stroganoff,Fat Tummy,,,San Antonio,Texas
+29,7,From Sandwiches to Stroganoff,Zazu Kitchen + Farm,,,Sebastopol,California
+29,8,Regional Recipes,Dignowity Meats,,,San Antonio,Texas
+29,8,Regional Recipes,Ma Harper's Creole Kitchen,4.5,$$,San Antonio,Texas
+29,8,Regional Recipes,Taqueria Molcajetes,4.0,$$,Santa Rosa,California
+29,9,Cultural Twist,Finn's Cafe,,,Salt Lake City,Utah
+29,9,Cultural Twist,Red's Chinese,4.0,$$,New Orleans,Louisiana
+29,9,Cultural Twist,Curry Pizza,5.0,$,West Valley City,Utah
+29,10,Handy Helpings,Hruska's Kolaches,4.5,$,Salt Lake City,Utah
+29,10,Handy Helpings,Proper Burger Company,4.0,$$,Salt Lake City,Utah
+29,10,Handy Helpings,Rreal Tacos,4.0,$$,Atlanta,Georgia
+29,11,'Round the World Roundup,Yakitori Jinbei,4.0,$$,Smyrna,Georgia
+29,11,'Round the World Roundup,OneTaco,4.0,$,Austin,Texas
+29,11,'Round the World Roundup,Laziz Kitchen,4.5,$$,Salt Lake City,Utah
+29,12,Whole Lotta Comfort,Twisted Soul Cookhouse & Pours,4.0,$$,Atlanta,Georgia
+29,12,Whole Lotta Comfort,Purgatory,4.5,$$,Salt Lake City,Utah
+29,12,Whole Lotta Comfort,Valentina's,,,Austin,Texas
+29,13,Eating Up New Orleans,Piece of Meat,4.5,$$,New Orleans,Louisiana
+29,13,Eating Up New Orleans,Seither's Seafood,4.5,$$,New Orleans,Louisiana
+29,13,Eating Up New Orleans,Avery's on Tulane,4.5,$$,New Orleans,Louisiana
+29,14,Sandwich Showcase,Holy Roller,4.0,$$,Austin,Texas
+29,14,Sandwich Showcase,SLAB BBQ & Beer,4.5,$$,Austin,Texas
+29,14,Sandwich Showcase,Vinny's Bakery,4.5,$,Pasco,Washington
+29,15,Southern to South American,Greens & Gravy,3.5,$$,Atlanta,Georgia
+29,15,Southern to South American,Boteco,4.5,$$,Austin,Texas
+29,15,Southern to South American,Porter's Real Barbecue,4.5,$$,Richland,Washington
+29,16,Mega Meat and Sweet Treats,Hankook Taqueria,4.0,$$,Atlanta,Georgia
+29,16,Mega Meat and Sweet Treats,Pieous,4.5,$$,Austin,Texas
+29,16,Mega Meat and Sweet Treats,The Folded Pizza Pie,4.0,$,Richland,Washington
+29,17,"Belly, Beef and Bratwurst",Barley's Brewhub,3.5,$$,Kennewick,Washington
+29,17,"Belly, Beef and Bratwurst",Fable Diner,4.0,$$,Vancouver,British Columbia
+29,17,"Belly, Beef and Bratwurst",Pijiu Belly,4.0,$$,Atlanta,Georgia
+29,18,Coming Together in Cali,Grana,4.0,$$,Chico,California
+29,18,Coming Together in Cali,Upper Crust Bakery & Cafe,4.0,$,Chico,California
+29,18,Coming Together in Cali,The Banshee,4.0,$$,Chico,California
+29,19,Burger and Breakfast,The Pie Hole,4.0,$$,Vancouver,British Columbia
+29,19,Burger and Breakfast,Sin of Cortez,3.5,$$,Chico,California
+29,19,Burger and Breakfast,Ethos Bakery & Cafe,4.0,$$,Richland,Washington
+29,20,Not Your Everyday Eats,Frost Me Sweet Bakery & Bistro,,,Richland,Washington
+29,20,Not Your Everyday Eats,Momona,3.5,$$,Chico,California
+29,20,Not Your Everyday Eats,Tuc Craft Kitchen,4.0,$$,Vancouver,British Columbia
+30,1,A World of Barbecue,Tahini Nui,,,Kauai,Hawaii
+30,1,A World of Barbecue,Grand Ole BBQ,4.5,$$,San Diego,California
+30,1,A World of Barbecue,Locale BBQ Post,4.0,$$,Wilmington,Delaware
+30,2,"Sausage, Shawarma and Scaloppini",Tahini,4.5,$,San Diego,California
+30,2,"Sausage, Shawarma and Scaloppini",Corduroy Pie Co.,4.5,$$,Vancouver,British Columbia
+30,2,"Sausage, Shawarma and Scaloppini",Luigi Vitrone's Pastabilities Trattoria,4.0,$$,Wilmington,Delaware
