@@ -11,19 +11,24 @@ from vega_datasets import data
 app = dash.Dash(__name__, assets_folder='assets', external_stylesheets=[dbc.themes.UNITED])
 server = app.server
 
-app.title = 'Visual guide to Flavortown'
+app.title = 'Flavortown'
 
 # Import data
 df_choro = pd.read_csv('data/df_choropleth.csv')
 df_table = pd.read_csv('data/df_yelp.csv')
 
-loc_dict = []
+# Create list of regions for dropdown menu
+loc_list = []
 for loc in df_table['state'].unique():
-    loc_dict.append({'label': loc, 'value': loc})
+    loc_list.append({'label': loc, 'value': loc})
 
-season_dict = []
+# Sort regions in alphabetical order
+loc_list = sorted(loc_list, key = lambda i: i['label']) 
+
+# Create list of seasons for dropdown menu
+season_list = []
 for s in df_table['season'].unique():
-   season_dict.append({'label': s, 'value': s})
+   season_list.append({'label': s, 'value': s})
 
 states = alt.topo_feature(data.us_10m.url, feature='states')
 
@@ -44,7 +49,7 @@ def make_choropleth():
 
    locations = (alt
             .Chart(df_choro)
-            .mark_circle(size=10, color='red')
+            .mark_circle(size=15, color='red')
             .encode(
                longitude='longitude:Q',
                latitude='latitude:Q',
@@ -115,7 +120,7 @@ content = html.Div(
                         html.H6('Select region:'),
                         dcc.Dropdown(
                            id='region',
-                           options=loc_dict,
+                           options=loc_list,
                            value=['California', 'Texas', 'Florida'],
                            multi=True,
                            style={'width': '80%'}
@@ -123,7 +128,7 @@ content = html.Div(
                         html.H6('Select season:'),
                         dcc.Dropdown(
                            id='season',
-                           options=season_dict,
+                           options=season_list,
                            value=[2, 14, 29],
                            multi=True,
                            style={'width': '80%'}
@@ -141,8 +146,15 @@ content = html.Div(
                   fixed_rows={'headers': True},
                   page_size=20,
                   style_table={'height': '300px', 'overflowY': 'auto'},
+                  style_cell={'whiteSpace': 'normal', 'height': 'auto',},
+                  style_cell_conditional=[
+                     {'if': {'column_id': 'season'}, 'width': '7.5%'},
+                     {'if': {'column_id': 'episode'}, 'width': '7.5%'},
+                     {'if': {'column_id': 'rating'}, 'width': '7.5%'},
+                     {'if': {'column_id': 'price'}, 'width': '7.5%'},
+                  ]
                ),
-               width={'size': 6}
+               width={'size': 7}
             ),
          ]
       ),
@@ -174,6 +186,9 @@ app.layout = html.Div([
 )
 
 def update_table(region, season):
+
+   """Given user-specified regions and seasons, update the table of featured restaurants."""
+
    new_table = make_table(region, season).to_dict('records')
 
    return new_table
