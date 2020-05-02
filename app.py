@@ -86,7 +86,10 @@ header = html.Div(
                html.H1('A Visual Guide to Flavortown'),
                html.P("Diners, Drive-Ins and Dives is a popular TV show on Food Network hosted by celebrity chef Guy Fieri. Now on its 30th season, Diners, Drive-Ins and Dives showcases independent restaurants serving up delicious comfort food across North America."),
                html.P("This dashboard features an interactive map that allows you to discover the cities and restaurants visited by Fieri. You can also use the dropdown menus to filter the featured restaurants by season and/or location."),
-               ]), width=6),
+               ]
+            ),
+            width={'size': 5, 'offset': 1}
+         ),
          dbc.Col(
             html.Div(
                html.Img(src='https://chapspitbeef.com/wp-content/uploads/2017/11/diner-driveins-dives-logo.jpeg', width='60%')), 
@@ -164,10 +167,30 @@ content = html.Div(
 # Create footer
 footer = html.Div(
    [
-      html.P('Data:'),
-      html.A('List of Diners, Drive-Ins and Dives episodes', href='https://en.wikipedia.org/wiki/List_of_Diners,_Drive-Ins_and_Dives_episodes'),
-      html.P('Image:'),
-      html.A('Chaps Pit Beef', href='https://chapspitbeef.com/wp-content/uploads/2017/11/diner-driveins-dives-logo.jpeg'),
+      dbc.Row(
+         dbc.Col(
+            html.H6('Data:'),
+            width={'offset': 1}
+         )
+      ),
+      dbc.Row(
+         dbc.Col(
+             html.A('List of Diners, Drive-Ins and Dives episodes', href='https://en.wikipedia.org/wiki/List_of_Diners,_Drive-Ins_and_Dives_episodes'),
+             width={'offset': 1}
+         )
+      ),
+      dbc.Row(
+         dbc.Col(
+            html.H6('Image:'),
+            width={'offset': 1}
+         )
+      ),
+      dbc.Row(
+         dbc.Col(
+            html.A('Chaps Pit Beef', href='https://chapspitbeef.com/wp-content/uploads/2017/11/diner-driveins-dives-logo.jpeg'),
+            width={'offset': 1}
+         )
+      ),
    ]
 )
 
