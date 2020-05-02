@@ -60,6 +60,11 @@ def make_table(region=['California', 'Texas', 'Florida'], season=[2, 14, 29]):
    
    """Create a table of featured restaurants."""
 
+   if len(region) == 0:
+      region = df_table['state'].unique()
+   if len(season) == 0:
+      season = df_table['season'].unique()
+      
    table_state = df_table[df_table['state'].isin(region)] 
    table_season = df_table[df_table['season'].isin(season)]
 
@@ -112,14 +117,16 @@ content = html.Div(
                            id='region',
                            options=loc_dict,
                            value=['California', 'Texas', 'Florida'],
-                           multi=True
+                           multi=True,
+                           style={'width': '80%'}
                         ),
                         html.H6('Select season:'),
                         dcc.Dropdown(
                            id='season',
                            options=season_dict,
                            value=[2, 14, 29],
-                           multi=True
+                           multi=True,
+                           style={'width': '80%'}
                         ),
                      ]
                   ),
@@ -133,7 +140,7 @@ content = html.Div(
                   columns=[{'id': c, 'name': c} for c in df_table.columns],
                   fixed_rows={'headers': True},
                   page_size=20,
-                  style_table={'height': '300px', 'overflowY': 'auto'}
+                  style_table={'height': '300px', 'overflowY': 'auto'},
                ),
                width={'size': 6}
             ),
