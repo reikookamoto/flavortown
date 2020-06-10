@@ -1,4 +1,4 @@
-﻿# Visualizing *Diners, Drive-Ins and Dives*
+﻿# Visualizing *Diners, Drive-Ins and Dives* :pizza: :hamburger: :fries: 
 Visit the dashboard on [Heroku](https://diners-drive-ins-and-dives.herokuapp.com/)
 
 Note: please be patient as it can take a few seconds for the app to load :slightly_smiling_face:
